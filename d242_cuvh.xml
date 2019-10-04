@@ -28155,6 +28155,3487 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:is
           </scopecontent>
         </c02>
       </c01>
+	        <c01 audience="internal" id="aspace_7fd9546f9a286a1b23a846a260878377" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 audience="internal" id="aspace_b958309105739b14b3c5bacb5861cb5d" level="series">
+          <did>
+            <unittitle>Grape Varieties</unittitle>
+            <unitdate normal="1937/1964" type="inclusive">1937-1964</unitdate>
+          </did>
+          <c03 id="aspace_b2d0dfbb1d2573a05a2661a444f5f3c6" level="file">
+            <did>
+              <unittitle>Alicante Bouschet</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_7c41a6b69e34d897b621ccf0e33f96d4" label="box" type="Box">154</container>
+              <container id="aspace_55641bac63b45388779d5ff873fde0c8" parent="aspace_7c41a6b69e34d897b621ccf0e33f96d4"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_4b7e9ccec39e3b071523d1218492e0fe">
+              <head>Image Number</head>
+              <p>A-001</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_be5fe3f06078d5928e651d89c69d1f4a" level="file">
+            <did>
+              <unittitle>Alicante Bouschet</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_9aa11cfb2290912b7a96b3e1a8555ece" label="box" type="Box">154</container>
+              <container id="aspace_a0d92f10dc0b7854ea5a14d2f382d36d" parent="aspace_9aa11cfb2290912b7a96b3e1a8555ece"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_5cdcf9a7909851981045881214c338c1">
+              <head>Image Number</head>
+              <p>A-002</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_caa76f8e620c21c451d6819cc19826a5" level="file">
+            <did>
+              <unittitle>Alavrelhao</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_bdc7bfdee061ac530d77ab446448b7fe" label="box" type="Box">154</container>
+              <container id="aspace_80e8fbcf8da3bb3f6b68f3ea49d96172" parent="aspace_bdc7bfdee061ac530d77ab446448b7fe"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_23c6688fd0a75aa8aa0dc969544b612c">
+              <head>Image Number</head>
+              <p>A-002-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_827df188e9a59dbc63668f37e082ee9b" level="file">
+            <did>
+              <unittitle>Aligote</unittitle>
+              <origination audience="internal" label="creator">
+                <persname role="pht" rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1961-10/1961-10">October 1961</unitdate>
+              <container id="aspace_4463e53a6c608a0a63544adad04e8aa4" label="box" type="Box">154</container>
+              <container id="aspace_c18139204deb2523eb83c53a1280bf75" parent="aspace_4463e53a6c608a0a63544adad04e8aa4"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_d84cbb8ad63e3da7546e34853d51a1b9">
+              <head>Image Number</head>
+              <p>A-002-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0cd170d474761e65e01754abc58bad03" level="file">
+            <did>
+              <unittitle>Barbera</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_312d07a13f2056a610155138205e9866" label="box" type="Box">154</container>
+              <container id="aspace_2c1710cbf8b98451fc6396c9145ce330" parent="aspace_312d07a13f2056a610155138205e9866"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_936fec4c20cb05bddf433560decd6e88">
+              <head>Image Number</head>
+              <p>A-003-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_51fcf7b06afa0d23ed5e94fb5b14e536" level="file">
+            <did>
+              <unittitle>Aramon</unittitle>
+              <unitdate normal="1937-09-28/1937-09-28">September 28,1937</unitdate>
+              <container id="aspace_1c36c9c87876813a9531c99e1c8652f0" label="box" type="Box">154</container>
+              <container id="aspace_069059fa7b918aac00aa42bfb5379fa0" parent="aspace_1c36c9c87876813a9531c99e1c8652f0"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_53bde0fab42563fe88bb72062ea1ad04">
+              <head>Image Number</head>
+              <p>A-004</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1210a8a8bbff249c258586d0fb5fa94b" level="file">
+            <did>
+              <unittitle>Barbera</unittitle>
+              <unitdate normal="1937-09-28/1937-09-28">September 28,1937</unitdate>
+              <container id="aspace_15a8502b1c16d8f57f421afbb93beecd" label="box" type="Box">154</container>
+              <container id="aspace_474ce8adfe18d217e105d65227977eda" parent="aspace_15a8502b1c16d8f57f421afbb93beecd"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_a13d82bd86bc7f41f0eca81ce15d20ac">
+              <head>Image Number</head>
+              <p>A-005</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_38b3ab956f044e83b907fb63e5d9779e" level="file">
+            <did>
+              <unittitle>Barbera</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_a3fdc85cbcd13dc07347ffeb6dfb8b3f" label="box" type="Box">154</container>
+              <container id="aspace_5d33de5e535a559276d246d3745375e1" parent="aspace_a3fdc85cbcd13dc07347ffeb6dfb8b3f"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_69e6ceae8bdb7911074bb525049e75f2">
+              <head>Image Number</head>
+              <p>A-006</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_93332567456ea170db9b4360ddfc7a22" level="file">
+            <did>
+              <unittitle>Burger</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_65909dc62c8c08d9f2ae0aedff5bdedf" label="box" type="Box">154</container>
+              <container id="aspace_7d56cadd4aa77acac5ee330138d98a3b" parent="aspace_65909dc62c8c08d9f2ae0aedff5bdedf"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_747c67c81f33db821d66cdd5a805be9a">
+              <head>Image Number</head>
+              <p>A-007</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c22fe713e87e1eba06497a695ff56aad" level="file">
+            <did>
+              <unittitle>Burger</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_890d1d068c677215e8608817b3964dba" label="box" type="Box">154</container>
+              <container id="aspace_8605c5ab9d28ad15ec2ad79d9a085eb1" parent="aspace_890d1d068c677215e8608817b3964dba"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_4be8187030404314527f43e7265bd614">
+              <head>Image Number</head>
+              <p>A-008</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cae89e8b03ed5a58a5e91ed394ef57fa" level="file">
+            <did>
+              <unittitle>Grenache</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1e892c16c344362384a99c45b8db46b0" label="box" type="Box">154</container>
+              <container id="aspace_6119468cec6747e2d899232decc126c4" parent="aspace_1e892c16c344362384a99c45b8db46b0"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_bccd6c6f769494c5065a899642242110">
+              <head>Image Number</head>
+              <p>A-008-C</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_25d70f68d18f5572e9ad7b94e6b003cd" level="file">
+            <did>
+              <unittitle>Burger</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_5ee0f1564209a26e922d799683f0df24" label="box" type="Box">154</container>
+              <container id="aspace_c7ed0f1ceb96ac7317ae5beb6ed624db" parent="aspace_5ee0f1564209a26e922d799683f0df24"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_f5a01409f876b800494dc83d9d271ced">
+              <head>Image Number</head>
+              <p>A-009</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e83dcd8a78878bf40a2c4a0f48175c4a" level="file">
+            <did>
+              <unittitle>Burger</unittitle>
+              <unitdate normal="1937/1937">1937</unitdate>
+              <container id="aspace_9e9c6fb24d45a6f44163530658cf32a2" label="box" type="Box">154</container>
+              <container id="aspace_d7000a8fdd25ae72452672fceead8ff7" parent="aspace_9e9c6fb24d45a6f44163530658cf32a2"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_8619f4e9a8f8306585564bf067fcf218">
+              <head>Image Number</head>
+              <p>A-010</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e0b37411349f34685c7ff42931ba18da" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1961-10/1961-10">October 1961</unitdate>
+              <container id="aspace_4322852fe98922dcc32f7e74571a5dc3" label="box" type="Box">154</container>
+              <container id="aspace_877800c4e63f0b3d42424f552caa6e59" parent="aspace_4322852fe98922dcc32f7e74571a5dc3"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_87ab13acfef15f2175358d4e41fe25da">
+              <head>Image Number</head>
+              <p>A-010-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3a9f451693949ec7b0170e10eae0a02b" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_91a64ee246d97edd4827a2e7ca45ebcc" label="box" type="Box">154</container>
+              <container id="aspace_27aa89ba3832eb1b46a0fae37fb4ddb6" parent="aspace_91a64ee246d97edd4827a2e7ca45ebcc"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_0036a050ff306d1779ce2821e42dce38">
+              <head>Image Number</head>
+              <p>A-010-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cd25cd2faf1f2504970d7ddbd53cc30b" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_6a782779cbbbf5f6da9fca2111ebc719" label="box" type="Box">154</container>
+              <container id="aspace_26781ca180e9424138ede3c45c3325ca" parent="aspace_6a782779cbbbf5f6da9fca2111ebc719"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_012c4d9bb5c8699865f860330e60b6ea">
+              <head>Image Number</head>
+              <p>A-011</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_31c8bfcd37773d8cd1ad60790cb91891" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_ec5915f06bf7031942bf4887ddd03a5a" label="box" type="Box">154</container>
+              <container id="aspace_05e55b3bcf64806e1b5b8c6db5cc78cd" parent="aspace_ec5915f06bf7031942bf4887ddd03a5a"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_639ff38910c082de9b24992234a3e79f">
+              <head>Image Number</head>
+              <p>A-012</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a960c495ecdc3adf39a0f0f02ea1eed0" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_da9ef16ee4c6b8660683300731ca5587" label="box" type="Box">154</container>
+              <container id="aspace_e292bef02a61f035c41dc60f119a6c2e" parent="aspace_da9ef16ee4c6b8660683300731ca5587"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_5db803180a4d20aef46878e0a6b52c75">
+              <head>Image Number</head>
+              <p>A-013</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_29ab0a362139f5b6927988d26d928931" level="file">
+            <did>
+              <unittitle>Cabernet Sauvignon</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_926c594cfca3ca7e15b2796bea2f68a2" label="box" type="Box">159</container>
+              <container id="aspace_7ab91f3b600ed2689c227be2b0c4d4a9" parent="aspace_926c594cfca3ca7e15b2796bea2f68a2"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_10e998ee0aa360e8e2f43489bc52f09c">
+              <head>Image Number</head>
+              <p>A-004c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2c232074881650c970a93465fecf41b6" level="file">
+            <did>
+              <unittitle>Carignane</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_b55d6ceda7b13253d56cd1a050cbf71a" label="box" type="Box">155</container>
+              <container id="aspace_56a03f18d8904745252b8004971cb205" parent="aspace_b55d6ceda7b13253d56cd1a050cbf71a"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_bc607468563a27a3b24862fd8a7b256a">
+              <head>Image Number</head>
+              <p>A-021</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_dbf3c8ceeff2df6d859757aa1219c112" level="file">
+            <did>
+              <unittitle>Carignane</unittitle>
+              <unitdate normal="1937-09-09/1937-09-09">September 9, 1937</unitdate>
+              <container id="aspace_631ba77bae0cc898ee8d4ae90691b4cb" label="box" type="Box">155</container>
+              <container id="aspace_500f29b5bdb1d5b648f100d0414f9f6e" parent="aspace_631ba77bae0cc898ee8d4ae90691b4cb"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_c05752fa7d33fae5a019ebbc5424fce8">
+              <head>Image Number</head>
+              <p>A-014</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d6f97cab7641a9a337377b981956d333" level="file">
+            <did>
+              <unittitle>Carignane</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_719aecb1615b717eee110092a1cfaa87" label="box" type="Box">155</container>
+              <container id="aspace_da790cb907935d48804dd872645acf02" parent="aspace_719aecb1615b717eee110092a1cfaa87"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_26a1010131abc404bdd7f7df7afb5b9c">
+              <head>Image Number</head>
+              <p>A-015</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_967a41ea39da47478ae0ac678625e159" level="file">
+            <did>
+              <unittitle>Charbono grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c6485736a6798220bab30c00a1a9b8c1" label="box" type="Box">155</container>
+              <container id="aspace_0d2af3f31bf5bcddbfcd1ae6d6cb5216" parent="aspace_c6485736a6798220bab30c00a1a9b8c1"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_74c3900866dce52cd48176719d630898">
+              <head>Image Number</head>
+              <p>A-016</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e5772d8a01e654108a2a0f531f369d79" level="file">
+            <did>
+              <unittitle>Charbono</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_7e41337b5fb37b05e028a5037799e289" label="box" type="Box">197</container>
+              <container id="aspace_de54092a6435def3e165bd9f9e510a6d" parent="aspace_7e41337b5fb37b05e028a5037799e289"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_e4bec30f38c8a2787154880f7cc67f02">
+              <head>Image Number</head>
+              <p>GV5-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ed781ff08e7a6b59009ab87f164aef47" level="file">
+            <did>
+              <unittitle>Charbono</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_bf0ee5332286689a02c58f4fa5393804" label="box" type="Box">159</container>
+              <container id="aspace_dcc09c5a783b0ac405671672eb53d4af" parent="aspace_bf0ee5332286689a02c58f4fa5393804"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_7cb356f627d4e23c4080d19328614abd">
+              <head>Image Number</head>
+              <p>A-005c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cf84ab2f8960ad3cd976739b017cb433" level="file">
+            <did>
+              <unittitle>Chardonnay grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_15d74d7e5bcf2b9fd876c03499a6217b" label="box" type="Box">155</container>
+              <container id="aspace_b78d8a7f7b769036e09d9ab53aaf0753" parent="aspace_15d74d7e5bcf2b9fd876c03499a6217b"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_e23d67ee1262fef4e7df8dc15a891e45">
+              <head>Image Number</head>
+              <p>A-017</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_165195664b148e326bfb358b47374305" level="file">
+            <did>
+              <unittitle>Chardonnay</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_5838d11014dc3e555340df94e66b7271" label="box" type="Box">197</container>
+              <container id="aspace_1be73305749bdbf20c84d00ed102635d" parent="aspace_5838d11014dc3e555340df94e66b7271"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_eef720052a2ebf93aa48eb11dbd6ba88">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c5775b43756b0ed1a9989a751a882b99" level="file">
+            <did>
+              <unittitle>Chasselas Dore (Golden Chasselas)</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_b8527b942cb794b4942b1e3dba57a06a" label="box" type="Box">155</container>
+              <container id="aspace_9c03da94e4a4df9e5e92a6c81e5f4807" parent="aspace_b8527b942cb794b4942b1e3dba57a06a"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_373ec253901f6e0ea66d39e044079aa4">
+              <head>Image Number</head>
+              <p>A-018</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d9633b16a20fe3a1ef344704fbc7ac10" level="file">
+            <did>
+              <unittitle>Chenin Blanc</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ef7250453bfd90f70e774ae6f147a403" label="box" type="Box">197</container>
+              <container id="aspace_5abf3df0067efc80e6c81fcc6f4a6cb6" parent="aspace_ef7250453bfd90f70e774ae6f147a403"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_b69b1e2a7e7d18cc5726192877863105">
+              <head>Image Number</head>
+              <p>GV8</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1cdbf66c17b69c1b5548a8d55b0867a6" level="file">
+            <did>
+              <unittitle>Chenin Blanc</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_3c0bdb68131b1375bd0cc1bc30a07b2b" label="box" type="Box">159</container>
+              <container id="aspace_874019e53526501e4d594d6ff7cf044b" parent="aspace_3c0bdb68131b1375bd0cc1bc30a07b2b"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_cae5c9e76834028020adfe08b5b36ffc">
+              <head>Image Number</head>
+              <p>A-004c-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c066000f7e985cadef959e07af8cf450" level="file">
+            <did>
+              <unittitle>Colombard, Davis</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_e33fb506afc9aeae08f6ef8263f021c4" label="box" type="Box">158</container>
+              <container id="aspace_1d4ecd4372db9341173c01b6ef7237c5" parent="aspace_e33fb506afc9aeae08f6ef8263f021c4"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_0da20d1026df09294d444f9ed92cfb96">
+              <head>Image Number</head>
+              <p>A-053-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_705dc3d9a6b3c97f2126647fe722432c" level="file">
+            <did>
+              <unittitle>Flame Tokay</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_6cce67a6f1f323a4fed5394221f960ad" label="box" type="Box">158</container>
+              <container id="aspace_92247293773dd708c58acb8135d2b6f5" parent="aspace_6cce67a6f1f323a4fed5394221f960ad"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_e3cc633abb0d7713408e74af2038e229">
+              <head>Image Number</head>
+              <p>A-058</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1254c11b760122eaabfe76a9a4e7cee5" level="file">
+            <did>
+              <unittitle>Flame Tokay, Lodi</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_c1ae30926db282fda79488ae3a048e79" label="box" type="Box">159</container>
+              <container id="aspace_8dea0c26d1398107fa55425b4b40b5a5" parent="aspace_c1ae30926db282fda79488ae3a048e79"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_47183f324279b6208caa7d7bdcdb995b">
+              <head>Image Number</head>
+              <p>A-059</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_04305dae891573190cda82827c6cb146" level="file">
+            <did>
+              <unittitle>Flame Tokay, Lodi</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_0ef1af146c194f19f0a4563cd39fd642" label="box" type="Box">159</container>
+              <container id="aspace_e587867f03b9bca96de4e69bc80ddb01" parent="aspace_0ef1af146c194f19f0a4563cd39fd642"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_72f95b0de6c3e1916e3b870191cd8208">
+              <head>Image Number</head>
+              <p>A-060</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_35a9b5aeda19a6ee0d6ec939879edde8" level="file">
+            <did>
+              <unittitle>Folle Blanche grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_7c5ccb62731ff5d1dc76ed6fdfa9f5c9" label="box" type="Box">155</container>
+              <container id="aspace_d4a1306604f92d15fb690bc6a5392711" parent="aspace_7c5ccb62731ff5d1dc76ed6fdfa9f5c9"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_990d4228edb0d8ba7486f9ddc30abb48">
+              <head>Image Number</head>
+              <p>A-023</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9ddef9b1b24df27200a32fd290766cab" level="file">
+            <did>
+              <unittitle>Folle Blanche</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_0787b472c029b41a61b9fba5aefdfb88" label="box" type="Box">155</container>
+              <container id="aspace_1e53217d18a734099691538d98214abb" parent="aspace_0787b472c029b41a61b9fba5aefdfb88"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_30348d3a386ae149361134732388a73f">
+              <head>Image Number</head>
+              <p>A-022</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_5e75b644547a03b0cc9e8ad3797a6264" level="file">
+            <did>
+              <unittitle>Franken Riesling Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_4d80131d3a77c6467820b4bcefc4b699" label="box" type="Box">158</container>
+              <container id="aspace_ba540a5a5df8db23abef9f5069effc97" parent="aspace_4d80131d3a77c6467820b4bcefc4b699"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_8e2a6927e8f98c1989984bcf9fb406b5">
+              <head>Image Number</head>
+              <p>A-048</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ea3cd1a62c9ff6822ebd5bd3f3d576b3" level="file">
+            <did>
+              <unittitle>Gamay Grapevine</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_68ed44c43ed6c0b5f161cf7b931ec44b" label="box" type="Box">155</container>
+              <container id="aspace_1ac0d5fbd183d117e05c376d1e204a18" parent="aspace_68ed44c43ed6c0b5f161cf7b931ec44b"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_7bb44974a3bc0f8760f6e5b652eea0e7">
+              <head>Image Number</head>
+              <p>A-024</p>
+            </odd>
+            <odd id="aspace_052a7e10300eb181eaa1b3a8c174386b">
+              <head>Caption</head>
+              <p>A Gamay grapevine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f802e9776666714fc43c74949afdf3bf" level="file">
+            <did>
+              <unittitle>Gamay Beaujolais</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_eebf52da47b83339c152de709adf60d8" label="box" type="Box">155</container>
+              <container id="aspace_eae7da4e5cb53bdd4c1f80d2f54f84a1" parent="aspace_eebf52da47b83339c152de709adf60d8"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_f58ca8e0a2e64d0fa704cb9d79a460ba">
+              <head>Image Number</head>
+              <p>A-025</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_67d22180c6cdb9146df312c9f3e13a9e" level="file">
+            <did>
+              <unittitle>Gamay Beaujolais</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1961-10/1961-10">October 1961</unitdate>
+              <container id="aspace_02b7d106018237220db8b47b9f2deef6" label="box" type="Box">155</container>
+              <container id="aspace_8c690d1fc011e7f4bc5a16e69d2964f6" parent="aspace_02b7d106018237220db8b47b9f2deef6"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_2278e4fef2a5dab56bc770071637b0f1">
+              <head>Image Number</head>
+              <p>A-024-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2c37263dc7dd21eb87a0e0adc62ed4c2" level="file">
+            <did>
+              <unittitle>Grenache</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1937-09-28/1937-09-28">September 28, 1937</unitdate>
+              <container id="aspace_7473a0b4feb5875efae35dcddb1d77d0" label="box" type="Box">155</container>
+              <container id="aspace_a361ac26d8dfd9113bd4969e2d97b785" parent="aspace_7473a0b4feb5875efae35dcddb1d77d0"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_7f8db6d0c354dce32ac9d8b6556752af">
+              <head>Image Number</head>
+              <p>A-026</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_833075b031008e59925a30f4b28281f9" level="file">
+            <did>
+              <unittitle>Grenache</unittitle>
+              <unitdate normal="1937-09-28/1937-09-28">September 28, 1937</unitdate>
+              <container id="aspace_3a3b1e66031c917bf9043b072aa13d45" label="box" type="Box">157</container>
+              <container id="aspace_1fd3c131af5630d80f6e975396147ad9" parent="aspace_3a3b1e66031c917bf9043b072aa13d45"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_190090d7ea3bb093f8cfb3c4a97449a4">
+              <head>Image Number</head>
+              <p>A-027</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a967eb91b206da93e0b7988b11494409" level="file">
+            <did>
+              <unittitle>Grenache</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1962-09/1962-09">September 1962</unitdate>
+              <container id="aspace_d5e8265c5bacf5a96ab7b5418f758bbf" label="box" type="Box">157</container>
+              <container id="aspace_3273c7f77f9d9dcd0ef13d0a9237042d" parent="aspace_d5e8265c5bacf5a96ab7b5418f758bbf"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_a7b95afa2623448c08d5c6a73cf9fd12">
+              <head>Image Number</head>
+              <p>A-026-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_33be67de22ff1ae3e1a117451ad2eb9c" level="file">
+            <did>
+              <unittitle>Grenache</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_fe06825aa59c793be35a5875f84d5755" label="box" type="Box">197</container>
+              <container id="aspace_bd63c502e2eae08e3f02f5756db9522b" parent="aspace_fe06825aa59c793be35a5875f84d5755"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_2462784fe212d59275230589937054dd">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8ef596510a679595892bbc61256a94f1" level="file">
+            <did>
+              <unittitle>Grey Riesling Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_98705981ae14ed2f27b8c7c10520d777" label="box" type="Box">158</container>
+              <container id="aspace_99e85f444b8c6f97281765d255191b08" parent="aspace_98705981ae14ed2f27b8c7c10520d777"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_86f91946ec5b1af4f42831153a804e24">
+              <head>Image Number</head>
+              <p>A-047</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8bf88155fa277abe007a76b8d5bf0488" level="file">
+            <did>
+              <unittitle>Grignolino Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_61e8569891bf883f3dd22735775bfa78" label="box" type="Box">157</container>
+              <container id="aspace_c4bf4a7d3d352b794cedc96dce80e783" parent="aspace_61e8569891bf883f3dd22735775bfa78"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_f6eff3be79d3ae503bec2cca987d81d3">
+              <head>Image Number</head>
+              <p>A-028</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9d2641f160edabfa1ecb40a72a0ba655" level="file">
+            <did>
+              <unittitle>Grignolino</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1077f17387e390f3a48dae88aa64a2cb" label="box" type="Box">159</container>
+              <container id="aspace_c97087e2d2c2b3bfcc33780ad9fd830a" parent="aspace_1077f17387e390f3a48dae88aa64a2cb"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_4fb93208e4f1d0edee84d27e449ff608">
+              <head>Image Number</head>
+              <p>A-009c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3aa150c132ca8e135a11166a3d564ed0" level="file">
+            <did>
+              <unittitle>Grignolino</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_effc81a1c66278bcf4af893070a35a9d" label="box" type="Box">154</container>
+              <container id="aspace_7131f1cec915e3f1abfcb7f1e5d56d29" parent="aspace_effc81a1c66278bcf4af893070a35a9d"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_d14133a981f4282ba0504d7ba29c25be">
+              <head>Image Number</head>
+              <p>A-009-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3f6b2f0d0ccea7b1d13843baf5694f09" level="file">
+            <did>
+              <unittitle>Johannisburg Riesling</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_338afb9792061d620147f7517a8f176b" label="box" type="Box">158</container>
+              <container id="aspace_99443d4a4d31def23eac8032bc967e21" parent="aspace_338afb9792061d620147f7517a8f176b"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_2aa8ecdc223ba1ea268de689b7e07310">
+              <head>Image Number</head>
+              <p>A-046</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8640c7a2b9720bfba3e585968fb78d97" level="file">
+            <did>
+              <unittitle>Malaga</unittitle>
+              <unitdate normal="1957-09/1957-09">September 1957</unitdate>
+              <container id="aspace_0c89946f969304fe7c7e2433e4c7e340" label="box" type="Box">157</container>
+              <container id="aspace_e887a8d68567c4e3cf25da4b32f12b98" parent="aspace_0c89946f969304fe7c7e2433e4c7e340"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_e293e190c6da4c176b3f2e54f3f3c7c5">
+              <head>Image Number</head>
+              <p>A-028-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0578bfcc0745bcc842a2c5175be4bcb5" level="file">
+            <did>
+              <unittitle>Mataro</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_2cc6fff9a95690b6c96146ae6c27a43d" label="box" type="Box">157</container>
+              <container id="aspace_7702f7c70a45087b25890471a8cd3901" parent="aspace_2cc6fff9a95690b6c96146ae6c27a43d"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_2bfdb60b78a6ab3c3d0bf48b60db4396">
+              <head>Image Number</head>
+              <p>A-029</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bbf766e62f854580aaab9e5eada416a2" level="file">
+            <did>
+              <unittitle>Mission</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_c7c32a1bcba3e712449c0361af6ebe6c" label="box" type="Box">157</container>
+              <container id="aspace_cd5c36f9a5a06aea150c22b2e87eaa8f" parent="aspace_c7c32a1bcba3e712449c0361af6ebe6c"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_36da8e3b722d9107281310b9ccf7441b">
+              <head>Image Number</head>
+              <p>A-030</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_5427b3dac086da6a0a2187ad34d558de" level="file">
+            <did>
+              <unittitle>Mission</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_c8b58fc46214561581d57d0f35342953" label="box" type="Box">157</container>
+              <container id="aspace_37b8bff8e149b5db97075881512a0127" parent="aspace_c8b58fc46214561581d57d0f35342953"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_0a1aea023800ce180b8dda0ba3352238">
+              <head>Image Number</head>
+              <p>A-031</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4d5057fdc8a8ac3713f36992e88e3466" level="file">
+            <did>
+              <unittitle>Mission</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_2c813af31f56795f4d80526695400dd9" label="box" type="Box">157</container>
+              <container id="aspace_919547f60383c3364b5bea5ed2c86674" parent="aspace_2c813af31f56795f4d80526695400dd9"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_f19a027c482b22dce8c033cf4b773518">
+              <head>Image Number</head>
+              <p>A-032</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_63682e7751bea18f6e634fa95428bded" level="file">
+            <did>
+              <unittitle>Mission</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_9aa58b49f1bf94e50caa91fbe1b38c38" label="box" type="Box">159</container>
+              <container id="aspace_4e6f571f20600ec9bf1da752c5d5410e" parent="aspace_9aa58b49f1bf94e50caa91fbe1b38c38"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_65a7dfe0c47536a1c3759b4d9f8fefd1">
+              <head>Image Number</head>
+              <p>A-011c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_b28a07cb1e6e82a4e9a18345ead0f059" level="file">
+            <did>
+              <unittitle>Mission</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_bb8891c00ac15bb877dfe261f56f1f42" label="box" type="Box">154</container>
+              <container id="aspace_c87047ec202c0031ff0397723422c87c" parent="aspace_bb8891c00ac15bb877dfe261f56f1f42"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_31b5f7c8be81c7471cec91a306bd3728">
+              <head>Image Number</head>
+              <p>A-011-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7272ce53a2f2bda3fe52b20310195d62" level="file">
+            <did>
+              <unittitle>Mondeuse Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_05b06b6ec3056acdb2975b7e22b45b71" label="box" type="Box">157</container>
+              <container id="aspace_e14664bac1a412bf8123529cf80e3d12" parent="aspace_05b06b6ec3056acdb2975b7e22b45b71"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_92be961f2bef6260438d4f40e81efa21">
+              <head>Image Number</head>
+              <p>A-033</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_683e6feaa4915002d9ab9c1f9e178dd7" level="file">
+            <did>
+              <unittitle>Mondeuse</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_95b301a85504434b5ef1c8e597eb35e3" label="box" type="Box">159</container>
+              <container id="aspace_3a240bb3b83312d29fa4ce02ab5f6213" parent="aspace_95b301a85504434b5ef1c8e597eb35e3"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_19f6f04f57fd26eeabdb5ff8b7b3b5fa">
+              <head>Image Number</head>
+              <p>A-012c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e7808d31160422d40eecd45c72224024" level="file">
+            <did>
+              <unittitle>Muscat of Alexandria</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_353ee8af050f9e7f3b8c48f457c2f6b6" label="box" type="Box">157</container>
+              <container id="aspace_b8e7099b7f4f3f13d36d5fcf9090d78c" parent="aspace_353ee8af050f9e7f3b8c48f457c2f6b6"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_8861e2da2d695df4d7d08c9d291e97b4">
+              <head>Image Number</head>
+              <p>A-035</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1aa17f2e8eebdac293a9914e44991484" level="file">
+            <did>
+              <unittitle>Muscat of Alexandria</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_c24ac447bba65a99e32efef5db9033aa" label="box" type="Box">157</container>
+              <container id="aspace_560001ee078f0b2cfd4f0885a03e066d" parent="aspace_c24ac447bba65a99e32efef5db9033aa"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_2a599c01d9b4116f951ec02914bbbf2f">
+              <head>Image Number</head>
+              <p>A-036</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_677256b44380364006a13c3bdb3694a0" level="file">
+            <did>
+              <unittitle>Muscat of Alexandria</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_92c34eca818d050684563856e62b9982" label="box" type="Box">157</container>
+              <container id="aspace_7a2de7007223d7c48cf7cbff32a9e3c4" parent="aspace_92c34eca818d050684563856e62b9982"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_8596390e6cf13ee7ad0e1b359f317fa9">
+              <head>Image Number</head>
+              <p>A-034</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fe0e2321546213d7370cc9f05729fa79" level="file">
+            <did>
+              <unittitle>Muscat de Frontignan Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_dd692b483f2bd32b1e0ae4b75155207b" label="box" type="Box">157</container>
+              <container id="aspace_2b260ff699b56e81d95eba435b7c8441" parent="aspace_dd692b483f2bd32b1e0ae4b75155207b"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_b73053590cad480e52b91d443d4a6fd8">
+              <head>Image Number</head>
+              <p>A-037</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2ef14ab5edbbab86d71d699e67c38213" level="file">
+            <did>
+              <unittitle>Palomino</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_f2be4d5b5582d91a693847f4ba781975" label="box" type="Box">157</container>
+              <container id="aspace_4dcb75d814bce51365174bce6eec6316" parent="aspace_f2be4d5b5582d91a693847f4ba781975"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_4afda88bf66daa6adadccd76cf7925ca">
+              <head>Image Number</head>
+              <p>A-040-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3e9cf54d7c47dc90c37b6da93226906f" level="file">
+            <did>
+              <unittitle>Palomino</unittitle>
+              <unitdate normal="1957-09/1957-09">September 1957</unitdate>
+              <container id="aspace_3636cc25b720672b1d9e9e6c3e50cd8e" label="box" type="Box">157</container>
+              <container id="aspace_ffd87af35ff264e972686a6c9c8b0f9c" parent="aspace_3636cc25b720672b1d9e9e6c3e50cd8e"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_4eb5cdf0e54b276edc73fca82f8168d1">
+              <head>Image Number</head>
+              <p>A-040</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e008e3d17616374e6b2b049eec897cc1" level="file">
+            <did>
+              <unittitle>Palomino Grapes (Napa Golden Chasselas)</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_5e82bbd48c3aedb57ca83050734c4f88" label="box" type="Box">157</container>
+              <container id="aspace_36a822d55bb51c2e1a826066709ab291" parent="aspace_5e82bbd48c3aedb57ca83050734c4f88"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_e998c77421f962c7f3153d3c6454927a">
+              <head>Image Number</head>
+              <p>A-041</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_684be6b54255f4b5d138e4a6efe964ef" level="file">
+            <did>
+              <unittitle>Palomino</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_64c303adadb680da1b54c340964fef18" label="box" type="Box">159</container>
+              <container id="aspace_35ee88feb8400fcd7460023bf0e04325" parent="aspace_64c303adadb680da1b54c340964fef18"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_7414d8360c77ea86acc23c893181fb6c">
+              <head>Image Number</head>
+              <p>A-013c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_52f64f1b1ffe2e690edaaed39400b6cd" level="file">
+            <did>
+              <unittitle>Petite Sirah</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_7d9c064e3743e8912234d6663ea1f745" label="box" type="Box">157</container>
+              <container id="aspace_eda93f71433ae5a5c9f69cf5bad0c2aa" parent="aspace_7d9c064e3743e8912234d6663ea1f745"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_d1e986f74eb70d2280ec5fcaea45f75c">
+              <head>Image Number</head>
+              <p>A-042</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e5250d290dfff9133220f31d2250cf73" level="file">
+            <did>
+              <unittitle>Petite Sirah</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_e25daa2ee20a2799e08bff29788e95ef" label="box" type="Box">157</container>
+              <container id="aspace_5fee3a114d5c15993c8306bfefdc71ab" parent="aspace_e25daa2ee20a2799e08bff29788e95ef"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_667acb0d0dada82909d1eb59216d87a2">
+              <head>Image Number</head>
+              <p>A-043</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7b955cc6e179cce215c3897203aae9c4" level="file">
+            <did>
+              <unittitle>Petite Sirah</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1961-10/1961-10">October 1961</unitdate>
+              <container id="aspace_d37bf2f594f0b7c9e011f575f717fb03" label="box" type="Box">157</container>
+              <container id="aspace_764573e424d5fc2bbd5e4d43cf792df3" parent="aspace_d37bf2f594f0b7c9e011f575f717fb03"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_e11693f890176bd179c130733c8743cb">
+              <head>Image Number</head>
+              <p>A-042-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_91a61f976bc1370f315bbe79e790e1c3" level="file">
+            <did>
+              <unittitle>Pinot Blanc Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_84d74f67735e422daf6e99317536bd7e" label="box" type="Box">158</container>
+              <container id="aspace_40b8163e58c7e0b9f68d57f3a55022b9" parent="aspace_84d74f67735e422daf6e99317536bd7e"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_2c341e507bd9b6ba5700a2a01debff74">
+              <head>Image Number</head>
+              <p>A-044</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_948c0612596b29f509fc1563494c5dda" level="file">
+            <did>
+              <unittitle>Pinot Chardonnay</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c03ce12e1166e345c36b027c872679fa" label="box" type="Box">159</container>
+              <container id="aspace_0797aab64c31da9911aac3c02bbff7ad" parent="aspace_c03ce12e1166e345c36b027c872679fa"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_8e74b96c167f93ce44f18d3ba6465ffa">
+              <head>Image Number</head>
+              <p>A-016c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d16085fccf0ceb2e090f4b2385c343fc" level="file">
+            <did>
+              <unittitle>Pinot Noir Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_522b74d17f67f1a039062dfed38ca9d4" label="box" type="Box">158</container>
+              <container id="aspace_54678d121a39a42d4592a2bc0fa8e402" parent="aspace_522b74d17f67f1a039062dfed38ca9d4"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_013422853017d41c43ab0fc6c7e9966e">
+              <head>Image Number</head>
+              <p>A-045</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_07a42b54e989194633189b79d240f7b3" level="file">
+            <did>
+              <unittitle>Pinot Noir</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_43e38188cbd7f2fb34df96e3c9e127f8" label="box" type="Box">155</container>
+              <container id="aspace_0518550fadea06242d33a2274a63b1b2" parent="aspace_43e38188cbd7f2fb34df96e3c9e127f8"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_f020230f39970ddba08191f565ec9635">
+              <head>Image Number</head>
+              <p>A-017-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_38d83b75e841dcc14fb700d01ec7d6f1" level="file">
+            <did>
+              <unittitle>Pinot Noir</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_048fbc4739b40c6e457dec7ca9ec1759" label="box" type="Box">159</container>
+              <container id="aspace_fac246e04781231ebc1e18446488bb66" parent="aspace_048fbc4739b40c6e457dec7ca9ec1759"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_12eb3a9690b5705bbd3acbc9e3a5223f">
+              <head>Image Number</head>
+              <p>A-017c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_964c001a9ab81aeef648c7bed28c1e2e" level="file">
+            <did>
+              <unittitle>Riesling</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_e0a4f0f0a08ea90a42f006db5f177722" label="box" type="Box">197</container>
+              <container id="aspace_4599c507cdc84ca9479033b5f7111533" parent="aspace_e0a4f0f0a08ea90a42f006db5f177722"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_c9918234d178b2d3186ab20857da3a37">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ae867a3fdf3982cdb508e04faefbe086" level="file">
+            <did>
+              <unittitle>Ruby Cabernet</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c5f0bb03efc430f6c68bb34bd30ecf55" label="box" type="Box">197</container>
+              <container id="aspace_0044c9c0f7efc0e8bfabd879bcc6a6e4" parent="aspace_c5f0bb03efc430f6c68bb34bd30ecf55"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_7583f00fa08a8430e497d2a57bd4171a">
+              <head>Image Number</head>
+              <p>A-026c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4a7cb71db4eccd9f237193ccde5e8ece" level="file">
+            <did>
+              <unittitle>Saint Emilion (Wente Bros., Livermore)</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_22697c6b89e29f016e76b7441f85a3f1" label="box" type="Box">158</container>
+              <container id="aspace_c3a622d0f7aed8a40ea72bd513c91cd5" parent="aspace_22697c6b89e29f016e76b7441f85a3f1"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_8e9d75d2520e8d4027673e1753beb71f">
+              <head>Image Number</head>
+              <p>A-049</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c41336f7948841df88b6fdaf6df934bd" level="file">
+            <did>
+              <unittitle>Saint Macaire, Oakville</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_3df99bdfba56b0c9b8932276ab1afcff" label="box" type="Box">158</container>
+              <container id="aspace_d2e0382010ec2e48ea4c4e50b69e80e9" parent="aspace_3df99bdfba56b0c9b8932276ab1afcff"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_bc8a0de15d02d122032618bf81519485">
+              <head>Image Number</head>
+              <p>A-050</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_847c3e0b9abd243f0634a20a09de6e5f" level="file">
+            <did>
+              <unittitle>Sauvignon Blanc, Livermore (Old Vineyard, Wente Bros.)</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_f2878d9bb46425651baba71b404e509f" label="box" type="Box">158</container>
+              <container id="aspace_91a2ad8932ad7b849617d9f7504b166e" parent="aspace_f2878d9bb46425651baba71b404e509f"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_21fe72ca0941b67225b1eaec4bcc1d0d">
+              <head>Image Number</head>
+              <p>A-051</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a18a69228aa92d97f02da247e5cf5cea" level="file">
+            <did>
+              <unittitle>Sauvignon Blanc, Livermore (Old Vineyard, Wente Bros.)</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_e75616d8485a4e7bf8ed108a4a98c55d" label="box" type="Box">158</container>
+              <container id="aspace_0a7f6b08587cc07b4305e653d4083ff4" parent="aspace_e75616d8485a4e7bf8ed108a4a98c55d"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_188b3ea0662c526e94d055a683b0d76b">
+              <head>Image Number</head>
+              <p>A-052</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_043944a440b94504893ac43be8546ae3" level="file">
+            <did>
+              <unittitle>Sauvignon Blanc Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_28362ae2f1e6bb522b938ab1a2bfb314" label="box" type="Box">158</container>
+              <container id="aspace_4ed1803299582d3660b896c8c12a5140" parent="aspace_28362ae2f1e6bb522b938ab1a2bfb314"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_106e6ce45ba96340f7759d9b39b3ee90">
+              <head>Image Number</head>
+              <p>A-053</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c88fad4481b15c691ba7ce20b7eb9ad7" level="file">
+            <did>
+              <unittitle>Sauvignon Blanc</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_cd97ab75048aac5659c1fbb689feb6e6" label="box" type="Box">197</container>
+              <container id="aspace_1353f39e8d7b0ed38a79c5c9a41b050e" parent="aspace_cd97ab75048aac5659c1fbb689feb6e6"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_9baaec519a092bee663776ce9dc81a75">
+              <head>Image Number</head>
+              <p>A-018c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_44d14e551f65f0bef5de54eb9a4ffe75" level="file">
+            <did>
+              <unittitle>Sauvignon Blanc</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_20cb20a18c02e261858161113ed21e4a" label="box" type="Box">197</container>
+              <container id="aspace_0c784c0a311fca6604efd2cf4a05094a" parent="aspace_20cb20a18c02e261858161113ed21e4a"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_dee49d83d98119aa47a793a7923b807c">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ed434d0fe81681ae576bc21d7f81ec83" level="file">
+            <did>
+              <unittitle>Semillon</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_922dc0bf6ded119b66a08495675a3345" label="box" type="Box">158</container>
+              <container id="aspace_b54f41b947aec3d0c855ed835d0fcce1" parent="aspace_922dc0bf6ded119b66a08495675a3345"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_7a089aa5709496b43b33be73191b75dc">
+              <head>Image Number</head>
+              <p>A-054-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7a13959baee8bb2f7676b6b5db3b6b0c" level="file">
+            <did>
+              <unittitle>Semillon Vine, Livermore (Old Vineyard, Wente Bros.)</unittitle>
+              <unitdate normal="1937-09/1937-09">September 1937</unitdate>
+              <container id="aspace_e9630226d4571ac015e97af7e0ec6f59" label="box" type="Box">158</container>
+              <container id="aspace_e5a8bfc71840edbbf8df602bdaca8dff" parent="aspace_e9630226d4571ac015e97af7e0ec6f59"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_02db3bd350611ec90f022393025a9c61">
+              <head>Image Number</head>
+              <p>A-055</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_04adf94d4c1846fb7d5870a8b3e90808" level="file">
+            <did>
+              <unittitle>Semillon Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_c56b5df011c3582280dd363d20dace8c" label="box" type="Box">158</container>
+              <container id="aspace_d1070ff8bc0c7870c1ee494e7fddee0e" parent="aspace_c56b5df011c3582280dd363d20dace8c"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_27ef69458dc3683ffc8105377d597eac">
+              <head>Image Number</head>
+              <p>A-056</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a7cdfd375d9439e4ec7d280ca799b004" level="file">
+            <did>
+              <unittitle>Semillon, Livermore (Old Vineyard, Wente Bros.)</unittitle>
+              <unitdate normal="1962-09/1962-09">September 1962</unitdate>
+              <container id="aspace_574fdbbfcb0f1587fee7ed5a65b3b94e" label="box" type="Box">158</container>
+              <container id="aspace_844f222a2b1a01ac136fb1f2b1bb11ed" parent="aspace_574fdbbfcb0f1587fee7ed5a65b3b94e"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_a28208a72ace86bf71cc97796953a1d4">
+              <head>Image Number</head>
+              <p>A-054</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4fd42b3c4eb232e3ac162366deed626b" level="file">
+            <did>
+              <unittitle>Semillon</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_47818c60e4abb71ca86ce65073835c62" label="box" type="Box">155</container>
+              <container id="aspace_d1fbb3bc95b38f5f0632805cb91635d3" parent="aspace_47818c60e4abb71ca86ce65073835c62"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_6e3585f1d4307474846053d45bd977d0">
+              <head>Image Number</head>
+              <p>A-019</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2b509730cb17096852c49bf2fcc64029" level="file">
+            <did>
+              <unittitle>Thompson</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1f88e82631bcb67e5e6cc2f1d7cde59a" label="box" type="Box">155</container>
+              <container id="aspace_8cbad44b51cc274a38a0bd8df00d4aa8" parent="aspace_1f88e82631bcb67e5e6cc2f1d7cde59a"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_43558dede30eff2824018697a2c4d384">
+              <head>Image Number</head>
+              <p>A-021-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_536080d29dd32ca7fe648c54f80d387c" level="file">
+            <did>
+              <unittitle>Thompson</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_9f120865784f38353240e5120a132a95" label="box" type="Box">155</container>
+              <container id="aspace_42f048dc1bd586985f3270dcfd382ad0" parent="aspace_9f120865784f38353240e5120a132a95"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_6011d7461aef81c1d2dcdbfbfa6903f1">
+              <head>Image Number</head>
+              <p>A-021-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0efdb3dc7f1799be485254e8be43bdde" level="file">
+            <did>
+              <unittitle>Thompson</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_5d2f014e83a074a322261c6b9c6cac5a" label="box" type="Box">197</container>
+              <container id="aspace_36b2dc7b39a9cbeada1141763a14f2a1" parent="aspace_5d2f014e83a074a322261c6b9c6cac5a"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_8d8863f34a207e79cdec7b38f0279b65">
+              <head>Image Number</head>
+              <p>A-021c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_25971c877c157c906be58a2c3ea2f44c" level="file">
+            <did>
+              <unittitle>Thompson Seedless</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Monroe, Joe</persname>
+              </origination>
+              <unitdate normal="1967/1967">1967</unitdate>
+              <container id="aspace_6d814117ad95174e93dbe73c114a3bd4" label="box" type="Box">159</container>
+              <container id="aspace_bb1bb7ea8401c60f374f629871e9e90e" parent="aspace_6d814117ad95174e93dbe73c114a3bd4"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_70248df7f26c273998159ea8570d51c6">
+              <head>Image Number</head>
+              <p>A-070</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_66779c78353ceb8a651240a2f85b8856" level="file">
+            <did>
+              <unittitle>Tinta Madeira</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1961-10/1961-10">October 1961</unitdate>
+              <container id="aspace_ffca42f311dc4559436e96e6c599335a" label="box" type="Box">158</container>
+              <container id="aspace_57e6ba2faba70f150379618dffba4441" parent="aspace_ffca42f311dc4559436e96e6c599335a"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_7f0e6e01b059b2e3e94d469da7d86991">
+              <head>Image Number</head>
+              <p>A-056-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bdf09e9abcdddbd9c57787736538f173" level="file">
+            <did>
+              <unittitle>Tinta Madeira</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_4af3b887d1b66c858e4bdbb9ca61f0dd" label="box" type="Box">155</container>
+              <container id="aspace_45cfb5d6ee6fe87e482f29f0afa4a7f5" parent="aspace_4af3b887d1b66c858e4bdbb9ca61f0dd"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_8ea28668e261cbb9854a3141cde02662">
+              <head>Image Number</head>
+              <p>A-020</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_45a784a27580079a9c841bae3b3ea0da" level="file">
+            <did>
+              <unittitle>Tinta Madeira</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1704974285ac864efec65e5a662ab81d" label="box" type="Box">155</container>
+              <container id="aspace_c25563b2ab770ea30512ad22ba298a64" parent="aspace_1704974285ac864efec65e5a662ab81d"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_c9d83e8a72e4f3df88277b61d92bfaa4">
+              <head>Image Number</head>
+              <p>A-020-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cf70b3f8165c3b338768cf6aba78ed53" level="file">
+            <did>
+              <unittitle>Touriga</unittitle>
+              <unitdate normal="1957-09/1957-09">September 1957</unitdate>
+              <container id="aspace_015353897096d735d4082e76f8943ad5" label="box" type="Box">159</container>
+              <container id="aspace_9487b898a8d74b87110595821769ff1b" parent="aspace_015353897096d735d4082e76f8943ad5"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_63abbf95bd6ef1d3ee82b932ee8853c8">
+              <head>Image Number</head>
+              <p>A-060-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bda2e7b9bd5d059323a078d0331f3e1f" level="file">
+            <did>
+              <unittitle>Traminer</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1962-09/1962-09">September 1962</unitdate>
+              <container id="aspace_b94010a771ae407eae611c0ca08c9324" label="box" type="Box">158</container>
+              <container id="aspace_f2b600b9ff3d83406b7008770b85dbbf" parent="aspace_b94010a771ae407eae611c0ca08c9324"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_4ba42a1fecdb0fef500304d09fd68d0e">
+              <head>Image Number</head>
+              <p>A-056-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a97dba5099480c54a8cff4786ffaf2c9" level="file">
+            <did>
+              <unittitle>Traminer Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_635bfd3502a6287869c4e231294a6bfa" label="box" type="Box">158</container>
+              <container id="aspace_776994e417665e24201a0db91fb5f6d3" parent="aspace_635bfd3502a6287869c4e231294a6bfa"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_f9fe1a8c2f6e6798a403da374bb9ddb2">
+              <head>Image Number</head>
+              <p>A-057</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_641113aa0dcb9100e60ac32d11fe75b2" level="file">
+            <did>
+              <unittitle>Traminer</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_fca353bcc9bab52784605866a72d4386" label="box" type="Box">157</container>
+              <container id="aspace_534511f8ab56966c952ba51e08f9cad7" parent="aspace_fca353bcc9bab52784605866a72d4386"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_f07fa575254399a210c590f3b6241d5f">
+              <head>Image Number</head>
+              <p>A-027-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_b8f0d118bc53b7af96f5056bf93bc596" level="file">
+            <did>
+              <unittitle>Traminer</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ffd1ea69b9d42be9d0961b8db94c48e9" label="box" type="Box">197</container>
+              <container id="aspace_63b8f4dd47414b490ab8fc7a3b86ccff" parent="aspace_ffd1ea69b9d42be9d0961b8db94c48e9"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_10a88686d7be4407d80522605fc2467a">
+              <head>Image Number</head>
+              <p>A-027c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_740c16e3b93613e38df6cbfcaa6d73da" level="file">
+            <did>
+              <unittitle>Trousseau Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_7c4c332a784eaf4a654720212c59d22f" label="box" type="Box">159</container>
+              <container id="aspace_eaf25a4d352f3e62cc31522c0402873f" parent="aspace_7c4c332a784eaf4a654720212c59d22f"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_7fcb52c05f1b2a2ab62b3372a0672382">
+              <head>Image Number</head>
+              <p>A-061</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3bb34b8e994256c1ad66b96d45b3c71e" level="file">
+            <did>
+              <unittitle>Ugni Blanc (Saint Semillon) (Trebbiano) Grapes</unittitle>
+              <unitdate normal="1942-09/1942-09">September 1942</unitdate>
+              <container id="aspace_d979e36634f356b6189542e9c9e2ba2a" label="box" type="Box">159</container>
+              <container id="aspace_c7f383ac79122cd258ce23ecf12bde26" parent="aspace_d979e36634f356b6189542e9c9e2ba2a"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_8a34e4a82c6f893ebb0cee7f7e11ee8f">
+              <head>Image Number</head>
+              <p>A-062</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6496d2312e9482db9d86d6976472454b" level="file">
+            <did>
+              <unittitle>Zinfandel Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_52dc44058bf66f3d982582eea65485cb" label="box" type="Box">159</container>
+              <container id="aspace_f86bbe55fbd55d81db3fc0d7f3ebc721" parent="aspace_52dc44058bf66f3d982582eea65485cb"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_7ebb689785caaa6fd3ac146bef6bfda1">
+              <head>Image Number</head>
+              <p>A-063</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_12b1f3a4b255e75c3e73a5a058548654" level="file">
+            <did>
+              <unittitle>Zinfandel Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1aaa14ef39660ec136c898aecdd1d170" label="box" type="Box">159</container>
+              <container id="aspace_9a8002da904e80f5e097a48c046b61a2" parent="aspace_1aaa14ef39660ec136c898aecdd1d170"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_18143067859ab41607a768b3bfbfb4be">
+              <head>Image Number</head>
+              <p>A-063-1</p>
+            </odd>
+            <odd id="aspace_1aeb7e9b77b5d1ede7507b10341d356b">
+              <head>Caption</head>
+              <p>A cluster of Zinfandel grapes, ripe for harvesting.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d7e4a3a29ddb16f28d00880c6a7d8dce" level="file">
+            <did>
+              <unittitle>Zinfandel</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_78b4e8c62488a3f77da0bd009161d8bf" label="box" type="Box">197</container>
+              <container id="aspace_43c90c8c0de4db544c620a81db4865ee" parent="aspace_78b4e8c62488a3f77da0bd009161d8bf"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_214d5b861970feb7f590a4c567e84719">
+              <head>Image Number</head>
+              <p>A-025c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_30a2c65836a583dd97cabb31202ef3b9" level="file">
+            <did>
+              <unittitle>A Variety of California Wine Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_1ab13fd0b7acf8b3e1cc6f5e13e42b1d" label="box" type="Box">157</container>
+              <container id="aspace_1cd2484c9829bf160a21381f8b7fd3b5" parent="aspace_1ab13fd0b7acf8b3e1cc6f5e13e42b1d"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_e015733942ff9ae07a25dced44acae8d">
+              <head>Image Number</head>
+              <p>A-028-1a</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e4ba7503693e664c0395792921015cb1" level="file">
+            <did>
+              <unittitle>A Variety of California Wine Grapes (Tight Crop)</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_d69fb38f129c6243abcaa0fef0fce640" label="box" type="Box">157</container>
+              <container id="aspace_75b8d27dcb0d0ee3b3bc186801e53bfd" parent="aspace_d69fb38f129c6243abcaa0fef0fce640"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_46f8153578bb1ae3a1e8e525c082de4e">
+              <head>Image Number</head>
+              <p>A-028-1a</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d7d79cef4ab4d8a30680555424235064" level="file">
+            <did>
+              <unittitle>Almost Ready for the Winemaker, These California Wine Grapes Ripen in the Warm Autumn Sun</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_744054dadaf5c4f2dcfd730c9caa3da8" label="box" type="Box">197</container>
+              <container id="aspace_9392406d37f80174f60c5c4aaed05414" parent="aspace_744054dadaf5c4f2dcfd730c9caa3da8"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_5838280d8ce0b1136fcf9d03bc859fbc">
+              <head>Image Number</head>
+              <p>CSV-006</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bd99286287ede4e439555a8ecff3dc8c" level="file">
+            <did>
+              <unittitle>Cluster of wine grapes</unittitle>
+              <unitdate normal="1964/1964">1964</unitdate>
+              <container id="aspace_b0e029c70d060b0795df8272a15b9d8f" label="box" type="Box">159</container>
+              <container id="aspace_ba9483eecd3a2b7e32139244055dd6a9" parent="aspace_b0e029c70d060b0795df8272a15b9d8f"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_8a40ab2c716e6b4de8937317c75d381b">
+              <head>Image Number</head>
+              <p>A-066</p>
+            </odd>
+            <odd id="aspace_20663787d03c2f2504cf97c53111ea4c">
+              <head>Caption</head>
+              <p>Cluster of wine grapes awaits the fall harvest.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e217e2d4130aa87255f055cfcace4efb" level="file">
+            <did>
+              <unittitle>California Wine Grapes Ready for Crushing</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_3a114c38bfe4ef6056516d4782466499" label="box" type="Box">197</container>
+              <container id="aspace_6c4d5c4a2d82c700991b9afe45a85496" parent="aspace_3a114c38bfe4ef6056516d4782466499"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_99a420f2bf6a3e51d3a5c3b5243c6ba4">
+              <head>Image Number</head>
+              <p>A-029c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3ffeb62c58ebe6bcf86f8ec0047bc352" level="file">
+            <did>
+              <unittitle>A Cluster of Dew-Topped California Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f5cf7dbe1c76a7963c5453945e034e82" label="box" type="Box">197</container>
+              <container id="aspace_c54b840b326df34d717c5610c6e63de2" parent="aspace_f5cf7dbe1c76a7963c5453945e034e82"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_f4e567ba71c86eba98fe16ff93e7e101">
+              <head>Image Number</head>
+              <p>CSV-002</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1848a0bd6447851485be8eac8b5717d9" level="file">
+            <did>
+              <unittitle>Clusters of mature grapes</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Glunk, Jack</persname>
+              </origination>
+              <unitdate normal="1964-09/1964-09">September 1964</unitdate>
+              <container id="aspace_ede938565d25b12a7b8d781b1c313e41" label="box" type="Box">159</container>
+              <container id="aspace_49e66c199a0ccb9450ad3e03533af8eb" parent="aspace_ede938565d25b12a7b8d781b1c313e41"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_f924a3c89ab9b48c634253cdda8349a4">
+              <head>Image Number</head>
+              <p>A-065</p>
+            </odd>
+            <odd id="aspace_70b63fb5ce276bfbdbd2c64fa56a5add">
+              <head>Caption</head>
+              <p>Clusters of mature grapes await the fall harvest.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cc26221cc3c7f1df5b450a6f2b6005cf" level="file">
+            <did>
+              <unittitle>Grapes with Edelfaüle</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_6f745cbc3187cc09b081a7760febabb9" label="box" type="Box">197</container>
+              <container id="aspace_d36486cb6da86533233f03fc510c8ae3" parent="aspace_6f745cbc3187cc09b081a7760febabb9"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_f881f7ba86a5a7b43e70ec4cc95686ea">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bae236f79a64f56dcecd26cabc9f0e65" level="file">
+            <did>
+              <unittitle>[New growth grape vine?]</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_007acf6e2168eea40ecb32c4153aa850" label="box" type="Box">158</container>
+              <container id="aspace_ad9447d02a945ac8d417fceca5825c80" parent="aspace_007acf6e2168eea40ecb32c4153aa850"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_83db74ef593d1fc72729befe00b67563">
+              <head>Image Number</head>
+              <p>A-048-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d0fa3c94e9b9824a8d1f25c8b01ccd03" level="file">
+            <did>
+              <unittitle>Ripe Wine Grapes</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Butters, Jack</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_542f82e91758b47cc769091c07862a51" label="box" type="Box">159</container>
+              <container id="aspace_6749f1ebc00f7f30dbf92f96d9cb4979" parent="aspace_542f82e91758b47cc769091c07862a51"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_e17fd8fc104b3fe6171b4472536aef26">
+              <head>Image Number</head>
+              <p>A-067</p>
+            </odd>
+            <odd id="aspace_febe132a8e7ce2f6e4f2bed22da79d67">
+              <head>Caption</head>
+              <p>Ripe wine grapes await the picker's knife in this California vineyard at vintage time.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1918eb839bdc2231d54a357cf658f47a" level="file">
+            <did>
+              <unittitle>Ripe Wine Grapes</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Butters, Jack</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_164ed8474343994d80f29efdcfd255ec" label="box" type="Box">159</container>
+              <container id="aspace_b3d3a480c427ed4743dc26d9293664a1" parent="aspace_164ed8474343994d80f29efdcfd255ec"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_7db0fcd19b2c9b5e8f882e125e1d3b98">
+              <head>Image Number</head>
+              <p>A-068</p>
+            </odd>
+            <odd id="aspace_25b374a5090eb935fa7dad9bafc430d9">
+              <head>Caption</head>
+              <p>Ripe wine grapes await the picker's knife in this California vineyard at vintage time.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3c50f2c4775e972f0ebd843304b8382d" level="file">
+            <did>
+              <unittitle>Ripe Wine Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f7088e54aebfb53efd3b8c1841d75a59" label="box" type="Box">159</container>
+              <container id="aspace_f2fa65f86c27841b4b82a2f46d694421" parent="aspace_f7088e54aebfb53efd3b8c1841d75a59"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_0171f225f70bc358eae30b6ba66dd997">
+              <head>Image Number</head>
+              <p>A-069</p>
+            </odd>
+            <odd id="aspace_5b3f8386d3578fcc1167bbf5456380d2">
+              <head>Caption</head>
+              <p>Ripe wine grapes await the picker's knife in this California vineyard at vintage time.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_687f7907eba240a1b282f63cf2f4db36" level="file">
+            <did>
+              <unittitle>White Wine Variety, Wente Bros. Vineyard, Livermore, California</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Partridge, Ronald</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_af6586cf29c2a7af889c0fa395a1fc63" label="box" type="Box">159</container>
+              <container id="aspace_f205a5d796e70dd653025da37da7317c" parent="aspace_af6586cf29c2a7af889c0fa395a1fc63"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_74074249fed08972d0be5e103a523d2e">
+              <head>Image Number</head>
+              <p>A-064</p>
+            </odd>
+            <odd id="aspace_7c420f388a809a713f9b79a1e385c1f4">
+              <head>Caption</head>
+              <p>Wines on the vine. This is one of the many choice white wine grape varieties growing in California. The clusters
+              have not yet reached full maturity.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d6bed6be5c67c9b041613c42eb003e0c" level="file">
+            <did>
+              <unittitle>Young Grape Clusters Grow in the Warm California Sun</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_59f6194c9506c7a0a31697e9c97249ed" label="box" type="Box">197</container>
+              <container id="aspace_c76f7de24815c8bd863036191a787977" parent="aspace_59f6194c9506c7a0a31697e9c97249ed"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_4f2ca87457a3a38bba03bc8aeddbac14">
+              <head>Image Number</head>
+              <p>CSV-008</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_647f5b99c0ab576bf719b4f3273b1f1e" level="file">
+            <did>
+              <unittitle>Young Grape Clusters Grow in the Warm California Sun</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_515e7001650b66d32f3b0f3f0dbab417" label="box" type="Box">197</container>
+              <container id="aspace_8d4f918441a335c31c9ddf273f533e34" parent="aspace_515e7001650b66d32f3b0f3f0dbab417"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_4ec7f3544c2df4386019fd6e0c21bc97">
+              <head>Image Number</head>
+              <p>CSV-011</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0b4ed17b728a970fb2a18fea181873b3" level="file">
+            <did>
+              <unittitle>Unidentified Grape Varieties</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_be7705a8febfe1d7b3c2af33d2a3ea4b" label="box" type="Box">159</container>
+              <container id="aspace_763c74db340abfee3cda40764c5cfd67" parent="aspace_be7705a8febfe1d7b3c2af33d2a3ea4b"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_32b87d6f6be46b5b70937007aa7ea4bb">
+              <head>Image Number</head>
+              <p>No image number</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 id="aspace_870101efc4a7b78512b42112967c5bdf" level="series">
+          <did>
+            <unittitle>National Wine Week Vintage Queens</unittitle>
+            <unitdate normal="1949/1969" type="inclusive">1949-1969</unitdate>
+          </did>
+          <c03 id="aspace_bc1800517e95ffa62ee20ec05b2727ad" level="file">
+            <did>
+              <unittitle>Pat Hall Posing in Vineyard</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1949-09/1949-09">September 1949</unitdate>
+              <container id="aspace_1c6586fa12c75d80e29520129b0998d2" label="box" type="Box">160</container>
+              <container id="aspace_f8316ea832e25c4f1e280142e05a9a14" parent="aspace_1c6586fa12c75d80e29520129b0998d2"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_150808fd95e7ca0111386f64e04dc6bd">
+              <head>Image Number</head>
+              <p>AB-001</p>
+            </odd>
+            <odd id="aspace_de14360e65e6bf2a54b926ef136145ea">
+              <head>Caption</head>
+              <p>Adding to the charm of a California wine vineyard at vintage time, this girl wears a costume that is fittingly
+              adorned with a grape and grape leaf pattern.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_5d85525c8eff04a90201871b36e6f177" level="file">
+            <did>
+              <unittitle>Vintage Queen with Vintage Wine Press</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_841b28684e135c35d1ff76cca5c81969" label="box" type="Box">160</container>
+              <container id="aspace_96e1065f93a9064940f9838ab120d56d" parent="aspace_841b28684e135c35d1ff76cca5c81969"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_d9cd69f3eb3d4f2b43af1935bd6e88da">
+              <head>Image Number</head>
+              <p>AB-002</p>
+            </odd>
+            <scopecontent id="aspace_05b87cd090450aaf4def728c533ddf55">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_be7b8c0ab930d2740335602cc9c2879f" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing Under Ornamental Bell</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_8bd6eb2f1b5157cea1774ba4bffda470" label="box" type="Box">160</container>
+              <container id="aspace_4463bd48a5fee5f999ab8448ecc2b55a" parent="aspace_8bd6eb2f1b5157cea1774ba4bffda470"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_43e4242e1a8c7d9a1159a58dd74726dc">
+              <head>Image Number</head>
+              <p>AB-003</p>
+            </odd>
+            <scopecontent id="aspace_255aa10b549f683b05b6d2fb19e603ea">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_6e2d289278dbaf47608e2043bb675cb6" level="file">
+            <did>
+              <unittitle>Vintage Queen Reaching for Grapes on Trellis</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_04fee7ac4f45dacd3d6a42b8b84954f1" label="box" type="Box">160</container>
+              <container id="aspace_42371086f903f8d391276be17fbf12c6" parent="aspace_04fee7ac4f45dacd3d6a42b8b84954f1"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_0ad8f418608c94f28202c896ee037452">
+              <head>Image Number</head>
+              <p>AB-004</p>
+            </odd>
+            <scopecontent id="aspace_76e5b674e2f7c1a3c0c52da7fb0c161a">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_98f60d437bac828e82aca26d0b6d1ca7" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing on Barrels</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_1ed023693b8e3906ca935c0820ce2a4e" label="box" type="Box">160</container>
+              <container id="aspace_a354131b0b0410511e085ef6bbd9eb1b" parent="aspace_1ed023693b8e3906ca935c0820ce2a4e"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_24aebf394321f7ac7835ccd68492f77f">
+              <head>Image Number</head>
+              <p>AB-005</p>
+            </odd>
+            <scopecontent id="aspace_9a7a54f185cc7f9f28531609ab15da1e">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_d644d4dede0709be5102e27ab36c81f5" level="file">
+            <did>
+              <unittitle>Vintage Queen Admiring Grapes on Trellis</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_9f030f32401cb151919ca65bb5c50861" label="box" type="Box">160</container>
+              <container id="aspace_f3e95874ba309d1c1bf9d4f77959c767" parent="aspace_9f030f32401cb151919ca65bb5c50861"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_11921489715fd4ada80e04311b141da3">
+              <head>Image Number</head>
+              <p>AB-006</p>
+            </odd>
+            <scopecontent id="aspace_89f800e9e73d8b26b73c8f16469fc13c">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_78baefc97ceed2a38eb08ff287ce61f1" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing Indoors with Two Men</unittitle>
+              <unitdate normal="1949/1949">1949?</unitdate>
+              <container id="aspace_380b1a59652c14694dbfd067baa60b0d" label="box" type="Box">160</container>
+              <container id="aspace_77569803ea1051cba1edb26886bef21c" parent="aspace_380b1a59652c14694dbfd067baa60b0d"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_6ab450248a1c3172e25f3b73ced1274d">
+              <head>Image Number</head>
+              <p>AB-007</p>
+            </odd>
+            <scopecontent id="aspace_2a9d5e4cc57b74b3c2bf704149b954ca">
+              <head>Scope and Contents</head>
+              <p>Pat Hall?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_12776ca34b20fb0063e6885b411a6d72" level="file">
+            <did>
+              <unittitle>Vintage Queen in Vineyard Showing a Basket of Grapes</unittitle>
+              <unitdate normal="1950/1950">1950?</unitdate>
+              <container id="aspace_a1aec66fa57a4773965196385ba383f5" label="box" type="Box">160</container>
+              <container id="aspace_1dc21bd6450b8f6d031ba3a4eda1547a" parent="aspace_a1aec66fa57a4773965196385ba383f5"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_1394bc25451ec9a9f5c4a9a2f83f8450">
+              <head>Image Number</head>
+              <p>AB-008</p>
+            </odd>
+            <scopecontent id="aspace_96db7929bbbe56214c2698c6c404ea35">
+              <head>Scope and Contents</head>
+              <p>Jane Nigh?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_b68c9413027815f1c7ff785764b2d57d" level="file">
+            <did>
+              <unittitle>Vintage Queen Seated at Barrel Tap</unittitle>
+              <unitdate normal="1950/1950">1950?</unitdate>
+              <container id="aspace_913a377cf5105011bace392aca637b14" label="box" type="Box">160</container>
+              <container id="aspace_a0c100f320c68f64d389daff7396f86e" parent="aspace_913a377cf5105011bace392aca637b14"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_efe73404871870c80da10c0c7c92381e">
+              <head>Image Number</head>
+              <p>AB-009</p>
+            </odd>
+            <scopecontent id="aspace_d54431952bd7f70b21e928fceb401807">
+              <head>Scope and Contents</head>
+              <p>Jane Nigh?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_e0755163d8c5f9b1876d2b836747e229" level="file">
+            <did>
+              <unittitle>Vintage Queen Standing in Front of Barrel Holding Glass of Wine</unittitle>
+              <unitdate normal="1950/1950">1950?</unitdate>
+              <container id="aspace_e8ddd6edd97cbab7d3140f227a234953" label="box" type="Box">160</container>
+              <container id="aspace_e2d6bb348993a65467030297e49ede30" parent="aspace_e8ddd6edd97cbab7d3140f227a234953"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_04b6b7450bf02909405963bc5e93f4a2">
+              <head>Image Number</head>
+              <p>AB-010</p>
+            </odd>
+            <scopecontent id="aspace_0c84a09e387e81e1e100f471c79b9e9c">
+              <head>Scope and Contents</head>
+              <p>Jane Nigh?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_16d918296a3f85ba12eab22beb71b2de" level="file">
+            <did>
+              <unittitle>Jane Nigh Posing in Vineyard</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1950-08/1950-08">August 1950</unitdate>
+              <container id="aspace_e40e8b65bb43fc902f9cb4623fed8c70" label="box" type="Box">160</container>
+              <container id="aspace_3e78e6455506aa8bc25da7f7e0857cd0" parent="aspace_e40e8b65bb43fc902f9cb4623fed8c70"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_4ffc31ce92711b09a9373f59c6dfa56d">
+              <head>Image Number</head>
+              <p>AB-011</p>
+            </odd>
+            <odd id="aspace_19cc593368c4ebfbf44065edda6b68a5">
+              <head>Caption</head>
+              <p>The vintage season requires a charming vintage queen. Here, her Majesty is shown during a visit to a part of her
+              domain.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3f47463a7491c22ec42cedd4c929be89" level="file">
+            <did>
+              <unittitle>Jane Nigh with Oversize Champagne Glass</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1950-08/1950-08">August 1950</unitdate>
+              <container id="aspace_3d16d26095692e71faba3ebf6bd7a0a8" label="box" type="Box">160</container>
+              <container id="aspace_622901c64de0cf8eaefea458c43dfb08" parent="aspace_3d16d26095692e71faba3ebf6bd7a0a8"
+              type="Folder">52</container>
+            </did>
+            <odd id="aspace_c4a531c6a01b32e00e209017aceb00a3">
+              <head>Image Number</head>
+              <p>AB-012</p>
+            </odd>
+            <odd id="aspace_49ed0ffd1591e7fd0035077e3f784ef8">
+              <head>Caption</head>
+              <p>Everything grows large in California, they say, and this glass filled with California Champagne seems to be in
+              tune with the spirit of the Golden State.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1a7e9748d4e03c9dbe3415dea80a3b43" level="file">
+            <did>
+              <unittitle>Vintage Queen Wearing Suit and Hat Posing Next to Barrels</unittitle>
+              <unitdate normal="1950/1950">1950?</unitdate>
+              <container id="aspace_df08028c568f317de072e3323059b3e6" label="box" type="Box">160</container>
+              <container id="aspace_798093e5332d67b5ce8bb5caa8cfe2a8" parent="aspace_df08028c568f317de072e3323059b3e6"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_197990746f3a6076a3352794cbde954b">
+              <head>Image Number</head>
+              <p>AB-013</p>
+            </odd>
+            <scopecontent id="aspace_528ad6c9111b48f6e3beefd76ad1067f">
+              <head>Scope and Contents</head>
+              <p>Jane Nigh?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_782406a642be5f61901ceb03e91f3d6a" level="file">
+            <did>
+              <unittitle>Vintage Queen Wearing Jeans and Checked Shirt Posing in Vineyard</unittitle>
+              <unitdate normal="1951/1951">1951?</unitdate>
+              <container id="aspace_ccb9d52e59a3a6364c52456c22c02c0a" label="box" type="Box">160</container>
+              <container id="aspace_236cf49dad3ff5a447873ae4ae9bd7c1" parent="aspace_ccb9d52e59a3a6364c52456c22c02c0a"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_f934eb756615f59791faca9857e6024d">
+              <head>Image Number</head>
+              <p>AB-014</p>
+            </odd>
+            <odd id="aspace_a08a8631233f07f4ec653cd2e05a948d">
+              <head>Caption</head>
+              <p>Vintage Queen wearing jeans in vineyard. Straw hat on ground behind her.</p>
+            </odd>
+            <scopecontent id="aspace_459163ec0a0cfe8b2165917de141dc5c">
+              <head>Scope and Contents</head>
+              <p>Jeri Miller?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_9b6944ea35e5d4be75e420029afeda54" level="file">
+            <did>
+              <unittitle>Jeri Miller Wearing Swimsuit Posing in Vineyard with Vintage Wine Press</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1951/1951">1951</unitdate>
+              <container id="aspace_71c9401be9415f5a551c0cce679795a9" label="box" type="Box">160</container>
+              <container id="aspace_cf5a8c68fb69638a8080ec119ad54787" parent="aspace_71c9401be9415f5a551c0cce679795a9"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_a4dbd41f5c9e5cd460efbb8460320da3">
+              <head>Image Number</head>
+              <p>AB-015</p>
+            </odd>
+            <odd id="aspace_e716a1516a67ea6b89b541029e2d56ef">
+              <head>Caption</head>
+              <p>Rolling California Vineyards, ancient wine press and luscious jeri Miller, 1951 Vintage Queen! She wears the "key
+              to America's wine cellar," where nature will transform her basket of sun-ripe grapes into California wines for the
+              whole nation to enjoy.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_10cb0e6da8651f720168206f24bdac35" level="file">
+            <did>
+              <unittitle>Jeri Miller Being Shown Bottle of Wine at New Fillmore Grocery</unittitle>
+              <unitdate normal="1951-08/1951-08">August 1951</unitdate>
+              <container id="aspace_0d6fe4349ecae279971ee3758a6caffd" label="box" type="Box">160</container>
+              <container id="aspace_b13f9f837a84c9bc58f10aaeae7a91f3" parent="aspace_0d6fe4349ecae279971ee3758a6caffd"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_d95fa55bdd474c4c107f6d47f6138986">
+              <head>Image Number</head>
+              <p>AB-016</p>
+            </odd>
+            <odd id="aspace_0182a22076ee8a3dc56655303cf3dcff">
+              <head>Caption</head>
+              <p>Jeri Miller at New Fillmore Grocery with man holding bottle of wine</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0d9500123c81580f9fdbc8fed7e41f12" level="file">
+            <did>
+              <unittitle>Jeri Miller at New Fillmore Grocery</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1951-08/1951-08">August 1951</unitdate>
+              <container id="aspace_dff0f3b9d59e08578a75ba82f02c32ed" label="box" type="Box">160</container>
+              <container id="aspace_866381d1317a496a057f12e8a0b7e7f8" parent="aspace_dff0f3b9d59e08578a75ba82f02c32ed"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_c8167892af7dbd7c7626d600419fd368">
+              <head>Image Number</head>
+              <p>AB-017</p>
+            </odd>
+            <odd id="aspace_c70896889059229ec71e8720ed62ab4d">
+              <head>Caption</head>
+              <p>Advice in the choice of California wines is offered a customer at the New Fillmore Grocery, San Francisco, by
+              lovely JERI MILLER, Vintage Vintage Queen 1951.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c69492054d928f8585ba6b18439b16bc" level="file">
+            <did>
+              <unittitle>Jeri Miller with Grape Harvest</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1951-10-31/1951-10-31">October 31, 1951</unitdate>
+              <container id="aspace_ff334e09504c096741b9b060ab8672af" label="box" type="Box">160</container>
+              <container id="aspace_4e0817f58217db729113fb61c6d13c7d" parent="aspace_ff334e09504c096741b9b060ab8672af"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_8b9dee1f38c568fa324f0e9eb7adb82b">
+              <head>Image Number</head>
+              <p>AB-018</p>
+            </odd>
+            <odd id="aspace_b7573f9a2530f8e7ba61b1ac2e803d2a">
+              <head>Caption</head>
+              <p>Sultry! Lovely JERI MILLER, Vintage Vintage Queen 1951 pauses in the harvest of the wine grape crop. She reigned
+              during National Wine Week, Oct. 13-20, 1951 annual tribute to wine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4fb8859fdc0af7b7fc3e57260af90672" level="file">
+            <did>
+              <unittitle>Jeri Miller with White Wine</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1951-10-31/1951-10-31">October 31, 1951</unitdate>
+              <container id="aspace_871d7490878427517139f25f35991bc8" label="box" type="Box">160</container>
+              <container id="aspace_ad84cff0fb42565d7974639d47e36b0e" parent="aspace_871d7490878427517139f25f35991bc8"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_10200c33303d1fe33fafc51858bbfa0b">
+              <head>Image Number</head>
+              <p>AB-019</p>
+            </odd>
+            <odd id="aspace_904f173e83f24d809e564876e8cd3ea9">
+              <head>Caption</head>
+              <p>Beautiful JERI MILLER 1951 Vintage Vintage Queen seen in a wine aging room with glass of white wine in hand.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3686c4cca5cb7624fd8be28a61d5124c" level="file">
+            <did>
+              <unittitle>Jeri Miller with Basket of Grapes</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Mercer Photographs</corpname>
+              </origination>
+              <unitdate normal="1951-10-31/1951-10-31">October 31, 1951</unitdate>
+              <container id="aspace_87c21a855db9c575907a2b10590abd5f" label="box" type="Box">160</container>
+              <container id="aspace_0d9679d1ea3943894731f68ee96669f3" parent="aspace_87c21a855db9c575907a2b10590abd5f"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_51ff6dd489a42a4298aa5feec699bcc1">
+              <head>Image Number</head>
+              <p>AB-020</p>
+            </odd>
+            <odd id="aspace_e9ca99f36ce0abac8786504469fd7c01">
+              <head>Caption</head>
+              <p>1951 Vintage Vintage Queen JERI MILLER holds a basket with clusters of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c3240e014ad8d13770ef6b050b2df901" level="file">
+            <did>
+              <unittitle>Vintage Queen in Vineyard with Vintage Wine Press</unittitle>
+              <unitdate normal="1951/1951">1951?</unitdate>
+              <container id="aspace_314530a110d785118394154ac06480e5" label="box" type="Box">160</container>
+              <container id="aspace_fc86e2e07f99005f72f4794b02c67b3e" parent="aspace_314530a110d785118394154ac06480e5"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_796377b8add4be2a04726346532373df">
+              <head>Image Number</head>
+              <p>AB-021</p>
+            </odd>
+            <scopecontent id="aspace_7f0926f7f6a4fa7bcc67e1b436a11661">
+              <head>Scope and Contents</head>
+              <p>Jeri Miller?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_67934f6c3901c288ff0b12e5f51f9218" level="file">
+            <did>
+              <unittitle>Vintage Queen in Vineyard Posing with Straw Hat</unittitle>
+              <unitdate normal="1951/1951">1951?</unitdate>
+              <container id="aspace_e65bca93fccb0e1befb48c771cb210f5" label="box" type="Box">160</container>
+              <container id="aspace_1e32ac2221632065638dcdd8ca88ef70" parent="aspace_e65bca93fccb0e1befb48c771cb210f5"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_d2fca95bc1ec8be71631cdc809fa8f6a">
+              <head>Image Number</head>
+              <p>AB-022</p>
+            </odd>
+            <scopecontent id="aspace_7618e3f7e495f48c30911bbe2a310c64">
+              <head>Scope and Contents</head>
+              <p>Jeri Miller?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_8e29190328c7ea21421d5867f8fffee2" level="file">
+            <did>
+              <unittitle>Vintage Queen Standing on Wall Holding Basket of Grapes</unittitle>
+              <unitdate normal="1952/1952">1952?</unitdate>
+              <container id="aspace_fa27c26f204462cf8dc3e73cd20b5460" label="box" type="Box">160</container>
+              <container id="aspace_37842d900a34f2c60182c4cb5d1202e7" parent="aspace_fa27c26f204462cf8dc3e73cd20b5460"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_83e22ff85fa7b9e70509b8781ff78c9f">
+              <head>Image Number</head>
+              <p>AB-023</p>
+            </odd>
+            <scopecontent id="aspace_8c8bc50ae43cdb7f53af37dc6c0ea7fa">
+              <head>Scope and Contents</head>
+              <p>Virginia Best?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_43fb8a992256dfdf98fd95e31a868d1f" level="file">
+            <did>
+              <unittitle>Vintage Queen in Winery Cellar with Winemaker</unittitle>
+              <unitdate normal="1952/1952">1952?</unitdate>
+              <container id="aspace_6d25be6926a64f8fb1985049b7001f74" label="box" type="Box">160</container>
+              <container id="aspace_370dc906016358ca0aaf2734c33f5e70" parent="aspace_6d25be6926a64f8fb1985049b7001f74"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_376209b017fc4d429df76e4d0a0c5362">
+              <head>Image Number</head>
+              <p>AB-024</p>
+            </odd>
+            <scopecontent id="aspace_3b46ee91c2c2230ab7012e779d5b1644">
+              <head>Scope and Contents</head>
+              <p>Virginia Best?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_76b2d4ef092057065e6ae35d2357b253" level="file">
+            <did>
+              <unittitle>Vintage Queen Climbing over Fence</unittitle>
+              <unitdate normal="1952/1952">1952?</unitdate>
+              <container id="aspace_b47ae0fcecc43987ab2fcf9c0ec5b18c" label="box" type="Box">160</container>
+              <container id="aspace_3b87262cc43a1e50c8bb9667564d4d81" parent="aspace_b47ae0fcecc43987ab2fcf9c0ec5b18c"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_38ff3068091c2e7707ef8e26ac65080d">
+              <head>Image Number</head>
+              <p>AB-025</p>
+            </odd>
+            <scopecontent id="aspace_7e6ffd4d5b7e5136f58d4a71fd5b604b">
+              <head>Scope and Contents</head>
+              <p>Virginia Best?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_7a8bcc1f44bbdc0a935d93586b06ed37" level="file">
+            <did>
+              <unittitle>Virginia Best Holding Cluster of Grapes to Her Cheek</unittitle>
+              <unitdate normal="1952/1952">1952</unitdate>
+              <container id="aspace_0e76bad0b54545ac37452d107be42ef1" label="box" type="Box">160</container>
+              <container id="aspace_a57e40b380528b4219fac436d49e7d4f" parent="aspace_0e76bad0b54545ac37452d107be42ef1"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_3d49e9ae55eeaeb3196939ddd2c138fd">
+              <head>Image Number</head>
+              <p>AB-026</p>
+            </odd>
+            <odd id="aspace_364128968a20a21d1663727d17140642">
+              <head>Caption</head>
+              <p>"Underneath the Bough" Luscious, aren't they - Virginia Best, 22, of Menlo Park, California, Vintage Queen over
+              National Wine Week, 1952, and the grapes for California wines.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a55e6347713d3b6405458c2e8e7ae685" level="file">
+            <did>
+              <unittitle>Vintage Queen Examining Basket of Grapes</unittitle>
+              <unitdate normal="1952/1952">1952?</unitdate>
+              <container id="aspace_7009055a0f9d7d294e0af4f2bfbbc42e" label="box" type="Box">160</container>
+              <container id="aspace_ce4ec7b839c49c55b4bd45df238b8361" parent="aspace_7009055a0f9d7d294e0af4f2bfbbc42e"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_2d04405132a3d3be758413f0caac1d14">
+              <head>Image Number</head>
+              <p>AB-027</p>
+            </odd>
+            <scopecontent id="aspace_4844ef839fed3a234d7da1f79d5d356d">
+              <head>Scope and Contents</head>
+              <p>Virginia Best?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_d9302b3221fa1fbfa7ab42fc941d737d" level="file">
+            <did>
+              <unittitle>Vintage Queen Standing in Path Holding Two Baskets of Grapes</unittitle>
+              <unitdate normal="1952/1952">1952?</unitdate>
+              <container id="aspace_c2634310b7293031c597fdd4330ca1c5" label="box" type="Box">160</container>
+              <container id="aspace_b91b70206536dc59d7c40c333e2f6813" parent="aspace_c2634310b7293031c597fdd4330ca1c5"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_7094d042acf3bea009e27dc9f61d1850">
+              <head>Image Number</head>
+              <p>AB-028</p>
+            </odd>
+            <scopecontent id="aspace_80bdc7a828d01753ecf45b67e4d04b6c">
+              <head>Scope and Contents</head>
+              <p>Virginia Best?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_149fda797ccad70b499877d561e8ec7b" level="file">
+            <did>
+              <unittitle>Virginia Best with Basket of Grapes</unittitle>
+              <unitdate normal="1952/1952">1952</unitdate>
+              <container id="aspace_918b7cd2e0c52a9751540979b2182078" label="box" type="Box">160</container>
+              <container id="aspace_4d58ce76ec536ae64b3e8e6b281b5ae5" parent="aspace_918b7cd2e0c52a9751540979b2182078"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_c14169a7e1c9ec7aac030950d695714d">
+              <head>Image Number</head>
+              <p>AB-029</p>
+            </odd>
+            <odd id="aspace_61a2dd2be94599e229d60266e2905491">
+              <head>Caption</head>
+              <p>VIRGINIA BEST, Miss California Wine of 1952 with her basket of grapes and farmerette's Levi's.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7f5ff57202a90ee8a492e5b74dae9a2d" level="file">
+            <did>
+              <unittitle>Diane Bagshaw Standing on Wall</unittitle>
+              <unitdate normal="1953/1953">1953</unitdate>
+              <container id="aspace_c79320bbbcb0ed67a40df32afe2ad974" label="box" type="Box">160</container>
+              <container id="aspace_09a8373fad89fcd3be93aec4717656e0" parent="aspace_c79320bbbcb0ed67a40df32afe2ad974"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_3ee19f63ac25e1277d98dc8efbe11c94">
+              <head>Image Number</head>
+              <p>AB-030</p>
+            </odd>
+            <odd id="aspace_87f74501b667049c88c08e5a77e4964b">
+              <head>Caption</head>
+              <p>DIANE BAGSHAW, Vintage Vintage Queen 1953 posing on top of a wall with basket of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ed8fcc5b982d0efe7e83435f7e15809a" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing in Vineyard Full of Grapes</unittitle>
+              <unitdate normal="1953/1953">1953?</unitdate>
+              <container id="aspace_fae8932535543d91e186cf555bfcac7c" label="box" type="Box">160</container>
+              <container id="aspace_873ec95033a528e4b5bddef903df5eb2" parent="aspace_fae8932535543d91e186cf555bfcac7c"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_7c555bf472a880d2d18d8c8c58ea0858">
+              <head>Image Number</head>
+              <p>AB-031</p>
+            </odd>
+            <scopecontent id="aspace_d6760a1703a692b089b7dc096297c1b9">
+              <head>Scope and Contents</head>
+              <p>Diane Bagshaw?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_2efd5fd9fecc0b245994f1f2f69b3672" level="file">
+            <did>
+              <unittitle>Vintage Queen Admiring Large Wine Goblet</unittitle>
+              <unitdate normal="1953/1953">1953?</unitdate>
+              <container id="aspace_0738ceda818bf9fd42be540654eb5e4c" label="box" type="Box">160</container>
+              <container id="aspace_fb0b8a124d84b666f1dd8192f2c30059" parent="aspace_0738ceda818bf9fd42be540654eb5e4c"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_c0a8d821a1c4db94d422431ef26b6119">
+              <head>Image Number</head>
+              <p>AB-032</p>
+            </odd>
+            <scopecontent id="aspace_da7444e7aabae06ec5622df06aac2b47">
+              <head>Scope and Contents</head>
+              <p>Diane Bagshaw?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ca92491bf45a1f5fcc0c360162a6d6ff" level="file">
+            <did>
+              <unittitle>Diane Bagshaw Sitting on Wall With a Basket of Grapes</unittitle>
+              <unitdate normal="1953/1953">1953</unitdate>
+              <container id="aspace_1f45f23e27848ad690b51cfdf60ee996" label="box" type="Box">160</container>
+              <container id="aspace_197c3367cc3ca76da9d37a0c0973dcd4" parent="aspace_1f45f23e27848ad690b51cfdf60ee996"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_f28fd7bd1333a262307414aadd2af6d3">
+              <head>Image Number</head>
+              <p>AB-033</p>
+            </odd>
+            <odd id="aspace_4a9a6a910f1c6375bd8558533475f464">
+              <head>Caption</head>
+              <p>"You'll never catch me!" Vintage Queen Diane Bagshaw pauses just long enough to the the photographer the laugh
+              before swinging over the vineyard wall with her basket of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_062d7f6b086290410d588c0e05e1ec88" level="file">
+            <did>
+              <unittitle>Diane Bagshaw with Large Straw Hat</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Lyon, Fred</persname>
+              </origination>
+              <unitdate normal="1953/1953">1953</unitdate>
+              <container id="aspace_33fe0faca428f62173ce7d93e0ea788e" label="box" type="Box">160</container>
+              <container id="aspace_956a70593a1347e3d987a104fadae227" parent="aspace_33fe0faca428f62173ce7d93e0ea788e"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_1bff1f6b41c2ec13ead7dbdfceadf908">
+              <head>Image Number</head>
+              <p>AB-034</p>
+            </odd>
+            <odd id="aspace_9b47425609a510b06784d1b53e619652">
+              <head>Caption</head>
+              <p>Beauteous Diane Bagshaw, chosen by California's wine growers as the 1953 Vintage Queen to reign during National
+              Wine Week, October 10-17.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ccfb9d716905b227c6dbdb27093bc5b4" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing in Vineyard</unittitle>
+              <unitdate normal="1953/1953">1953?</unitdate>
+              <container id="aspace_d1ed9156b0ebde1ad4f80881fa3340bf" label="box" type="Box">160</container>
+              <container id="aspace_89bbb61043e0b8d7cd7f5f1a0f0708eb" parent="aspace_d1ed9156b0ebde1ad4f80881fa3340bf"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_04e196f92d56d6f924c6b7b65a8e6bd3">
+              <head>Image Number</head>
+              <p>AB-035</p>
+            </odd>
+            <scopecontent id="aspace_461be887779f4093d4495621bc6ef261">
+              <head>Scope and Contents</head>
+              <p>Diane Bagshaw?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_861c1e3b1eed839db73d06cc79704281" level="file">
+            <did>
+              <unittitle>Vintage Queen in Vineyard with Two Crates of Grapes</unittitle>
+              <unitdate normal="1953/1953">1953?</unitdate>
+              <container id="aspace_a3c925bee061efe201254b40964de9cd" label="box" type="Box">160</container>
+              <container id="aspace_230ff1d9a7f0db77d04326e73055872f" parent="aspace_a3c925bee061efe201254b40964de9cd"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_ddfcec1f9d4ba9fd1d1af4b6d32cce10">
+              <head>Image Number</head>
+              <p>AB-036</p>
+            </odd>
+            <scopecontent id="aspace_a105e340e069c9c071ec256df1b6ff17">
+              <head>Scope and Contents</head>
+              <p>Diane Bagshaw?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_edc1a8b8e380a7b4ed67cafbfde398f7" level="file">
+            <did>
+              <unittitle>Vintage Queen at Wine Tasting (?)</unittitle>
+              <unitdate normal="1954/1954">1954?</unitdate>
+              <container id="aspace_fd1487b24806775781fd82c7ab57ef41" label="box" type="Box">160</container>
+              <container id="aspace_9f619fbc4c9119e4b530c09e6936fe42" parent="aspace_fd1487b24806775781fd82c7ab57ef41"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_b04ec7c390b9485c13cb07c1d4715a69">
+              <head>Image Number</head>
+              <p>AB-037</p>
+            </odd>
+            <scopecontent id="aspace_e25de71e5291c1433ad983f59f1428e8">
+              <head>Scope and Contents</head>
+              <p>Carole King?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_73a332bf8bec1c32eae4904a0b12f641" level="file">
+            <did>
+              <unittitle>Carole King Holding Cluster of Grapes to Her Cheek</unittitle>
+              <unitdate normal="1954/1954">1954</unitdate>
+              <container id="aspace_a9255045e0bffba2a06fd72a038cac57" label="box" type="Box">160</container>
+              <container id="aspace_f0a2abbe7f6feebd776f8d313d089718" parent="aspace_a9255045e0bffba2a06fd72a038cac57"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_9ccfec7e0f3db274cb76985d3de6acb8">
+              <head>Image Number</head>
+              <p>AB-038</p>
+            </odd>
+            <scopecontent id="aspace_5f8ce344aa6dc2255c92b13c88598ab5">
+              <head>Scope and Contents</head>
+              <p>Carole King?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_6edcbaad4dd38201092760afeced07f0" level="file">
+            <did>
+              <unittitle>Carole King Holding Basket of Grapes on Her Shoulder</unittitle>
+              <unitdate normal="1954/1954">1954</unitdate>
+              <container id="aspace_07e14246cd1ebe96e7e8d7c5749cc332" label="box" type="Box">160</container>
+              <container id="aspace_3e124a513b5f336aef37c1e29ff3fc1e" parent="aspace_07e14246cd1ebe96e7e8d7c5749cc332"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_f018abbfee305d32a5cb12f0f8ca49d7">
+              <head>Image Number</head>
+              <p>AB-039</p>
+            </odd>
+            <scopecontent id="aspace_404950865a31b275bf1fc093ab6b7eb5">
+              <head>Scope and Contents</head>
+              <p>Carole King?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_2cdf194d0f38922b33e826d923f79f8b" level="file">
+            <did>
+              <unittitle>Carole King Posing on Ladder in Wine Cellar</unittitle>
+              <unitdate normal="1954/1954">1954</unitdate>
+              <container id="aspace_deb27454a9634d9ab50850c38fb347c0" label="box" type="Box">160</container>
+              <container id="aspace_1d67c8f1f8b2ba8f14d40efd4367adfc" parent="aspace_deb27454a9634d9ab50850c38fb347c0"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_be732d783dbd48501c300c083069617f">
+              <head>Image Number</head>
+              <p>AB-040</p>
+            </odd>
+            <scopecontent id="aspace_f04f60db76b90efdd0dccdd766657e52">
+              <head>Scope and Contents</head>
+              <p>Carole King?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_900008ef759040f1cc12becd17a7e0ad" level="file">
+            <did>
+              <unittitle>Joanne Copeland Reading Wine Label</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_f67c8865051bfd9ae749f8625486b5bb" label="box" type="Box">160</container>
+              <container id="aspace_33166ee62cba577f497f0bcbdc1592fe" parent="aspace_f67c8865051bfd9ae749f8625486b5bb"
+              type="Folder">40</container>
+            </did>
+            <odd id="aspace_1ce20bb9925502a9b348b7a01ffd3ef3">
+              <head>Image Number</head>
+              <p>AB-041</p>
+            </odd>
+            <odd id="aspace_6a59797073eed40d42ae91db075f369e">
+              <head>Caption</head>
+              <p>Joanne Copeland, National Vintage Queen 1955, reading wine label.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_305c9e3d65866b8212cc2e364a36bf4a" level="file">
+            <did>
+              <unittitle>Joanne Copeland Picking Grapes</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_8cd7140c60d3919d0d86e9cda32dafdb" label="box" type="Box">160</container>
+              <container id="aspace_759c0d07c5a78c9072899904b1120af2" parent="aspace_8cd7140c60d3919d0d86e9cda32dafdb"
+              type="Folder">41</container>
+            </did>
+            <odd id="aspace_25632aa8d0b56518064ea1bc44e396e0">
+              <head>Image Number</head>
+              <p>AB-042</p>
+            </odd>
+            <odd id="aspace_fd1f254e9be925b5ef19d3c68dd0d6b3">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen 1955, picking grapes in vineyard. No name or year given.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_44fd8016004bb4466dbc9e52d9fade34" level="file">
+            <did>
+              <unittitle>Joanne Copeland in Vineyard</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Kirby, David</persname>
+              </origination>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_06890a3ee6904027c68ab485288dfb4f" label="box" type="Box">160</container>
+              <container id="aspace_dfa0cf3c19a002f1b5d52da34f343e86" parent="aspace_06890a3ee6904027c68ab485288dfb4f"
+              type="Folder">42</container>
+            </did>
+            <odd id="aspace_34cf251fbad13b0a5ace8bf30b5291b4">
+              <head>Image Number</head>
+              <p>AB-043</p>
+            </odd>
+            <odd id="aspace_6cdc2ef63e6c6374fade137ba82e2be8">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen walking in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_97dc6913567dd98b24b14678a66c9443" level="file">
+            <did>
+              <unittitle>Joanne Copeland with Basket of Grapes</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_0230eb406860d50b3a56ab7b14f7d312" label="box" type="Box">160</container>
+              <container id="aspace_be7d7c6d8388bdbf5fe8ed5c71a42a30" parent="aspace_0230eb406860d50b3a56ab7b14f7d312"
+              type="Folder">43</container>
+            </did>
+            <odd id="aspace_41b8482cc189918ff97cc9e462c80e1d">
+              <head>Image Number</head>
+              <p>AB-044</p>
+            </odd>
+            <odd id="aspace_89f92c5794bc47756126b9643d37122a">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen with basket of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2079021ce9fe3a2051176eb48a64e9ab" level="file">
+            <did>
+              <unittitle>Joanne Copeland Sitting on Wall</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_d1c00e1f1a3398521f085a0eebd26e00" label="box" type="Box">160</container>
+              <container id="aspace_50a2b1d372bd9307bc935272a4bfb46e" parent="aspace_d1c00e1f1a3398521f085a0eebd26e00"
+              type="Folder">44</container>
+            </did>
+            <odd id="aspace_253eab9a0743a6a933c5c186363225ba">
+              <head>Image Number</head>
+              <p>AB-045</p>
+            </odd>
+            <odd id="aspace_0847846a43b2edfd6cd02ac2e283fcf3">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen sitting on wall with basket of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4c0a6972538e476d5a70a0ada7d81803" level="file">
+            <did>
+              <unittitle>Joanne Copeland Holding Grape Bunch</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_23b4c33b54a267d335f819e09658c127" label="box" type="Box">160</container>
+              <container id="aspace_883b8f137623e9aca17036f3ead6eb5a" parent="aspace_23b4c33b54a267d335f819e09658c127"
+              type="Folder">45</container>
+            </did>
+            <odd id="aspace_278a2185bf6b2c462c334ef612da7c33">
+              <head>Image Number</head>
+              <p>AB-046</p>
+            </odd>
+            <odd id="aspace_54d03497876cf871a01fb1999bf7a2b9">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen holding grape bunch in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_dbd0b48b5b07c58b5d70b3e3843795d1" level="file">
+            <did>
+              <unittitle>Joanne Copeland with Basket of Grapes in Vineyard</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_1d4410c9875d2bfd0c96d421d0c259b8" label="box" type="Box">160</container>
+              <container id="aspace_17ef02554023c16e12d47f05910542ea" parent="aspace_1d4410c9875d2bfd0c96d421d0c259b8"
+              type="Folder">46</container>
+            </did>
+            <odd id="aspace_9114edfdb5919f3ac3dc1786f889a3e5">
+              <head>Image Number</head>
+              <p>AB-047</p>
+            </odd>
+            <odd id="aspace_7ff112493477eefc46d5f229519ecfee">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen holding basket of grapes in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_deeb7603eaeabf5c3ae1ea9ec493ee61" level="file">
+            <did>
+              <unittitle>Joanne Copeland with Basket of Grapes in Vineyard</unittitle>
+              <unitdate normal="1955/1955">1955</unitdate>
+              <container id="aspace_f85d98a9fc10297072bf1c88793fa8ce" label="box" type="Box">160</container>
+              <container id="aspace_62785f221cc5ad3d587f325b18e34588" parent="aspace_f85d98a9fc10297072bf1c88793fa8ce"
+              type="Folder">47</container>
+            </did>
+            <odd id="aspace_aba54a5c6932b65e165c56db3379db64">
+              <head>Image Number</head>
+              <p>AB-048</p>
+            </odd>
+            <odd id="aspace_d995f1bd87004fd637d3b30df6d465fd">
+              <head>Caption</head>
+              <p>Joanne Copeland, Vintage Queen holding basket of grapes in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1a9fbb53a3edb69caa10f0ccabcdaf50" level="file">
+            <did>
+              <unittitle>Dee Hardy</unittitle>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_e3bf23a0194fdf2d0de0143ab2192101" label="box" type="Box">160</container>
+              <container id="aspace_d128ae5c20e1a2dee6ebf296f9c3be91" parent="aspace_e3bf23a0194fdf2d0de0143ab2192101"
+              type="Folder">48</container>
+            </did>
+            <odd id="aspace_135d543041f8c17561dcd11f66622418">
+              <head>Image Number</head>
+              <p>AB-049</p>
+            </odd>
+            <odd id="aspace_43b919fe1271dba066a78f518a2f1d80">
+              <head>Caption</head>
+              <p>DEE HARDY, a San Francisco dramatic arts student, was selected as the National Vintage Queen 1957-58. The 23 year
+              old auburn haired, hazel eyed California girl reigned over National Wine Week Oct 12-15 after being crowned at the
+              State Fair &amp; Exposition in Sacramento, CA.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7fdb78cbec714be4b03e7e2e1e43ec64" level="file">
+            <did>
+              <unittitle>Dee Hardy Holding Large Champagne Glass</unittitle>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_b60c5ccab62a70b991dbefb0ee4f8e17" label="box" type="Box">160</container>
+              <container id="aspace_5fb3bde954eb8d1a057baeefcea640b4" parent="aspace_b60c5ccab62a70b991dbefb0ee4f8e17"
+              type="Folder">49</container>
+            </did>
+            <odd id="aspace_e12c275c954126c7aac710ad20866021">
+              <head>Image Number</head>
+              <p>AB-050</p>
+            </odd>
+            <odd id="aspace_4542d1d54c33297c3cbe4289c39d2505">
+              <head>Caption</head>
+              <p>Vintage Queen Dee Hardy holding large champagne glass. Dee Hardy from SF, CA was selected National Vintage Queen
+              for 1957-58. She attended vintage festivals, dinners &amp; other events during observance of National Wine Week.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6ccfce2e9117837c010ff5a82395bc84" level="file">
+            <did>
+              <unittitle>Dee Hardy Pegging Cork with Mallet</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_4a3ec5ac7e56774100577ffd94bdc166" label="box" type="Box">160</container>
+              <container id="aspace_5e0f4b9d599ea239434f3183ba336988" parent="aspace_4a3ec5ac7e56774100577ffd94bdc166"
+              type="Folder">50</container>
+            </did>
+            <odd id="aspace_c0c330f4d4db42171b86d7ec88ad7fdf">
+              <head>Image Number</head>
+              <p>AB-051</p>
+            </odd>
+            <odd id="aspace_af57718b6614b5229804c67701d18054">
+              <head>Caption</head>
+              <p>Dee Hardy, Vintage Queen 1957-58, pegging cork with mallet.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fe95fe02ffe80c823c552e9070f7ca4e" level="file">
+            <did>
+              <unittitle>Diane Bagshaw in Vineyard</unittitle>
+              <unitdate normal="1953/1953">1953</unitdate>
+              <container id="aspace_e6b5c62d4d6833685deb29a311433b92" label="box" type="Box">160</container>
+              <container id="aspace_411b792819390b53c9499f27ce5192fe" parent="aspace_e6b5c62d4d6833685deb29a311433b92"
+              type="Folder">51</container>
+            </did>
+            <odd id="aspace_f6b20e8f7b87cbda349fcd93e7c4165d">
+              <head>Image Number</head>
+              <p>AB-036-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8cc2b59745b30f64fb5f329c73067941" level="file">
+            <did>
+              <unittitle>Dee Hardy Checks Ripening Grapes</unittitle>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_2d90a56b0d6d7fdc3f7816c5425c5753" label="box" type="Box">161</container>
+              <container id="aspace_8cb8f0fe180058ab043f995dfa756e82" parent="aspace_2d90a56b0d6d7fdc3f7816c5425c5753"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_877728edcbfc7d9f29e74d04ebbabedd">
+              <head>Image Number</head>
+              <p>AB-052</p>
+            </odd>
+            <odd id="aspace_fda9ce9371d3b6a9771ccd7d97e78866">
+              <head>Caption</head>
+              <p>Dee Hardy, Vintage Queen checks ripening grapes with a California vintner.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_30bbf8220c3b7703f07d6e8680add1a2" level="file">
+            <did>
+              <unittitle>Dee Hardy in Picnic Setting</unittitle>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_b69a79839045c91ba8aa82f72619ba2c" label="box" type="Box">161</container>
+              <container id="aspace_1b3c9054be142c21aa5a8b9dd92b054b" parent="aspace_b69a79839045c91ba8aa82f72619ba2c"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_7b668a9d1b85aa3ca4b42264d6cf059a">
+              <head>Image Number</head>
+              <p>AB-053</p>
+            </odd>
+            <odd id="aspace_84948238433407f07fbf72d91c972746">
+              <head>Caption</head>
+              <p>Dee Hardy, Vintage Queen in picnic setting in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_20c8ed016cca9d1ec75ebbb75d6f511d" level="file">
+            <did>
+              <unittitle>Dee Hardy in Evening Gown</unittitle>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_d6734fa6d4626ed233fa1e67da482fee" label="box" type="Box">161</container>
+              <container id="aspace_31ccfe1d4ed5f27cca58f9ca112d8c99" parent="aspace_d6734fa6d4626ed233fa1e67da482fee"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_4193ae4e7e5762dd29a7b872deead631">
+              <head>Image Number</head>
+              <p>AB-054</p>
+            </odd>
+            <odd id="aspace_a9770ab7fc8f4f43b787793fc6ba3de9">
+              <head>Caption</head>
+              <p>Dee Hardy, Vintage Queen in evening gown holding chanpagne glass.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7e95106de38299fadbdc64ee2737896e" level="file">
+            <did>
+              <unittitle>Vintage Queen Tapping Wine Barrel</unittitle>
+              <unitdate normal="1957/1957">1957?</unitdate>
+              <container id="aspace_7cb2c0469b7e348825ebdee785f6faf4" label="box" type="Box">161</container>
+              <container id="aspace_603d2dcd2d40291c9ae519cb13953106" parent="aspace_7cb2c0469b7e348825ebdee785f6faf4"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_e458f556f99a5983f1df79431702c915">
+              <head>Image Number</head>
+              <p>AB-055</p>
+            </odd>
+            <odd id="aspace_b14dfecce9c212c1cba0c0680b60956c">
+              <head>Caption</head>
+              <p>Vintage Queen tapping wine barrel. No name or date given.</p>
+            </odd>
+            <scopecontent id="aspace_b3c745afb604a82c654f9bc1d82db90a">
+              <head>Scope and Contents</head>
+              <p>Dee Hardy?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_005ab42e37508e9630a0c8c25d430757" level="file">
+            <did>
+              <unittitle>Vintage Queen Holding Oversize Calendar</unittitle>
+              <unitdate normal="1957-10/1957-10">October 1957</unitdate>
+              <container id="aspace_d4e4f6cc4ea18382a49462f698b1b2e5" label="box" type="Box">161</container>
+              <container id="aspace_d70098f667954af687264184df4a971b" parent="aspace_d4e4f6cc4ea18382a49462f698b1b2e5"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_37a00738b6ccfadee55fe800810b2225">
+              <head>Image Number</head>
+              <p>AB-056</p>
+            </odd>
+            <odd id="aspace_61e008f0f19065f21e74d792a3990e5f">
+              <head>Caption</head>
+              <p>Vintage Queen holding oversize calendar (Oct 1957). No name given.</p>
+            </odd>
+            <scopecontent id="aspace_70c578f00e952809f4e0db93f6a0315d">
+              <head>Scope and Contents</head>
+              <p>Dee Hardy?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_eccbc517e475d5e6fc90d652e7443181" level="file">
+            <did>
+              <unittitle>Vintage Queen Holding Wine Glass</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_4f5b7b558f201ff6991cfe0c3e93f628" label="box" type="Box">161</container>
+              <container id="aspace_3abbffadea69ea71bf0ba1af7c60588f" parent="aspace_4f5b7b558f201ff6991cfe0c3e93f628"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_89743380c63a1d4da41f5328b6e6bd6b">
+              <head>Image Number</head>
+              <p>AB-057</p>
+            </odd>
+            <odd id="aspace_b7020cd7343c0001a704b9152c50913c">
+              <head>Caption</head>
+              <p>Vintage Queen holding wine glass. No name given.</p>
+            </odd>
+            <scopecontent id="aspace_bf4505b24701317b3fb196ec09876444">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_b5ddfdf5c7606fadc8bad40b23dd9f99" level="file">
+            <did>
+              <unittitle>Vintage Queen on Ladder by Large Wine Processing Barrels</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_5f311a7cfcd4aac324e080783f01a907" label="box" type="Box">161</container>
+              <container id="aspace_ee6c55cf835e717422950bf16f469928" parent="aspace_5f311a7cfcd4aac324e080783f01a907"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_15c3d7150edd2a8ceb119436f9fdf84b">
+              <head>Image Number</head>
+              <p>AB-058</p>
+            </odd>
+            <odd id="aspace_87868d51ec2a5aee92f1d095a69c2434">
+              <head>Caption</head>
+              <p>Vintage Queen on ladder by large wine processing barrels. No name or date given.</p>
+            </odd>
+            <scopecontent id="aspace_21c474333c05618a24df2a1ef0769fc3">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_fc3663296c1339788b8ea430d6658f1d" level="file">
+            <did>
+              <unittitle>Vintage Queen with Man Holding Basket</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_31092fb3b16f0201c2de1bf2647371ef" label="box" type="Box">161</container>
+              <container id="aspace_684a064ef5a4f50c386c30481cb54e2e" parent="aspace_31092fb3b16f0201c2de1bf2647371ef"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_8ba9891c193ca8372d78d3a275cf287e">
+              <head>Image Number</head>
+              <p>AB-059</p>
+            </odd>
+            <odd id="aspace_4289341d716212f9063f1be303283e2b">
+              <head>Caption</head>
+              <p>Vintage Queen with man holding basket.</p>
+            </odd>
+            <scopecontent id="aspace_6c11c78609c4a0a4adb9717ddfbcdf4e">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_0186b0d70637f6d86e84faabc3852f61" level="file">
+            <did>
+              <unittitle>June Adler Being Crowned with Grape Wreath</unittitle>
+              <unitdate normal="1959/1959">1959</unitdate>
+              <container id="aspace_df8f48025a3b9de080b421a414bb75ad" label="box" type="Box">161</container>
+              <container id="aspace_880580d228fd7a01b65054820c840087" parent="aspace_df8f48025a3b9de080b421a414bb75ad"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_0ae735e089c43d7645306fae3a9a2ee4">
+              <head>Image Number</head>
+              <p>AB-060</p>
+            </odd>
+            <odd id="aspace_4dc70a6c84c8a0ba187e20e68ca0fcb2">
+              <head>Caption</head>
+              <p>Vintage Queen June Adler being crowned with grape wreath. No date given.</p>
+            </odd>
+            <scopecontent id="aspace_dd76cf22b2f5e27bbdd7993aa470d1ca">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_3c10dfcf396c3be010252b3aa940823d" level="file">
+            <did>
+              <unittitle>Vintage Queen on Wagon Wheel</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_f8bacf2d48a91858b9a028966bd2ce3e" label="box" type="Box">161</container>
+              <container id="aspace_29bf261a383faf92f619d0ff61bfa8d1" parent="aspace_f8bacf2d48a91858b9a028966bd2ce3e"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_f9f7864b157cc42b277212e6731409b7">
+              <head>Image Number</head>
+              <p>AB-061</p>
+            </odd>
+            <odd id="aspace_1f2b7681687f983f6f1b265709c3da7a">
+              <head>Caption</head>
+              <p>Vintage Queen on wagon wheel in vineyard. No name or date given.</p>
+            </odd>
+            <scopecontent id="aspace_552c0d740681b910ea048cedde8655ea">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_8f300bd9fef094904f29b6628c3f630f" level="file">
+            <did>
+              <unittitle>Vintage Queen Being Crowned</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_4ea603f1b3a07e47cf27a3b70a1fa9a0" label="box" type="Box">161</container>
+              <container id="aspace_d9729ff4adf13960f9fc056590a7c3ad" parent="aspace_4ea603f1b3a07e47cf27a3b70a1fa9a0"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_890b4ee1fe54c40edfa1ee83c663506b">
+              <head>Image Number</head>
+              <p>AB-062</p>
+            </odd>
+            <odd id="aspace_17fef3d9a6cc2bbcd126c7713ef53a85">
+              <head>Caption</head>
+              <p>Vintage Queen being crowned. No name or date given.</p>
+            </odd>
+            <scopecontent id="aspace_5f6425108334f982d7cd89570d13bae5">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_74c53571f98de835b97da805646d6303" level="file">
+            <did>
+              <unittitle>June Adler Next to Large Barrels with Glass of Wine</unittitle>
+              <unitdate normal="1959/1959">1959</unitdate>
+              <container id="aspace_30b02d29b40a86e17394b9dbd04fcc1e" label="box" type="Box">161</container>
+              <container id="aspace_e0fb060dbe99e1a6f6167fdec599bb85" parent="aspace_30b02d29b40a86e17394b9dbd04fcc1e"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_dafe12d3db3d08b81eb19cac5d05e9ce">
+              <head>Image Number</head>
+              <p>AB-063</p>
+            </odd>
+            <odd id="aspace_c529eb0fc965b7f382b9e81a6dbc0f3a">
+              <head>Caption</head>
+              <p>June Adler, Vintage Queen 1959, standing next to large aging barrels with glass of wine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cf3ebb4a521675d8e5e7435ad858e1d0" level="file">
+            <did>
+              <unittitle>June Adler in Evening Gown with Glass of Wine</unittitle>
+              <unitdate normal="1959/1959">1959</unitdate>
+              <container id="aspace_c8fa62ba83418ae92462b38fa78cb4f8" label="box" type="Box">161</container>
+              <container id="aspace_76494218dab11f05ce70af89ecc4a10e" parent="aspace_c8fa62ba83418ae92462b38fa78cb4f8"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_303fc1e4adb619cba35ff80214b780f1">
+              <head>Image Number</head>
+              <p>AB-064</p>
+            </odd>
+            <odd id="aspace_6f17c0921bb4e04d00acd6292db2c139">
+              <head>Caption</head>
+              <p>June Adler, National Vintage Queen 1959, in evening gown with glass of wine in home setting.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d1c6fe83641cf6fb64d06b950c20ba1a" level="file">
+            <did>
+              <unittitle>Vintage Queen Standing Next to Vintage Wine Pressing Machine</unittitle>
+              <unitdate normal="1959/1959">1959?</unitdate>
+              <container id="aspace_98d40f95e757c3e5f5c91100791a3924" label="box" type="Box">161</container>
+              <container id="aspace_c96da04f3c13295fa2e105aa4a195545" parent="aspace_98d40f95e757c3e5f5c91100791a3924"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_f30d81642f58845639cb74b4326fce80">
+              <head>Image Number</head>
+              <p>AB-066</p>
+            </odd>
+            <odd id="aspace_23d33f9d2a17ea997fc59b7232220a84">
+              <head>Caption</head>
+              <p>Vintage Queen standing next to old vintage wine pressing machine. No name or date given.</p>
+            </odd>
+            <scopecontent id="aspace_f93fa6a67b8425016cb034b3d27f7f02">
+              <head>Scope and Contents</head>
+              <p>June Adler?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_b1b54bcce1f03f0f8a55f6b343b6f0c0" level="file">
+            <did>
+              <unittitle>Vintage Queen Holding Crate of Grapes</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_60c9089db6656d1fd42381ce64b8b7fe" label="box" type="Box">161</container>
+              <container id="aspace_251ba61befdbe604de5d4f6aecaf2d8d" parent="aspace_60c9089db6656d1fd42381ce64b8b7fe"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_0d355146276d4747ac05f5d1cbabee9e">
+              <head>Image Number</head>
+              <p>AB-067</p>
+            </odd>
+            <odd id="aspace_e8a928c8a59cf4d7f842325876c2ad57">
+              <head>Caption</head>
+              <p>Vintage Queen holding crate of grapes. No name or date given.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_318050e722a48b78ceb3a1112bf2b615" level="file">
+            <did>
+              <unittitle>Vintage Queen Stomping Grapes in Barrel</unittitle>
+              <unitdate normal="0000/0000">October [no year given]</unitdate>
+              <container id="aspace_8b0e8016628c0d90a374671760c6e458" label="box" type="Box">161</container>
+              <container id="aspace_a28356d6184494d9c327cfdbd401df32" parent="aspace_8b0e8016628c0d90a374671760c6e458"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_d4d727397087981d5708c1bba49d1b9a">
+              <head>Image Number</head>
+              <p>AB-068</p>
+            </odd>
+            <odd id="aspace_d160aa8d5db39fce899a3e19c0b7e2d3">
+              <head>Caption</head>
+              <p>Vintage Queen stomping grapes in barrel. No name or year given. No photo.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2fe6cd329bf194b9ec8fa2b78bb177a6" level="file">
+            <did>
+              <unittitle>Vintage Queen Being Crowned</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_8581b2f167cc6e3b90a44998afc1bb6f" label="box" type="Box">161</container>
+              <container id="aspace_7b79a2d43e13e8dabcc4b21c20162c12" parent="aspace_8581b2f167cc6e3b90a44998afc1bb6f"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_f2eb022689c2cd95928be9be4ad0be02">
+              <head>Image Number</head>
+              <p>AB-069</p>
+            </odd>
+            <odd id="aspace_a75ce20468fa720579aad8056596a017">
+              <head>Caption</head>
+              <p>Vintage Queen being crowned. No name or date given.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_b5d919d26a5cb9a81a88f97784480cc9" level="file">
+            <did>
+              <unittitle>Vintage Queen Posing in Vineyard with Crates Full of Grapes</unittitle>
+              <unitdate normal="0000/0000">October [no year given]</unitdate>
+              <container id="aspace_1590fa6b671622c315d93636a7165532" label="box" type="Box">161</container>
+              <container id="aspace_e9af1513e35902b8cf4496b735b94aba" parent="aspace_1590fa6b671622c315d93636a7165532"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_014249d16e778f3f13e659bcb97e2280">
+              <head>Image Number</head>
+              <p>AB-070</p>
+            </odd>
+            <odd id="aspace_a283bd168e2c725da3093dd159906cf2">
+              <head>Caption</head>
+              <p>Vintage Queen posing in vineyard with crates full of grapes. No name or date given.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d31392502f1be8d8c512e815c13e1062" level="file">
+            <did>
+              <unittitle>Cenntenial Vintage Queen in Garden with Water Fountain</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_19bf1d2d385124566e9a8b849f030590" label="box" type="Box">161</container>
+              <container id="aspace_7e60b7ebfb52e85eb160e64b4789d461" parent="aspace_19bf1d2d385124566e9a8b849f030590"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_7c25dc9865290ffef37178b29925ee06">
+              <head>Image Number</head>
+              <p>AB-071</p>
+            </odd>
+            <odd id="aspace_548581c91fde9fd16408488127c088b5">
+              <head>Caption</head>
+              <p>Cenntenial Vintage Queen in garden with water fountain in background.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6b6929a73c0be9df1b464c9515803820" level="file">
+            <did>
+              <unittitle>Vintage Queen Sitting on Wine Barrel</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_52df072ab058f555d3e6bd6fb0d1c935" label="box" type="Box">161</container>
+              <container id="aspace_0e4bc87c266c450c8dee7e4ee51728bd" parent="aspace_52df072ab058f555d3e6bd6fb0d1c935"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_990ef9c053bf41b771bd53b4a0b8d566">
+              <head>Image Number</head>
+              <p>AB-072</p>
+            </odd>
+            <odd id="aspace_3a6aebb067b0f1f721378249854d3227">
+              <head>Caption</head>
+              <p>Vintage Queen sitting on wine barrel.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bf776108c370f9c9ed6dce8ffaf942e5" level="file">
+            <did>
+              <unittitle>Vintage Queen in Vineyard with Crates of Grapes</unittitle>
+              <unitdate normal="1962/1962">1962</unitdate>
+              <container id="aspace_db3983fbc572019e3f399336b8cc65ef" label="box" type="Box">161</container>
+              <container id="aspace_70c452450eea6b71f610f91dc70c5ee3" parent="aspace_db3983fbc572019e3f399336b8cc65ef"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_0932e2ee7043bfb3d20e0feff5088edb">
+              <head>Image Number</head>
+              <p>AB-073</p>
+            </odd>
+            <odd id="aspace_df67c984867e03f37979351b1e22954b">
+              <head>Caption</head>
+              <p>Vintage Queen in vineyard with crates of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3f46a4284b427945d2ef92baf3048888" level="file">
+            <did>
+              <unittitle>Pat Campbell Posing in Garden</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Pearl, Norton</persname>
+              </origination>
+              <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+              <container id="aspace_39c78dc04818f343b70a3f1b6cf307f6" label="box" type="Box">161</container>
+              <container id="aspace_34b8b8ace578841534462bbe159930cc" parent="aspace_39c78dc04818f343b70a3f1b6cf307f6"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_f1a5dbeb0b0eed2d5eb743870541a2b8">
+              <head>Image Number</head>
+              <p>AB-074</p>
+            </odd>
+            <odd id="aspace_24495ae368c3f3462b74e18fe6db5760">
+              <head>Caption</head>
+              <p>Pat Campbell, National Vintage Queen 1962-63, posing in garden.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_67de5fa27eb41d62d3a584e3041d5d0b" level="file">
+            <did>
+              <unittitle>Pat Campbell Picking Grapes in Vineyard</unittitle>
+              <origination audience="internal" label="creator">
+                <persname rules="rda" source="local">Pearl, Norton</persname>
+              </origination>
+              <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+              <container id="aspace_2033816533f2affec45830011d04a1e1" label="box" type="Box">161</container>
+              <container id="aspace_419e5cfaabeac6dc336c85fddc70d290" parent="aspace_2033816533f2affec45830011d04a1e1"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_69428965e146132688e6c8684a958607">
+              <head>Image Number</head>
+              <p>AB-075</p>
+            </odd>
+            <odd id="aspace_f642b538b2479d1d1becf6a906020181">
+              <head>Caption</head>
+              <p>Pat Campbell, National Vintage Queen 1962-63, picking grapes in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c9427db95d4411acfe1e96ca642810ee" level="file">
+            <did>
+              <unittitle>Wine Queen Marilyn Lockway with "The Wine Press" Statue</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_97e256665170b01681c81362e30085b2" label="box" type="Box">161</container>
+              <container id="aspace_ce65126e02069049fbb228bfe7c50aa2" parent="aspace_97e256665170b01681c81362e30085b2"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_2873b7cce6961f208c9cbaa1498d61fa">
+              <head>Image Number</head>
+              <p>AB-077</p>
+            </odd>
+            <odd id="aspace_adc66e40fd7076f5de69987ba2116e24">
+              <head>Caption</head>
+              <p>Marilyn Lockway, 1963 National Wine Queen with "The Wine Press," statue by Douglas Tilden in Golden Gate Park.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_593232ac1cfe7118a8d9a4574400e5f6" level="file">
+            <did>
+              <unittitle>Marilyn Lockway Examines Old Wine Press</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_7a8a7a5433eded66e3d391e4e404bdc7" label="box" type="Box">161</container>
+              <container id="aspace_d405c8c9a9d7a51aaaacb554b7a689a6" parent="aspace_7a8a7a5433eded66e3d391e4e404bdc7"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_8ed2bd15c844f1d55000d7795b689b05">
+              <head>Image Number</head>
+              <p>AB-078</p>
+            </odd>
+            <odd id="aspace_ac334877297d1653090d048cd88b2ccd">
+              <head>Caption</head>
+              <p>1963 National Wine Queen Marilyn Lockway examines an old fashioned wine press.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2c58d8733299792a0da86b43e2f59505" level="file">
+            <did>
+              <unittitle>Marilyn Lockway with Glass of Wine</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_ffa43b529afaaa9ed89583b155b58f0a" label="box" type="Box">161</container>
+              <container id="aspace_04e64173d2cf3ed0aa8cc81ff7491cb2" parent="aspace_ffa43b529afaaa9ed89583b155b58f0a"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_190061581a42bed1b175283ae797472d">
+              <head>Image Number</head>
+              <p>AB-079</p>
+            </odd>
+            <odd id="aspace_b1d13a5d92d072aa89169ed9ba728609">
+              <head>Caption</head>
+              <p>A Toast to 1963 National Wine Week by Queen Marilyn Lockway.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_773aa9099bdad385eff08e3fd7f1d1d3" level="file">
+            <did>
+              <unittitle>Marilyn Lockway in Vineyard with Crates of Grapes</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_fa204887105bef66a9ebf6bdda6485ad" label="box" type="Box">161</container>
+              <container id="aspace_86c93c1daa2c28c06a307c45f2f265c9" parent="aspace_fa204887105bef66a9ebf6bdda6485ad"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_de9ee31dbbaaa1f1e95493231fd7bd24">
+              <head>Image Number</head>
+              <p>AB-080</p>
+            </odd>
+            <odd id="aspace_f9f4e5444bd8c58fe4853fcd1de200e3">
+              <head>Caption</head>
+              <p>Choice pickings in this California Vineyard as National Wine Queen Marilyn Lockway helps with the fall vintage
+              prior to her reign during National Wine Week October 19-26, 1963.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6c90aa964b053c04fd0dff36482164ed" level="file">
+            <did>
+              <unittitle>Marilyn Lockway Standing Next to Oversize Champagne Glass</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Associated Press</corpname>
+              </origination>
+              <unitdate normal="1963-09/1963-09">September 1963</unitdate>
+              <container id="aspace_0e0cd48eaeb0ec194b71ef267b600d9c" label="box" type="Box">161</container>
+              <container id="aspace_564190344642aa0256e6b10b0b5c1f0a" parent="aspace_0e0cd48eaeb0ec194b71ef267b600d9c"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_e43142d96f0f8bc09ba5887e03ac00b0">
+              <head>Image Number</head>
+              <p>AB-081</p>
+            </odd>
+            <odd id="aspace_5250cee7ba032370339e6b17981bf360">
+              <head>Caption</head>
+              <p>Marlyn Lockway, National Wine Queen Sept. 1963 standing next to oversize champagne glass.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_09970d58d1c8ddb9389cdfa570a5b20e" level="file">
+            <did>
+              <unittitle>Queen Marilyn Lockway By Poolside</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_2d11c8066e8719bc9b0b9f5a13db12a7" label="box" type="Box">161</container>
+              <container id="aspace_ab4d0e862854cfaf3506be4adc101576" parent="aspace_2d11c8066e8719bc9b0b9f5a13db12a7"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_d41ab46256e137d5afdca09e95ce5805">
+              <head>Image Number</head>
+              <p>AB-082</p>
+            </odd>
+            <odd id="aspace_90a8745db383d2767e4a7e740136e238">
+              <head>Caption</head>
+              <p>Wine Queen Marilyn Lockway lounging by poolside.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f52da0662948ff450dc4abe49715069c" level="file">
+            <did>
+              <unittitle>Marilyn Lockway Strolling in Vineyard Barefoot</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_1d4979cb549c74c39f71d1a731c59408" label="box" type="Box">161</container>
+              <container id="aspace_8c2ad6e0d706c6f1d0b7c2c244002cc2" parent="aspace_1d4979cb549c74c39f71d1a731c59408"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_fb0ce69b99430105c1e8d4eaa7876ac6">
+              <head>Image Number</head>
+              <p>AB-083</p>
+            </odd>
+            <odd id="aspace_1fbed6477e31582c45a44375d2d6e6c6">
+              <head>Caption</head>
+              <p>Wine Queen Marilyn Lockway strolling in vineyard barefoot with basket of grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8747209c51dc52655f6aa908e5df36c2" level="file">
+            <did>
+              <unittitle>Marilyn Lockway Standing in Vineyard</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_67290d3ee6cd763b94f509da70113afd" label="box" type="Box">161</container>
+              <container id="aspace_e2de6143336fd61efb74ff406ae10946" parent="aspace_67290d3ee6cd763b94f509da70113afd"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_11072e4e84365b9d4deac61279c852fc">
+              <head>Image Number</head>
+              <p>AB-084</p>
+            </odd>
+            <odd id="aspace_28056b6201ff1587ba64969d4c6572b0">
+              <head>Caption</head>
+              <p>Marilyn Lockway National Wine Queen 1963 standing in vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a053f0fc09cf580aeadeb9ff769cac15" level="file">
+            <did>
+              <unittitle>Wine Queen Sitting with Golden Gate Bridge in Background</unittitle>
+              <unitdate normal="1965/1965">1965?</unitdate>
+              <container id="aspace_11d9171f928a317b1677f52a3dcc7fda" label="box" type="Box">161</container>
+              <container id="aspace_9ef4275214380d55d4fa6192a0cbeba2" parent="aspace_11d9171f928a317b1677f52a3dcc7fda"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_1c27d1fa215c1cbb178d3b8f7ce3e762">
+              <head>Image Number</head>
+              <p>AB-085</p>
+            </odd>
+            <odd id="aspace_7be212d2474ac4d6ee66c6da824d4b7f">
+              <head>Caption</head>
+              <p>Wine Queen sitting with Golden Gate Bridge in background and basket of grapes in hand.</p>
+            </odd>
+            <scopecontent id="aspace_90288d871d89ee3fe0cf6a4264044615">
+              <head>Scope and Contents</head>
+              <p>Bonnie Barrett?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_ad2818314a3e333a307e92b181592559" level="file">
+            <did>
+              <unittitle>Bonnie Barrett in Vineyard with Grapes in Hand</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_5b1d2ac36ee27a17131bec9f05ff98b5" label="box" type="Box">161</container>
+              <container id="aspace_500b84c31403e6c8eaf73aa0ced78c14" parent="aspace_5b1d2ac36ee27a17131bec9f05ff98b5"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_436da1386a3ea349de778a38404c2445">
+              <head>Image Number</head>
+              <p>AB-086</p>
+            </odd>
+            <odd id="aspace_25a87936283a76f1f005622b1031afbd">
+              <head>Caption</head>
+              <p>Bonnie Barrett, National Wine Queen 1965 in vineyard with grapes in hand.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7c138100a948d7f998f4f201bcf784b0" level="file">
+            <did>
+              <unittitle>Bonnie Barrett with Large Aging Casks</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_4ab346ffce1610065ed897f2b0cdc4ce" label="box" type="Box">161</container>
+              <container id="aspace_157adaa88815ddf092262036a205026c" parent="aspace_4ab346ffce1610065ed897f2b0cdc4ce"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_dbaae9e88efcf449af9c13a2f2aa75b9">
+              <head>Image Number</head>
+              <p>AB-087</p>
+            </odd>
+            <odd id="aspace_e5db568164c6abe255bcbf83a6a0f195">
+              <head>Caption</head>
+              <p>Wine Queen Bonnie Barrett is dwarfed by huge casks holding aging California wines.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8d81e735048f649b0c89e76b7c26863d" level="file">
+            <did>
+              <unittitle>Bonnie Barrett Drawing Wine From Cask</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_55725f7d93cee27dfee1779be0e859ab" label="box" type="Box">161</container>
+              <container id="aspace_4b3854eb1cd0ea293161e15b86f92abd" parent="aspace_55725f7d93cee27dfee1779be0e859ab"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_28af50d942d17712068b8f1bf41135e1">
+              <head>Image Number</head>
+              <p>AB-088</p>
+            </odd>
+            <odd id="aspace_944bc84ebc6d314494796f4af22f9c64">
+              <head>Caption</head>
+              <p>Wine Queen Bonnie Barrett drawing wine from cask.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d4f1155bd37f37294ac5c428c2ebe47f" level="file">
+            <did>
+              <unittitle>Bonnie Barrett in Vineyard</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_53cf0e0748d70da5189beeb6e37599f4" label="box" type="Box">161</container>
+              <container id="aspace_df8e88371437abe9d7507d975ca77ef7" parent="aspace_53cf0e0748d70da5189beeb6e37599f4"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_20fbefd76e327136b991435d26a2955c">
+              <head>Image Number</head>
+              <p>AB-089</p>
+            </odd>
+            <odd id="aspace_b11eaea5686dac3bfbbd5147900c2f69">
+              <head>Caption</head>
+              <p>National Wine Queen Bonnie Barrett displays part of the record California vintage gathered during her 1965
+              reign.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ce647e2d8af2924de9fda18225f036d3" level="file">
+            <did>
+              <unittitle>Jan Unser Inspecting Grape Harvest</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Kuykendall Studio</corpname>
+              </origination>
+              <unitdate normal="1969/1969" type="inclusive">1969-1969</unitdate>
+              <container id="aspace_0f804c435989843d0fe54518d0beb2e6" label="box" type="Box">161</container>
+              <container id="aspace_5ebd5dd4116589e3d0d9d388ea264939" parent="aspace_0f804c435989843d0fe54518d0beb2e6"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_5d21b2d3b8fc25a79d1b6799db7f1af2">
+              <head>Image Number</head>
+              <p>AB-090</p>
+            </odd>
+            <odd id="aspace_d73364a3f860c6c721a2d4257b7bff55">
+              <head>Caption</head>
+              <p>Jan Unser, National Wine Queen for 1968-69, inspects the harvest in one of the California vineyards she reigned
+              over.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8417214f5f305cc40c0302e764eb5030" level="file">
+            <did>
+              <unittitle>Jan Unser Catching a Fly Ball in a Vineyard</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Kuykendall Studio</corpname>
+              </origination>
+              <unitdate normal="1969/1969" type="inclusive">1969-1969</unitdate>
+              <container id="aspace_e0ad1440e29ed285d700f9c5d6767566" label="box" type="Box">161</container>
+              <container id="aspace_ee2c9495e405cd59d89bdb80c6a67d67" parent="aspace_e0ad1440e29ed285d700f9c5d6767566"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_03522650966f9469aa2ca49e3f854523">
+              <head>Image Number</head>
+              <p>AB-091</p>
+            </odd>
+            <odd id="aspace_fd34fd287b53e7ecd41f276ca9456fcd">
+              <head>Caption</head>
+              <p>Jan Unser, 1968-69 National Wine Queen, catches a fly ball in a California vineyard. She is the sister of major
+              league baseball player Del Unser and daughter of former major league manager Al Unser.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6787ec1fe8e0b679f13f07a926cba3ca" level="file">
+            <did>
+              <unittitle>Jan Unser Fielding a Baseball in Vineyard</unittitle>
+              <unitdate normal="1969/1969" type="inclusive">1969-1969</unitdate>
+              <container id="aspace_375b2419ec628815f9a5fc158bf98e34" label="box" type="Box">161</container>
+              <container id="aspace_602b2eec5c3ed4b7524b1b7d01b6f2c4" parent="aspace_375b2419ec628815f9a5fc158bf98e34"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_add908da72ffb51dcc169d40284c8e22">
+              <head>Image Number</head>
+              <p>AB-092</p>
+            </odd>
+            <odd id="aspace_f5155a7e7978ee337ebafef627121a40">
+              <head>Caption</head>
+              <p>National Wine Queen Jan Unser catches a fast ball in a California vineyard. The 1968-69 Queen comes from a
+              baseball family which includes brother Del Unser, a major league player and father Al Unser, a former major league
+              manager.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d70477f969333d98b378ac24d8733136" level="file">
+            <did>
+              <unittitle>Jan Unser in Winery Cellar Sitting on Wine Barrel</unittitle>
+              <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+              <container id="aspace_a3d93f6ff0080bc5caf195cb5581a770" label="box" type="Box">161</container>
+              <container id="aspace_84939e152cfb60511bf656f99c76c7d3" parent="aspace_a3d93f6ff0080bc5caf195cb5581a770"
+              type="Folder">40</container>
+            </did>
+            <odd id="aspace_14858dd6b2d49129c0e011527980c645">
+              <head>Image Number</head>
+              <p>AB-093</p>
+            </odd>
+            <odd id="aspace_3365ce3c8aeacd47620652cbd15b9371">
+              <head>Caption</head>
+              <p>1968-1969 National Wine Queen Jan Unser sits atop a wine cask in a California winery during her reign.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6b2568ad9195f9e13bbcdde062f22369" level="file">
+            <did>
+              <unittitle>Wine Queen in Winery Cellar Sitting on Wine Barrel</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_475efa6f4f898e1763afb0bba27164fe" label="box" type="Box">161</container>
+              <container id="aspace_2d3ec242ad558f27141060323721016c" parent="aspace_475efa6f4f898e1763afb0bba27164fe"
+              type="Folder">41</container>
+            </did>
+            <odd id="aspace_8bb85af63e195955d85453dd39669ab6">
+              <head>Image Number</head>
+              <p>AB-094</p>
+            </odd>
+            <odd id="aspace_63ce8e4d53cb4b69c81c5c0ba0df6c70">
+              <head>Caption</head>
+              <p>Unidentified Wine Queen in winery cellar sitting on wooden wine barrel.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d376bf23ef01ace611cc55ae3520cb27" level="file">
+            <did>
+              <unittitle>Wine Queen By Poolside</unittitle>
+              <origination audience="internal" label="creator">
+                <corpname source="local">Kuykendall Studio</corpname>
+              </origination>
+              <unitdate normal="1969/1969" type="inclusive">1969-1969</unitdate>
+              <container id="aspace_1a00b41acece6731cbb109678f35d1fd" label="box" type="Box">161</container>
+              <container id="aspace_d665c8b99d356622a4ca552f5e5dd7dc" parent="aspace_1a00b41acece6731cbb109678f35d1fd"
+              type="Folder">42</container>
+            </did>
+            <odd id="aspace_e328ab0473c1ec4d19d3066b484cc002">
+              <head>Image Number</head>
+              <p>AB-095</p>
+            </odd>
+            <odd id="aspace_3db140ae59c7c40ed0b623d96e366ee7">
+              <head>Caption</head>
+              <p>Jan Unser, National Wine Queen for 1968-69, makes a pretty poolside picture.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6783bae4caf0595ff6330795846bf1b5" level="file">
+            <did>
+              <unittitle>Wine Queen Sitting on Wooden Wine Crate</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_e454e7f7ea55946552a308d50ed81833" label="box" type="Box">161</container>
+              <container id="aspace_f00e48d88c7c1776f4a63280e0f1c196" parent="aspace_e454e7f7ea55946552a308d50ed81833"
+              type="Folder">43</container>
+            </did>
+            <odd id="aspace_3c810cb0ad20f0dd4de180c682ae637c">
+              <head>Image Number</head>
+              <p>AB-096</p>
+            </odd>
+            <odd id="aspace_2f6b71468f26a0ee6331b94e0b261f62">
+              <head>Caption</head>
+              <p>Unidentified Wine Queen sitting on wooden wine crate.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_913e25068de51ca296ba2643c4c0b454" level="file">
+            <did>
+              <unittitle>Susan Schwampe Holding Grapes in Vineyard</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_700c1ca749c145bc29592faf8891bf8b" label="box" type="Box">161</container>
+              <container id="aspace_e1368690fe4b0cdd175774b5a0dedc67" parent="aspace_700c1ca749c145bc29592faf8891bf8b"
+              type="Folder">44</container>
+            </did>
+            <odd id="aspace_de02bba13ebe0203202b61cc859b1c16">
+              <head>Image Number</head>
+              <p>AB-097</p>
+            </odd>
+            <odd id="aspace_82544c270f29feac4bbf7f58fc6b74ee">
+              <head>Caption</head>
+              <p>Susan Schwampe, Wine Queen holds grapes in vineyard celebrating 200th Anniversary.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1d5e23394283a53b9c2d8b3477a0ce53" level="file">
+            <did>
+              <unittitle>Susan Schwampe Standing Poolside</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_bace12b25858ece014177a76605b3e6b" label="box" type="Box">161</container>
+              <container id="aspace_b5a55c641f422e64121fe074169a4b92" parent="aspace_bace12b25858ece014177a76605b3e6b"
+              type="Folder">45</container>
+            </did>
+            <odd id="aspace_32315d2cac93449f3ad5e88811f71e51">
+              <head>Image Number</head>
+              <p>AB-098</p>
+            </odd>
+            <odd id="aspace_2554e6bd4970d95c838a5b60dc11d262">
+              <head>Caption</head>
+              <p>Susan Schwampe, Wine Queen standing poolside with CA wine bottle on table.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2adf6f8dc4e7d3238af46b4c5fa5f708" level="file">
+            <did>
+              <unittitle>Wine Queen Poolside Holding Glass of Wine</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c798e0b2cd179ff1a581c29c4e7b5ae8" label="box" type="Box">161</container>
+              <container id="aspace_feff0f9e6f4e1311cebc38015a532863" parent="aspace_c798e0b2cd179ff1a581c29c4e7b5ae8"
+              type="Folder">46</container>
+            </did>
+            <odd id="aspace_8f3cd9b958896367c682d8091423f9ec">
+              <head>Image Number</head>
+              <p>AB-100</p>
+            </odd>
+            <odd id="aspace_aade0c45db51e9cc93c4aa824600ef99">
+              <head>Caption</head>
+              <p>Wine Queen lounging poolside holding glass of wine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_b894f0ab749426bd7dba2eac8811dc5a" level="file">
+            <did>
+              <unittitle>Wine Queen Serving Wine at Tasting</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_70d03ff5c84560b1612b20a946ead775" label="box" type="Box">161</container>
+              <container id="aspace_80a5594decaeb99ebef3b4e79b0228ef" parent="aspace_70d03ff5c84560b1612b20a946ead775"
+              type="Folder">47</container>
+            </did>
+            <odd id="aspace_142365e9d94dbdc2ebcefc4ba4855e9a">
+              <head>Image Number</head>
+              <p>AB-101</p>
+            </odd>
+            <odd id="aspace_b34376a118a7cf5cd5768df0d1f8379b">
+              <head>Caption</head>
+              <p>Wine Queen serving wine at tasting.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9dbd0ea9b3f2d99b8dfee6afdeec3cc7" level="file">
+            <did>
+              <unittitle>National Wine Queen Displays California Wine Region Map</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_2316d42948dc714a3bbff62b20a654dc" label="box" type="Box">161</container>
+              <container id="aspace_b1617e7e10bad214229e666f7cade4b6" parent="aspace_2316d42948dc714a3bbff62b20a654dc"
+              type="Folder">48</container>
+            </did>
+            <odd id="aspace_46a2d3899c939df21c7b9964cdb8324a">
+              <head>Image Number</head>
+              <p>AB-102</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6541b94c941ca7903f013be70c7150a2" level="file">
+            <did>
+              <unittitle>1969 Wine Queen and Actor Vincent Price</unittitle>
+              <unitdate normal="1969/1969">1969</unitdate>
+              <container id="aspace_64f8cfda1f3e02b66a2ee0a78af6ba78" label="box" type="Box">161</container>
+              <container id="aspace_64cd4b951eee77f5cbeb5ffcd8914153" parent="aspace_64f8cfda1f3e02b66a2ee0a78af6ba78"
+              type="Folder">49</container>
+            </did>
+            <odd id="aspace_7083db6dd761731e8f48dcd5a572df9f">
+              <head>Image Number</head>
+              <p>AB-103</p>
+            </odd>
+          </c03>
+        </c02>
+      </c01>
     </dsc>
   </archdesc>
 </ead>
