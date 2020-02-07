@@ -51217,6 +51217,1005 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:is
             </odd>
           </c03>
         </c02>
+		      <c02 audience="internal" id="aspace_884b4065f9ea5fe9f0473f85a25ab80c" level="series">
+        <did>
+          <unittitle>Champagne</unittitle>
+          <unitdate normal="1941/1967" type="inclusive">1941-1967</unitdate>
+        </did>
+        <scopecontent audience="internal" id="aspace_95d63fe904c68efb986ebd92b373a04f">
+          <head>Scope and Contents</head>
+          <p>Photographic prints, photographic negatives, color transparencies, and color transparency negatives of bottling,
+          dosing, riddling, and aging champagne and other sparkling wines. Many images include captions. Arranged in alphabetical
+          order.</p>
+          <p>Note that photograph identification numbers with the suffix "c" indicate color transparencies.</p>
+        </scopecontent>
+        <odd audience="internal" id="aspace_104363a7fa9aaff85f100b46ec09436e">
+          <head>Wine Institute Photograph Classification</head>
+          <p>The following classification scheme is provided to give historical insight into the Wine Institute's photograph
+          archives and may no longer be fully accurate:</p>
+          <p>Bottle Fermenting: 000-400</p>
+          <p>000-090: Secondary fermentation in bottle</p>
+          <p>100-190: Riddling and candling</p>
+          <p>200-290: Disgorging</p>
+          <p>300-390: Dosage</p>
+          <p>400:490: Carsten Transfer</p>
+          <p>500-590: Charmat Process</p>
+          <p>600-690: Corking and Capping</p>
+          <p>700-990: Bottle Aging</p>
+        </odd>
+        <c03 id="aspace_2a67d116c4b3514e11b4f6f14f649ce5" level="file">
+          <did>
+            <unittitle>Almaden Vineyard - Los Gatos</unittitle>
+            <unitdate normal="1947/1947">1947</unitdate>
+            <container id="aspace_e52c25f6965b8d24f513a9d958893669" label="box" type="Box">193</container>
+            <container id="aspace_652c03a41fe57514c8b55ae1d4c8a3e9" parent="aspace_e52c25f6965b8d24f513a9d958893669" type="Folder">
+            1</container>
+          </did>
+          <odd id="aspace_390438732d4eba1b3a0926c1f46dd23c">
+            <head>Image Number</head>
+            <p>G-114</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_f9bf801a0fa8304d7e379c69c5d8c858" level="file">
+          <did>
+            <unittitle>Almaden, Los Gatos</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_29b9819cda0a41260c7d09461741d7a7" label="box" type="Box">193</container>
+            <container id="aspace_fa33d8325af032b76d05853727ae546e" parent="aspace_29b9819cda0a41260c7d09461741d7a7" type="Folder">
+            30</container>
+          </did>
+          <odd id="aspace_599e4fc46f4eaa738dd95e7f90ef0b46">
+            <head>Image Number</head>
+            <p>G-724</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_fa44d9ae08b5fbe68a64d94427a05e6f" level="file">
+          <did>
+            <unittitle>A-shaped riddling racks are used to shake yeast sediment into the bottle neck of bottle-fermented California
+            Champagne.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_31d74ca0f3f809456c556a3bb19eeb21" label="box" type="Box">193</container>
+            <container id="aspace_d4cd6cbe4ecf82d8ca39979f60ecbfa9" parent="aspace_31d74ca0f3f809456c556a3bb19eeb21" type="Folder">
+            39</container>
+          </did>
+          <odd id="aspace_08eb2e33ea7f79eb1885224dc87d2663">
+            <head>Image Number</head>
+            <p>G-009c</p>
+            <p>Also labeled C-9</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_7b5a9d9a36f09d8c82613f45ee4c5743" level="file">
+          <did>
+            <unittitle>Beaulieu: Champagne corking machine</unittitle>
+            <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+            <container id="aspace_b579a90b6c45ac286083a9b6f6d48be9" label="box" type="Box">193</container>
+            <container id="aspace_c20d13975c9b3fdac43cbc14e714f521" parent="aspace_b579a90b6c45ac286083a9b6f6d48be9" type="Folder">
+            23</container>
+          </did>
+          <odd id="aspace_7d13811bf931790a502654582e0c6d1c">
+            <head>Image Number</head>
+            <p>G-614</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_8da1258a74a393c46bd25f19556ed8be" level="file">
+          <did>
+            <unittitle>Bottle fermented California Champagne is loaded into a freezer to freeze yeast sediment in the bottle
+            neck.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_c9af3898439b9e7b37e265ba93b29388" label="box" type="Box">193</container>
+            <container id="aspace_cb7783582eebacd386de3188f09a375f" parent="aspace_c9af3898439b9e7b37e265ba93b29388" type="Folder">
+            40</container>
+          </did>
+          <odd id="aspace_7e433d55c42681458c93f619ec4aa464">
+            <head>Image Number</head>
+            <p>G-010c</p>
+            <p>Also labeled C-10</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_cccb39c50baf1ed5992e40b08725ce7a" level="file">
+          <did>
+            <unittitle>Bottle filling machine</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Harvey, Bill</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_d62fe936b1a9270dd14edb7e29d158c7" label="box" type="Box">193</container>
+            <container id="aspace_7921981433becc7c3a9cded10ae9b153" parent="aspace_d62fe936b1a9270dd14edb7e29d158c7" type="Folder">
+            17</container>
+          </did>
+          <odd id="aspace_0028eb9876566f2eba4322a251aeac94">
+            <head>Image Number</head>
+            <p>G-508</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_2ec0a2f9f2d91726c366d395d047e3e3" level="file">
+          <did>
+            <unittitle>Bottles of bottle-fermented California Champagne emerge from the freezer after sediment has been frozen in
+            the bottle neck for easy removal.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_ede630592bba790fcfdf1193ca30b099" label="box" type="Box">193</container>
+            <container id="aspace_1a3807cf2f6a63281d8a1926883f09db" parent="aspace_ede630592bba790fcfdf1193ca30b099" type="Folder">
+            41</container>
+          </did>
+          <odd id="aspace_be67ba15ce2693e6b813aa54ec6b79e3">
+            <head>Image Number</head>
+            <p>G-011c</p>
+            <p>Also labeled C-11</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_cb627db8c008858de6ab7612ce99a328" level="file">
+          <did>
+            <unittitle>Bottles of California Champagne receive their "dosage".</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_77185c35144f7a1845dc97823e49f91d" label="box" type="Box">193</container>
+            <container id="aspace_a42126222973b2bfec5b50d6b300e670" parent="aspace_77185c35144f7a1845dc97823e49f91d" type="Folder">
+            43</container>
+          </did>
+          <odd id="aspace_32e1b0f5dab35d3f354eae2534ada75b">
+            <head>Image Number</head>
+            <p>G-013c</p>
+            <p>Also labeled C-13</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_38b964c0d8e34d50571327d2a573ed52" level="file">
+          <did>
+            <unittitle>Bottling machine</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_c4c4929ae95df39f71419e5bd77bf646" label="box" type="Box">193</container>
+            <container id="aspace_73960a82b6dd9644df6f4ed9c690c3df" parent="aspace_c4c4929ae95df39f71419e5bd77bf646" type="Folder">
+            9</container>
+          </did>
+          <odd id="aspace_5989745c3dfc779f5240800030c1aef4">
+            <head>Image Number</head>
+            <p>G-221</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_cc1259ed4107bf05cad939978ce96681" level="file">
+          <did>
+            <unittitle>California Champagne undergoes a second fermentation in the bottle to form the wine's foamy
+            bubbles.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_206e43c0a227ce7f4b5fe2dd6d350c6d" label="box" type="Box">193</container>
+            <container id="aspace_19e924e2c701ddf205c756ebd4c78ad8" parent="aspace_206e43c0a227ce7f4b5fe2dd6d350c6d" type="Folder">
+            38</container>
+          </did>
+          <odd id="aspace_f04165ac052ef49dbfa95b1207c6065d">
+            <head>Image Number</head>
+            <p>G-008c</p>
+            <p>Also labeled C-8</p>
+          </odd>
+          <odd id="aspace_832a59586fa454505f72edea482dfcd6">
+            <head>Caption</head>
+            <p>California champagne undergoes a second fermentation in the bottle to form the wine's foamy bubbles.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_2a28212f8d6f8695a313d90abd3379ff" level="file">
+          <did>
+            <unittitle>Champagne bottles at a California winery shortly after they have received their final corks.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_27e9e466a8d0d1bf0d325a0b663d8666" label="box" type="Box">193</container>
+            <container id="aspace_d4a813362bf97931fedd4b3c8edf69e4" parent="aspace_27e9e466a8d0d1bf0d325a0b663d8666" type="Folder">
+            45</container>
+          </did>
+          <odd id="aspace_62e2404c7b8edd021a324e0695aea3d7">
+            <head>Image Number</head>
+            <p>G-015c</p>
+            <p>Also labeled C-15</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_298f75687b37f56999da9ef357c15236" level="file">
+          <did>
+            <unittitle>Champagne in racks</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_59bbe2a3d31d6e64871572db428773df" label="box" type="Box">190</container>
+            <container id="aspace_284f75247470aa2ee975d1b425e1463d" parent="aspace_59bbe2a3d31d6e64871572db428773df" type="Folder">
+            31</container>
+          </did>
+          <odd id="aspace_f02944af5e4fa8a1c444cb877c67043d">
+            <head>Image Number</head>
+            <p>G-104</p>
+          </odd>
+          <odd id="aspace_41124ffe0577e3c844af6aefa5a798ed">
+            <head>Caption</head>
+            <p>An army of Champagne bottles. These racks hold hundreds of bottles of bottle-fermented California Champagne neck
+            downwards. In this manner the sediment caused by fermentation moves to the neck of the bottle. From here it is
+            disgorged. To accomplish this the winemaker freezes the wine and sediment in the neck of the bottle briefly by placing
+            it in brine, then releases the clamp and the pressure forces the cork out, along with its frozen sediment deposit.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_9aab344b814e5cca46743feebcb98990" level="file">
+          <did>
+            <unittitle>Champagne rests neck down to move sediment into the bottle necks for disgorging.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_8a8a75105ab3f8d40523a1510479911f" label="box" type="Box">193</container>
+            <container id="aspace_fb80203ef16e7fc3eb1af5121ad72e07" parent="aspace_8a8a75105ab3f8d40523a1510479911f" type="Folder">
+            35</container>
+          </did>
+          <odd id="aspace_fee4025c59d9e00784220917213f25a8">
+            <head>Image Number</head>
+            <p>G-005c</p>
+            <p>Also labeled C-5</p>
+          </odd>
+          <odd id="aspace_d48b76057a042a5a15d149b311f63653">
+            <head>Caption</head>
+            <p>Row after row of aging California Rose Champagne rest neck down to move sediment into the bottle necks for
+            disgorging.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_8ea16121c4e57ff9067099e00a7fc85c" level="file">
+          <did>
+            <unittitle>Checking Champagne for clarity</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_d95e097908c80730dcc90fffb0bf667b" label="box" type="Box">193</container>
+            <container id="aspace_2cad537d5b192cfd9674ece8bcf08a9a" parent="aspace_d95e097908c80730dcc90fffb0bf667b" type="Folder">
+            3</container>
+          </did>
+          <odd id="aspace_56733aee6db2f59d032eb41b997aa7c9">
+            <head>Image Number</head>
+            <p>G-124</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_b16eeefa0cf6a29133e9d5f8ca5c2b5e" level="file">
+          <did>
+            <unittitle>Cresta Blanca Wine Co. - Riddling process - Worker with mask</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Munroe, Joe</persname>
+            </origination>
+            <unitdate normal="1957-06/1957-06">June 1957</unitdate>
+            <container id="aspace_da1998544d7ed4a3b3d02ed679f40be8" label="box" type="Box">193</container>
+            <container id="aspace_d038b2a4c41eba05bb07d5a41e112ce2" parent="aspace_da1998544d7ed4a3b3d02ed679f40be8" type="Folder">
+            32</container>
+          </did>
+          <odd id="aspace_c85ad0b43bd5ef96bd1fe8e7ee8795c5">
+            <head>Image Number</head>
+            <p>G-002c</p>
+            <p>Also labeled C-2</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d9703d18675d03d0e1d1294944fca3b4" level="file">
+          <did>
+            <unittitle>Disgorging Champagne to remove second fermentation sediment</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_c98d4c5544e8b9277df923b1b0554e89" label="box" type="Box">193</container>
+            <container id="aspace_e8106ac2fd764e147887e2c2176c194d" parent="aspace_c98d4c5544e8b9277df923b1b0554e89" type="Folder">
+            34</container>
+          </did>
+          <odd id="aspace_cdf7b8494bca335e1ed1457406f97360">
+            <head>Image Number</head>
+            <p>G-004c</p>
+            <p>Also labeled C-4</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_2b685e4111585e0c508f8749833bd4b6" level="file">
+          <did>
+            <unittitle>Dosing Champagne</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_03a95379cdaf39770e37300f79fc47a7" label="box" type="Box">193</container>
+            <container id="aspace_eea610799e6e8deb75a3f3cee78ed5a8" parent="aspace_03a95379cdaf39770e37300f79fc47a7" type="Folder">
+            11</container>
+          </did>
+          <odd id="aspace_e66459bf5ad94203eda57f0cd35f4169">
+            <head>Image Number</head>
+            <p>G-304</p>
+          </odd>
+          <odd id="aspace_1224afb1911e623cfcc464d26a69c65f">
+            <head>Caption</head>
+            <p>A full measure of sparkling wine. After the sediment has been disgorged from the neck of the Champagne bottle, the
+            dosage is added -- a syrup prepared of fine brandy, sugar and white wine of the finest quality. Added to the Champagne
+            when it is finished and ready for the final corking, the dosage provides the sweetening and to the proper degree. This
+            is the final process in the making of California's fine Champagnes.</p>
+          </odd>
+          <scopecontent id="aspace_8d95e88e97829a191fa5391f83b90e71">
+            <head>Scope and Contents</head>
+            <p>There are two distinct photos with this folder, both of the same man doing the same process in the same place but a
+            slightly different view with both photos labeled as the same number; no negatives with the folder.</p>
+          </scopecontent>
+        </c03>
+        <c03 id="aspace_9e31e14f958a8346b1f96106773cf650" level="file">
+          <did>
+            <unittitle>Fountain Grove: Checking Champagne for clarity</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_85bc70013c39f1da2c21d879be18f4c5" label="box" type="Box">190</container>
+            <container id="aspace_af5f401fc89a29effbba67d3676f6c16" parent="aspace_85bc70013c39f1da2c21d879be18f4c5" type="Folder">
+            28</container>
+          </did>
+          <odd id="aspace_03af5524cfbcb9b9e3c21883b377bd46">
+            <head>Image Number</head>
+            <p>G-026</p>
+          </odd>
+          <odd id="aspace_7a191db5f99fdbf5599df12397a85998">
+            <head>Caption</head>
+            <p>Testing for perfection. This skilled winery worker holds a Champagne bottle to a bright light, then looks through
+            the wine to make certain it is clear. He does this just after "disgorging" the sediment which has accumulated in the
+            neck of the bottle during the long riddling process.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_960ffb6fc7511a822fe6f2b1410f339f" level="file">
+          <did>
+            <unittitle>Italian Swiss Colony: Bottle filling machine</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1956-04/1956-04">April 1956</unitdate>
+            <container id="aspace_99f993288d975293791f45a749246d9f" label="box" type="Box">193</container>
+            <container id="aspace_6fa77a109d028ff08e24ea3cb168cd87" parent="aspace_99f993288d975293791f45a749246d9f" type="Folder">
+            18</container>
+          </did>
+          <odd id="aspace_c753f33ba5d5c1b734eacc5a32f4aa91">
+            <head>Image Number</head>
+            <p>G-511</p>
+          </odd>
+          <odd id="aspace_7b465dcac214211afcbaa675b535856e">
+            <head>Caption</head>
+            <p>Bottling Champagne</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_bb1ea0b74644a8db1a9088e6853c2bf8" level="file">
+          <did>
+            <unittitle>Italian Swiss Colony: Bottle filling machine - Bottling Champagne</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1956-04/1956-04">April 1956</unitdate>
+            <container id="aspace_aaef26b7f11e86e4c766f87dc6d021be" label="box" type="Box">193</container>
+            <container id="aspace_c353fe3888f373df31d07a550812eba3" parent="aspace_aaef26b7f11e86e4c766f87dc6d021be" type="Folder">
+            19</container>
+          </did>
+          <odd id="aspace_23efc9e335d21caf8587d34f7179e223">
+            <head>Image Number</head>
+            <p>G-521</p>
+          </odd>
+          <odd id="aspace_80fd82ddcb64534472e6fcc8b57fe2c3">
+            <head>Caption</head>
+            <p>Intricate bottling machine, revolving endlessly, fills these bottles with California Champagne at one of
+            California's modern wineries. From here sparkling wines are sent to all parts of the nation and have won an enviable
+            reputation in terms of taste, quality and all-around goodness.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d02e75b5eaa46d24a035e6972b8ce204" level="file">
+          <did>
+            <unittitle>Italian Swiss Colony: Bottling Champagne - Corking Champagne bottles</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1956-04/1956-04">April 1956</unitdate>
+            <container id="aspace_77bd7d71576a693b68f80f5a1add9904" label="box" type="Box">193</container>
+            <container id="aspace_f996fa8a1e661e5f60fcd1165195f126" parent="aspace_77bd7d71576a693b68f80f5a1add9904" type="Folder">
+            20</container>
+          </did>
+          <odd id="aspace_85f10487da30ce0cf87e0e5fc5405f7e">
+            <head>Image Number</head>
+            <p>G-601</p>
+          </odd>
+          <odd id="aspace_3970e4b2344c3a7763758ce67753ffa5">
+            <head>Caption</head>
+            <p>One of the final steps in the production of sparkling California Champagne is the corking of the bottles. After the
+            thick corks are automatically inserted into the bottles, foil is added for protective purposes. Careful inspection to
+            insure perfection takes place to the right of the machinery.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_0ec865eae4ca01e8a52afb6b8010f6a9" level="file">
+          <did>
+            <unittitle>Italian Swiss Colony: Bulk Champagne being withdrawn for bottling</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1956-04/1956-04">April 1956</unitdate>
+            <container id="aspace_1354bc9e2bc2e871b260b568b3c39284" label="box" type="Box">193</container>
+            <container id="aspace_4572ef280ac6e96b2de45bee65c5c68f" parent="aspace_1354bc9e2bc2e871b260b568b3c39284" type="Folder">
+            16</container>
+          </did>
+          <odd id="aspace_70430c3da6a070c2a21fcf7e13931bff">
+            <head>Image Number</head>
+            <p>G-501</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_33f063877813e0f88d110187f044023d" level="file">
+          <did>
+            <unittitle>Korbel</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Moon, John</persname>
+            </origination>
+            <unitdate normal="1957/1957">1957</unitdate>
+            <container id="aspace_ad3301463ec056e8746198f1f07cedea" label="box" type="Box">193</container>
+            <container id="aspace_65f55c5e047ad466e7da4633f346b04a" parent="aspace_ad3301463ec056e8746198f1f07cedea" type="Folder">
+            2</container>
+          </did>
+          <odd id="aspace_8408604c815472fe9274da5d0ec7dd52">
+            <head>Image Number</head>
+            <p>G-121</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_b2782ffd454f6caed2ce9124a1f54e8c" level="file">
+          <did>
+            <unittitle>Korbel - Adolph Heck candling bottle</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Bennett, Ernie</persname>
+            </origination>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_7cd84b9ffde81b25062def94dce16856" label="box" type="Box">193</container>
+            <container id="aspace_53e077fc482630c97cca85e62675e1db" parent="aspace_7cd84b9ffde81b25062def94dce16856" type="Folder">
+            4</container>
+          </did>
+          <odd id="aspace_51b9b63ac2f262b385972b1ff0e15c5d">
+            <head>Image Number</head>
+            <p>G-131</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_58462f8e649b4ddd63b1d3a432d05de9" level="file">
+          <did>
+            <unittitle>Korbel, Guerneville</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_73fa46f0a376c00e66c97dfff641be26" label="box" type="Box">193</container>
+            <container id="aspace_7c570a2b96c39783a7ca29c6bb84a082" parent="aspace_73fa46f0a376c00e66c97dfff641be26" type="Folder">
+            22</container>
+          </did>
+          <odd id="aspace_a1877c7dfb3f175513cc689a7a0d8588">
+            <head>Image Number</head>
+            <p>G-611</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_94a69d80719cda9956842f813d3a878d" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_663d01c5c31f60415a9ba92479f197d5" label="box" type="Box">190</container>
+            <container id="aspace_8d8fdae51864ea7cf7acd021a6b5cede" parent="aspace_663d01c5c31f60415a9ba92479f197d5" type="Folder">
+            24</container>
+          </did>
+          <odd id="aspace_c9177a37b6429301107f6bc527e31d4f">
+            <head>Image Number</head>
+            <p>G-005</p>
+          </odd>
+          <odd id="aspace_3f34bd93f430e0277470d94609bc49b0">
+            <head>Caption</head>
+            <p>Bottles and bottles of "bubbly". Champagne fermenting in the bottle at a California winery. In making Champagne,
+            several good white wines are blended. Just before the blend is bottled, sugar and Champagne yeast are added. These
+            cause the bottle-fermentation which makes the wine lively. California Champagne is famous for its high quality.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_b9d2b43a1d3be3c9db16635f8e689fe2" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_e0c3b8d4e8c93916d7e12e184680996c" label="box" type="Box">190</container>
+            <container id="aspace_0cb12125157ed3d7c03396724b677c31" parent="aspace_e0c3b8d4e8c93916d7e12e184680996c" type="Folder">
+            25</container>
+          </did>
+          <odd id="aspace_028dbd412b7f32e3e9f80380994cb126">
+            <head>Image Number</head>
+            <p>G-006</p>
+          </odd>
+          <odd id="aspace_074c4b13f307187eb918f391174be28d">
+            <head>Caption</head>
+            <p>Bottles and bottles of "bubbly". Champagne fermenting in the bottle at a California winery. In making Champagne,
+            several good white wines are blended. Just before the blend is bottled, sugar and Champagne yeast are added. These
+            cause the bottle-fermentation which makes the wine lively. California Champagne is famous for its high quality.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_8c8ccab6d5ca20927f5fd33a03041366" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_5152471fbf48d78ce8ec031096d0f207" label="box" type="Box">190</container>
+            <container id="aspace_cd160b84d795e8cba1ecc47ca055c3ae" parent="aspace_5152471fbf48d78ce8ec031096d0f207" type="Folder">
+            26</container>
+          </did>
+          <odd id="aspace_acb4db132f919ec1b8b94550cfec61e8">
+            <head>Image Number</head>
+            <p>G-007</p>
+          </odd>
+          <odd id="aspace_443f7cb100580a375309d1f2c4d6ad44">
+            <head>Caption</head>
+            <p>Bottles and bottles of "bubbly". Champagne fermenting in the bottle at a California winery. In making Champagne,
+            several good white wines are blended. Just before the blend is bottled, sugar and Champagne yeast are added. These
+            cause the bottle-fermentation which makes the wine lively. California Champagne is famous for its high quality.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_f2cc30c8d5a7a90f4e9dc5c6cadeac54" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Champagne aging - Candling process in F. Korbel &amp; Bros., Inc., Guerneville, Sonoma
+            County</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_830be98651345b974cffb48d281ae79b" label="box" type="Box">190</container>
+            <container id="aspace_2d0c7e22aed070ec9c9df119352e55e6" parent="aspace_830be98651345b974cffb48d281ae79b" type="Folder">
+            30</container>
+          </did>
+          <odd id="aspace_5fd271ba8a2fd3a4670f8c9607ca2abb">
+            <head>Image Number</head>
+            <p>G-103</p>
+          </odd>
+          <odd id="aspace_949ba5ab9125ca735614bce12e98da8e">
+            <head>Caption</head>
+            <p>Champagne awaiting its turn. It won't be long before these prize bottles of California Champagne will complete the
+            riddling process which goes on each day for a half year. The sediment is disgorged from the neck of each bottle, then
+            after the final corking and more aging, this sparkling wine will be ready for distribution.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_fa5a86184339dcb3875e04ffa1230d18" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Sparkling Burgundy</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_16d67fda719f707dac94b8b366205aa5" label="box" type="Box">190</container>
+            <container id="aspace_43bba22ba55fd75c9609bfef459ebfae" parent="aspace_16d67fda719f707dac94b8b366205aa5" type="Folder">
+            22</container>
+          </did>
+          <odd id="aspace_b8026d1f21517f2a30fa8b6cdf51eefc">
+            <head>Image Number</head>
+            <p>G-003</p>
+          </odd>
+          <odd id="aspace_0cc3dd56743d8f6784f552edab45b7d0">
+            <head>Caption</head>
+            <p>Bottles of Sparkling Burgundy in a California winery. This lively, delicious red wine is produced by a process like
+            Champagne's, except that the base is a blend of red wines instead of white. Like Champagne, Sparkling Burgundy is
+            particularly fine for festive occasions. The Sparkling Burgundies of California are famous for their zestful
+            flavor.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_7312046a189a69e19ae49331461819ec" level="file">
+          <did>
+            <unittitle>Korbel: Bottles of Sparkling Burgundy or Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_700a888e15262d6d8ee8e128bb45de09" label="box" type="Box">190</container>
+            <container id="aspace_0a5a33a9724d897541fb5ec71d4a1e41" parent="aspace_700a888e15262d6d8ee8e128bb45de09" type="Folder">
+            23</container>
+          </did>
+          <odd id="aspace_a4d5cf0c0c8335818d8a5642c104cc4c">
+            <head>Image Number</head>
+            <p>G-004</p>
+          </odd>
+          <odd id="aspace_ad3dad7bf6750c81407edf4ba0475f27">
+            <head>Caption</head>
+            <p>Bottles and bottles of "bubbly". Champagne fermenting in the bottle at a California winery. In making Champagne,
+            several good white wines are blended. Just before the blend is bottled, sugar and Champagne yeast are added. These
+            cause the bottle-fermentation which makes the wine lively. California Champagne is famous for its high quality.</p>
+          </odd>
+          <scopecontent id="aspace_d999289da01a4426015b3fd61e1040de">
+            <head>Scope and Contents</head>
+            <p>Envelope has penned note that it is "Sparkling Burgundy" while description slip says it is "Champagne"</p>
+          </scopecontent>
+        </c03>
+        <c03 id="aspace_ca26ae8d618345987fe8a5cf6f1bcfe9" level="file">
+          <did>
+            <unittitle>Korbel: Candling Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_7664556e3ff23de02596888ec2418a69" label="box" type="Box">190</container>
+            <container id="aspace_a5f1f9e46e481675992926ef8080466d" parent="aspace_7664556e3ff23de02596888ec2418a69" type="Folder">
+            27</container>
+          </did>
+          <odd id="aspace_75b8bc2fd915de6b24c633ba756273ed">
+            <head>Image Number</head>
+            <p>G-025</p>
+          </odd>
+          <odd id="aspace_8da045398cbf4fff4cca41a05aaac86a">
+            <head>Caption</head>
+            <p>Candlelight and dinner. But not at the dinner table - this is the candling process in the Champagne cellar of a
+            California winery. Holding the bottle before the flame of a candle, the winemaker looks through the Champagne to test
+            its clarity. Candling is one of the many things done to ensure the high quality of California wines.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_87b94e1e4a89910aced9a5fdc8eded24" level="file">
+          <did>
+            <unittitle>Korbel: Champagne corking machine</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Bennett, Ernie</persname>
+            </origination>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_72405ababd25ebea2e4260bf09aa8cf0" label="box" type="Box">193</container>
+            <container id="aspace_c32f06626afb8ee0b16189da65433d7b" parent="aspace_72405ababd25ebea2e4260bf09aa8cf0" type="Folder">
+            21</container>
+          </did>
+          <odd id="aspace_93c6a0cb4097636934f8e13311049e71">
+            <head>Image Number</head>
+            <p>G-604</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_5336c50f3accb265ec80e58f5cda2ec2" level="file">
+          <did>
+            <unittitle>Korbel: Champagne corking machine</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Bennett, Ernie</persname>
+            </origination>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <container id="aspace_3b49a50bbd68f28bc9cbca6a567012e9" label="box" type="Box">193</container>
+            <container id="aspace_cb58c6d09ef4b2fa63bc413eaa7b11c8" parent="aspace_3b49a50bbd68f28bc9cbca6a567012e9" type="Folder">
+            24</container>
+          </did>
+          <odd id="aspace_a47f118daebf3391530070731d364b19">
+            <head>Image Number</head>
+            <p>G-621</p>
+          </odd>
+          <odd id="aspace_3d9a9d160eb8602798e4b6968b29a1dc">
+            <head>Caption</head>
+            <p>The honored tradition of Champagne making takes time and care. A winery worker carefully places the large Champagne
+            cork into place and then a manual machine does the rest.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_f6e9ae8908b898243229b2d108d8e7ad" level="file">
+          <did>
+            <unittitle>Korbel: Winery workers stacking bottles of Champagne</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Bennett, Ernie</persname>
+            </origination>
+            <unitdate normal="1964/1964">1964</unitdate>
+            <container id="aspace_d50c99ab31dcc13291e7f7aac663d348" label="box" type="Box">190</container>
+            <container id="aspace_3c598458f82114c302cf912d91e7e749" parent="aspace_d50c99ab31dcc13291e7f7aac663d348" type="Folder">
+            21</container>
+          </did>
+          <odd id="aspace_b3eb512dd0931cf613b5efcbfbc65d94">
+            <head>Image Number</head>
+            <p>G-001</p>
+          </odd>
+          <odd id="aspace_67c82ac0b3a3ac487155770c9e36f6c8">
+            <head>Caption</head>
+            <p>Winery workers stack bottles of Champagne undergoing secondary fermentation in a California winery. It is the
+            secondary fermentation that produces the bubbles in sparkling wines.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_e55d893515bebaf6af58a63113cfe6e4" level="file">
+          <did>
+            <unittitle>Korbel: Worker riddling Champagne</unittitle>
+            <unitdate normal="1941/1941">1941</unitdate>
+            <container id="aspace_d7cf1cf9082589279229f611d11aff58" label="box" type="Box">190</container>
+            <container id="aspace_37087d45e90d733c0372cb7930c2e585" parent="aspace_d7cf1cf9082589279229f611d11aff58" type="Folder">
+            29</container>
+          </did>
+          <odd id="aspace_44c666cf5ab0d47c6b49df36abf08647">
+            <head>Image Number</head>
+            <p>G-101</p>
+          </odd>
+          <odd id="aspace_0fcd036a7f3d41d76fd431b8560e0a5b">
+            <head>Caption</head>
+            <p>This worker in a California winery is "riddling" bottles of Champagne. The bottles are stored neck-down and
+            "riddled", or lifted and twisted daily for several months to move sediment down into the neck of the bottle.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_e64ca027768fd7e2852b5e20e4da4492" level="file">
+          <did>
+            <unittitle>Korbel: Worker riddling Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_bedfe02bbbee3d2756a4ea69900a996a" label="box" type="Box">190</container>
+            <container id="aspace_d0319eb9940b3937159f25bc68a86776" parent="aspace_bedfe02bbbee3d2756a4ea69900a996a" type="Folder">
+            32</container>
+          </did>
+          <odd id="aspace_49fd03f9006ed96176bac5d63dc7f574">
+            <head>Image Number</head>
+            <p>G-111</p>
+          </odd>
+          <odd id="aspace_d096e182fe75a4eacb67e3b1480285ae">
+            <head>Caption</head>
+            <p>This worker in a California winery is "riddling" bottles of Champagne. The bottles are stored neck-down and
+            "riddled", or lifted and twisted daily for several months to move sediment down into the neck of the bottle.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d2427ffa20d254d16591d6fe0d88b7b8" level="file">
+          <did>
+            <unittitle>Machine pulling cap from bottle of Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_1ae2c058c38ec29b3656d8c2219e738d" label="box" type="Box">193</container>
+            <container id="aspace_52a0dbfa3176f7756efe54593adaebe9" parent="aspace_1ae2c058c38ec29b3656d8c2219e738d" type="Folder">
+            8</container>
+          </did>
+          <odd id="aspace_b2d7dba6cfb7c3f5184389bdd44e3e0a">
+            <head>Image Number</head>
+            <p>G-211</p>
+          </odd>
+          <odd id="aspace_259495338e61b10d3723086b14590a01">
+            <head>Caption</head>
+            <p>A machine automatically pulls the cap from bottles of California Champagne at the end of the second fermentation in
+            the bottle. This releases a frozen plug of sediment. The wine is now ready to receive its dosage of sugar syrup and
+            brandy and its final cork.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_af05fe473add9f097159cbfa77d0e9ab" level="file">
+          <did>
+            <unittitle>A machine removes the crown cap from a bottle of bottle-fermented California Champagne to blow free a plug
+            of yeast sediment.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_3147ab928944fd0d8b4e7fb9b5c2dbad" label="box" type="Box">193</container>
+            <container id="aspace_7b61c9276400232aa55cc07deb873380" parent="aspace_3147ab928944fd0d8b4e7fb9b5c2dbad" type="Folder">
+            42</container>
+          </did>
+          <odd id="aspace_8ae208d4327e940156a7e8519f4332df">
+            <head>Image Number</head>
+            <p>G-012c</p>
+            <p>Also labeled C-12</p>
+          </odd>
+          <odd id="aspace_79d95a9d07595efaf4851df8ecadd8a7">
+            <head>Caption</head>
+            <p>A machine removes the crown cap from a bottle of bottle-fermented California Chapagne to blow free a plug of yeast
+            sediment.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_25967075a8bf22c5336ed545e6dcfa96" level="file">
+          <did>
+            <unittitle>Man candling bottle of Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_4bd93e3b5bab52b50273bae29aef5414" label="box" type="Box">193</container>
+            <container id="aspace_89ff5dca3a6abefbd86297474f6a7ad2" parent="aspace_4bd93e3b5bab52b50273bae29aef5414" type="Folder">
+            37</container>
+          </did>
+          <odd id="aspace_c9d55a9cc2782e388f812c63a64675c6">
+            <head>Image Number</head>
+            <p>G-007c</p>
+            <p>Also labeled C-7</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_760f1e5511c51a5267d83841ba68baf2" level="file">
+          <did>
+            <unittitle>Man inspecting bottle</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Randall, Hal</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_17ec60a4e60d4183d5d1e4c70e3e1756" label="box" type="Box">193</container>
+            <container id="aspace_7a85187e2d16ba34b17fe13384906072" parent="aspace_17ec60a4e60d4183d5d1e4c70e3e1756" type="Folder">
+            6</container>
+          </did>
+          <odd id="aspace_b08c2b9a650e85ad7bcb1e0e3509bd83">
+            <head>Image Number</head>
+            <p>G-154</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_df8b06e93a26006afc5332570f9d3356" level="file">
+          <did>
+            <unittitle>Man placing bottle into machine</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_f1879c3e993f2303c32ece7e7b7860df" label="box" type="Box">193</container>
+            <container id="aspace_3aeacb1c52ef3146631e5b1c3071d9c6" parent="aspace_f1879c3e993f2303c32ece7e7b7860df" type="Folder">
+            7</container>
+          </did>
+          <odd id="aspace_7d745d14796168180756e5a69277706d">
+            <head>Image Number</head>
+            <p>G-200</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d7dae70ced0347699c91d778af1f1573" level="file">
+          <did>
+            <unittitle>Padre Vineyard Co., Cucamonga</unittitle>
+            <unitdate normal="1950/1950">1950</unitdate>
+            <container id="aspace_534cc8e7c822519142f8ede2ddbe7891" label="box" type="Box">193</container>
+            <container id="aspace_413dee9a6e2f34fdd3a15fdc7312cf03" parent="aspace_534cc8e7c822519142f8ede2ddbe7891" type="Folder">
+            27</container>
+          </did>
+          <odd id="aspace_7f2ec33cb5031607dc5730871ad99bee">
+            <head>Image Number</head>
+            <p>G-708</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_89736f2caa2a61e32bd55de05d3e2952" level="file">
+          <did>
+            <unittitle>Paul Masson - Man candling bottle</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_63f4b051c0518ce620e8bd3b859fc641" label="box" type="Box">193</container>
+            <container id="aspace_5c71747f5cc77b34f837a26e061a106e" parent="aspace_63f4b051c0518ce620e8bd3b859fc641" type="Folder">
+            5</container>
+          </did>
+          <odd id="aspace_b7a2d71e2d3681f4a3be5140adcdef91">
+            <head>Image Number</head>
+            <p>G-144</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_5c72b64916db3e7ea0eac8801e810ce7" level="file">
+          <did>
+            <unittitle>Paul Masson: Bottles of Champagne on conveyor</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <container id="aspace_567dc9e87cbda349a3821ecd255b16f2" label="box" type="Box">193</container>
+            <container id="aspace_9925c65b9229c2a9f45b46d2bcb383e7" parent="aspace_567dc9e87cbda349a3821ecd255b16f2" type="Folder">
+            13</container>
+          </did>
+          <odd id="aspace_26eee78c0acfb464707b0a12b551365c">
+            <head>Image Number</head>
+            <p>G-404</p>
+          </odd>
+          <odd id="aspace_7ffbcd9e8b4bee8d161b4b462b0fa010">
+            <head>Caption</head>
+            <p>Bottles of California Champagne move along an overhead conveyor line, through a chilling solution and to a transfer
+            machine. The machine draws the Champagne from the bottles and filters any sediment from it. The Champagne is then put
+            back into bottles at the station in the background. This process enables the Champagne to be transferred to any of five
+            sized bottles without loss of sparkle as the entire operation is done under pressure.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_31c1c264e71c63c492dbeda7d0831ba0" level="file">
+          <did>
+            <unittitle>Paul Masson: Champagne moving through chilling tank</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <container id="aspace_a4f00472c6279e5cfde33601a9d1b8b8" label="box" type="Box">193</container>
+            <container id="aspace_b9ae1048b225a28b8de8c4bdde95dd4c" parent="aspace_a4f00472c6279e5cfde33601a9d1b8b8" type="Folder">
+            14</container>
+          </did>
+          <odd id="aspace_a12f0fcbfd1daca096023cd81077bc33">
+            <head>Image Number</head>
+            <p>G-414</p>
+          </odd>
+          <odd id="aspace_d93d38d53e3b272dfc9bcd063e371f62">
+            <head>Caption</head>
+            <p>Bottles of Champagne move through this chilling tank to the transfer machine. The machine draws the Champagne from
+            the bottles and filters any sediment from it. Bottles of this size, or of any size, are then filled at another
+            station.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_1c9e4b9e9d03f5b4b9a38004c210cc7c" level="file">
+          <did>
+            <unittitle>Paul Masson: Rows of Champagne bottles awaiting foil</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_da91df778e4a5d9729bbe4d9d5d253c5" label="box" type="Box">193</container>
+            <container id="aspace_78ec6e4e1ceca0c0f45f7d13757da2bf" parent="aspace_da91df778e4a5d9729bbe4d9d5d253c5" type="Folder">
+            28</container>
+          </did>
+          <odd id="aspace_f68527f4c067f9737f1987a375aa1bfe">
+            <head>Image Number</head>
+            <p>G-714</p>
+          </odd>
+          <odd id="aspace_81d5b50aa8bb7fa2211b74c73653df3a">
+            <head>Caption</head>
+            <p>The end of a long process. These rows of California Champagne, already corked and wired, await the final headwear, a
+            cap of metal foil, which is the last step in the production of California's fine Champagne.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_17fd6129ae7eae5a35b0d4c95ccdf4e6" level="file">
+          <did>
+            <unittitle>Paul Masson: Stacked Champagne bottles</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_1c22b22f1ca0eeb560b1bcc640b61afe" label="box" type="Box">193</container>
+            <container id="aspace_d524dfae329cc14663115c4ceaafb037" parent="aspace_1c22b22f1ca0eeb560b1bcc640b61afe" type="Folder">
+            25</container>
+          </did>
+          <odd id="aspace_5bfce1a9fbe780bf31ae2d8259411984">
+            <head>Image Number</head>
+            <p>G-704</p>
+          </odd>
+          <odd id="aspace_5ad943038639a8806d2e27f3b36edc5e">
+            <head>Caption</head>
+            <p>This interesting photographic representation is actually row upon row of California Champagne bottles, alternately
+            stacked in the racks of the winery while secondary fermentation takes place. This is the process whereby the Champagne
+            gains the sparkling effervescence which makes it the most celebrated beverage for holiday occasions, weddings, and
+            important social events.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_1c29da3a75aeba5bdd971ebd09fff833" level="file">
+          <did>
+            <unittitle>Paul Masson: Transfer machine</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Knight, George</persname>
+            </origination>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <container id="aspace_2785517b298ed993d603b2f4be114226" label="box" type="Box">193</container>
+            <container id="aspace_8cb0c270498ee1a4ec2149ed741dd3be" parent="aspace_2785517b298ed993d603b2f4be114226" type="Folder">
+            15</container>
+          </did>
+          <odd id="aspace_ce5e237697da1e63581904a27a15b724">
+            <head>Image Number</head>
+            <p>G-424</p>
+          </odd>
+          <odd id="aspace_3aa98786d52e1d64249b353589ac9815">
+            <head>Caption</head>
+            <p>This transfer machine draws Champagne from opened bottles, filters it and passes it along to refilling stations
+            further along the line. There the bottles are filled and corked under pressure. - A sparkling wine transfer operation
+            showing incoming bottle fermented Champagne being chilled in brine tank and then the wine withdrawn from the bottles by
+            the transfer machine. The wine is filtered and the bottles refilled under pressure at a later station.</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_8b1f12af030c354c7140bdb8aa6376a8" level="file">
+          <did>
+            <unittitle>Permanent corks are placed in bottles of California Champagne</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_4b2c5f221fe35fa4ea2b90392f3f5441" label="box" type="Box">193</container>
+            <container id="aspace_29a25af25fb2a706aca5a238d6849995" parent="aspace_4b2c5f221fe35fa4ea2b90392f3f5441" type="Folder">
+            44</container>
+          </did>
+          <odd id="aspace_4a798146ddbda79285a3166c1ea82f69">
+            <head>Image Number</head>
+            <p>G-014c</p>
+            <p>Also labeled C-14</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d9e8e29bd967e3e6176debaaad8483eb" level="file">
+          <did>
+            <unittitle>Riddling racks. Bottle fermented Champagne is handled daily during the clarifying period.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_9b0727f416042a98a568a51ecd0c8d0e" label="box" type="Box">193</container>
+            <container id="aspace_4d00492db717bf714d359bec0c4eae26" parent="aspace_9b0727f416042a98a568a51ecd0c8d0e" type="Folder">
+            33</container>
+          </did>
+          <odd id="aspace_031a7c1986d798d33594d3c8939c4770">
+            <head>Image Number</head>
+            <p>G-003c</p>
+            <p>Also labeled C-3</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_d38c22c51c5acf0f091264e2329a4d85" level="file">
+          <did>
+            <unittitle>Roma, Fresno</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Munroe, Joe</persname>
+            </origination>
+            <unitdate normal="1967/1967">1967</unitdate>
+            <container id="aspace_cbe26f8f44fee48d48975d24afd47bbb" label="box" type="Box">193</container>
+            <container id="aspace_fceb4a030179ab30ab400b078649cfe8" parent="aspace_cbe26f8f44fee48d48975d24afd47bbb" type="Folder">
+            26</container>
+          </did>
+          <odd id="aspace_e1de2b392d597d6ceff40d0ca2691d5a">
+            <head>Image Number</head>
+            <p>G-707</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_5e99b4c8cc90659e6ace0e8f2cc33d48" level="file">
+          <did>
+            <unittitle>Roma, Fresno</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Munroe, Joe</persname>
+            </origination>
+            <unitdate normal="1967/1967">1967</unitdate>
+            <container id="aspace_989280bb32e809536ef324115504fc69" label="box" type="Box">193</container>
+            <container id="aspace_94af67b2c8e99184c4b55c9292fe01e1" parent="aspace_989280bb32e809536ef324115504fc69" type="Folder">
+            29</container>
+          </did>
+          <odd id="aspace_5117b2e906a67dd9bc0992707ef02d57">
+            <head>Image Number</head>
+            <p>G-717</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_f147455342621134ae6399797ab0a877" level="file">
+          <did>
+            <unittitle>Roma, Fresno</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Munroe, Joe</persname>
+            </origination>
+            <unitdate normal="1967/1967">1967</unitdate>
+            <container id="aspace_f9019b684726ba430a008f8cf411d72f" label="box" type="Box">193</container>
+            <container id="aspace_33e35c39b04aa547a2f16b02c5cf44f8" parent="aspace_f9019b684726ba430a008f8cf411d72f" type="Folder">
+            31</container>
+          </did>
+          <odd id="aspace_0336a6d315d088e97ee84cbdb8368f34">
+            <head>Image Number</head>
+            <p>G-727</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_b340d68be1aed81284916330149b2ca6" level="file">
+          <did>
+            <unittitle>Weibel, Mission San Jose</unittitle>
+<origination audience="internal" label="Photographer">              <persname rules="rda" source="local">Yavno, Max</persname>
+            </origination>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_7497771248b1c89c66c4aa7f386b375d" label="box" type="Box">193</container>
+            <container id="aspace_2082a0da22382926f3ed439d0e493638" parent="aspace_7497771248b1c89c66c4aa7f386b375d" type="Folder">
+            10</container>
+          </did>
+          <odd id="aspace_4577770c1afc643150684e32d96a7738">
+            <head>Image Number</head>
+            <p>G-303</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_a94585990f0451a3925d6cb3395d7b34" level="file">
+          <did>
+            <unittitle>A winery employee deftly places the wine hoods on shining bottles of California Champagne. The hoods help
+            hold in Champagne corks against the pressure of the sparkling wine.</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_4a93d2464976a5adcbff9340d5cac86c" label="box" type="Box">193</container>
+            <container id="aspace_8bef7c0610a392e002e4ba634d9ad553" parent="aspace_4a93d2464976a5adcbff9340d5cac86c" type="Folder">
+            36</container>
+          </did>
+          <odd id="aspace_eb41597c6e35eb37b503c4889aa2f188">
+            <head>Image Number</head>
+            <p>G-006c</p>
+            <p>Also labeled C-6</p>
+          </odd>
+        </c03>
+        <c03 id="aspace_df27eac58a14ceebfb487fbd41f388f6" level="file">
+          <did>
+            <unittitle>Woman at bottling machine</unittitle>
+            <unitdate normal="0000/0000">undated</unitdate>
+            <container id="aspace_8a786d2da18b61aa1147dcf80501329a" label="box" type="Box">193</container>
+            <container id="aspace_8c5d7fecb6ab2f015b341d95097c242d" parent="aspace_8a786d2da18b61aa1147dcf80501329a" type="Folder">
+            12</container>
+          </did>
+          <odd id="aspace_b8c1a5e770ecc4594bf7dcdbb597dd13">
+            <head>Image Number</head>
+            <p>G-311</p>
+          </odd>
+        </c03>
+      </c02>
       </c01>
     </dsc>
   </archdesc>
