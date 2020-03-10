@@ -52216,6 +52216,2527 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:is
           </odd>
         </c03>
       </c02>
+	          <c02 id="aspace_11eeaaabe736e3dbdf958b32793b2f4d" level="series">
+          <did>
+            <unittitle>Wine Research</unittitle>
+            <unitdate normal="1948/1965" type="inclusive">1948-1965</unitdate>
+          </did>
+          <scopecontent id="aspace_b724389b011f876d2bc28bbccf77eef6">
+            <head>Scope and Contents</head>
+            <p>Photographic prints and negatives of laboratory analysis of wine, wine education, and of wine byproducts. Many
+            images include captions. Arranged in alphabetical order.</p>
+          </scopecontent>
+          <c03 id="aspace_50812ccdfa9b2c8de08c14bd18a63fc8" level="file">
+            <did>
+              <unittitle>Bottling line for pure California wine vinegar at Four Monks Vinegar</unittitle>
+              <unitdate normal="1951/1951">1951</unitdate>
+              <container id="aspace_9c94ccea1432211a2538ba64c728162a" label="box" type="Box">194</container>
+              <container id="aspace_7eedc1cd54273cbeb4fee1bced582370" parent="aspace_9c94ccea1432211a2538ba64c728162a"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_3b528c7b04d0e9ffd0f3241077771630">
+              <head>Image Number</head>
+              <p>I-810</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8caadf3b1a377b7b4f8ef7083a7ba7dc" level="file">
+            <did>
+              <unittitle>Close up of man blowing in glass tube - wine bottle in lab</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_933861135c33c5eebe87eaf2a43ea3cd" label="box" type="Box">194</container>
+              <container id="aspace_7c3b6115484c1363edd63d7895368012" parent="aspace_933861135c33c5eebe87eaf2a43ea3cd"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_6488d3767d708c1b662512f6925480ee">
+              <head>Image Number</head>
+              <p>I-003</p>
+            </odd>
+            <odd id="aspace_c9534982e911da151915989a59be22d8">
+              <head>Caption</head>
+              <p>In this California wine laboratory, wines are tasted and checked before shipment to distant market points.
+              Consumers are thus assured of ever increasing quality in the fine California wines that they drink.</p>
+            </odd>
+            <scopecontent id="aspace_ca86a7bccc919d049ccecbc1d4e3206e">
+              <head>Scope and Contents</head>
+              <p>"Old photo sleeve says Cresta Blanca, Livermore (Note: old sleeve may have been reused. Image is noteable -- shot
+              is well executed.)"</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_27fc532b365f26af3712ca11b526a274" level="file">
+            <did>
+              <unittitle>Di Giorgio: This chemist is shown in his laboratory as he prepares to make a wine analysis.</unittitle>
+              <unitdate normal="1948/1948">1948</unitdate>
+              <container id="aspace_5c30c3f476c0c15afc60d335bc1b82a2" label="box" type="Box">194</container>
+              <container id="aspace_27fb009c8e7692f1fa1c1bee0cc15028" parent="aspace_5c30c3f476c0c15afc60d335bc1b82a2"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_ce505bc17e968e8f4cf650404c85a850">
+              <head>Image Number</head>
+              <p>I-007</p>
+            </odd>
+            <odd id="aspace_e0d59119aeac36ec6730519c87cafc64">
+              <head>Caption</head>
+              <p>Wine is purely a product of Nature, and the role of the wine chemist is simply that of guiding Nature and seeing
+              that she does her work to perfection. This chemist is shown in his laboratory as he prepares to make a wine
+              analysis.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_19359c4ff522bacc0917889a8d500642" level="file">
+            <did>
+              <unittitle>E&amp;J Gallo Winery: Large machinery labeled: "Soda Ash"</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_2f2b34ed411954343e8373788869b09c" label="box" type="Box">194</container>
+              <container id="aspace_3c27b84c528e0390ac982ab7076d62e9" parent="aspace_2f2b34ed411954343e8373788869b09c"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_de876da1b6c0f6e970258d34685567fe">
+              <head>Image Number</head>
+              <p>I-716</p>
+            </odd>
+            <scopecontent id="aspace_ad951922662fa2a934f1cee5458f8c45">
+              <head>Scope and Contents</head>
+              <p>Old sleeve says Credit Pittsburg Plate &amp; Glass Co.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_6b73041452c3e1d7cfaa0b57e08df14c" level="file">
+            <did>
+              <unittitle>Fred Nury and female worker with steel winery equipment</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_cf5902bd10f7177f0cb3180e13d97752" label="box" type="Box">194</container>
+              <container id="aspace_1aefa245afcae9616dd9c53331a74fec" parent="aspace_cf5902bd10f7177f0cb3180e13d97752"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_5bf43676c900971442dad08ee602d18d">
+              <head>Image Number</head>
+              <p>I-610</p>
+            </odd>
+            <odd id="aspace_da848d75f789fa9678a4a26cc1028ddf">
+              <head>Caption</head>
+              <p>Evaporator equipment for use in flavor recovery studies and preparation of concentrates.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_df3eacbcd4e89be5399bff97a6b9c544" level="file">
+            <did>
+              <unittitle>Fresno State: Student and teacher, wine barrels and hoses.</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_50248a5ed5bf15d9f925574f38829223" label="box" type="Box">194</container>
+              <container id="aspace_90d2c4099af5f62590af8120e0207f87" parent="aspace_50248a5ed5bf15d9f925574f38829223"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_e29e45079830c651db06901aa680c720">
+              <head>Image Number</head>
+              <p>I-397</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_eb19df92a9f6fb26b37af6307dd79ec7" level="file">
+            <did>
+              <unittitle>Fresno: Professor and two students working on a vine</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_ac6bf783009baaa7339ca118a0879ed4" label="box" type="Box">194</container>
+              <container id="aspace_ceb2eaf90ef61e9ad8feebacf45b47ee" parent="aspace_ac6bf783009baaa7339ca118a0879ed4"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_e1e05f6fdc0afbc9130b2430f7c12db9">
+              <head>Image Number</head>
+              <p>I-367</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_96f15b14808c00e191ef8e04d6e5a74a" level="file">
+            <did>
+              <unittitle>Garrett &amp; Company: Man in lab</unittitle>
+              <unitdate normal="1960-06/1960-06">June 1960</unitdate>
+              <container id="aspace_2642a63d90f618961b27fee119256251" label="box" type="Box">194</container>
+              <container id="aspace_daf234bd07a2b2e4349e6f693dc6d13f" parent="aspace_2642a63d90f618961b27fee119256251"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_1ed0e48e804c856e43490bfcb86e09a5">
+              <head>Image Number</head>
+              <p>I-018</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_59977b6b3b7982f1e5426b60c1677540" level="file">
+            <did>
+              <unittitle>Hands putting herbs in bottle of vinegar</unittitle>
+              <unitdate normal="1951/1951">1951</unitdate>
+              <container id="aspace_2b0fe4ec4bad80518f101424dd83487c" label="box" type="Box">194</container>
+              <container id="aspace_0f50eb440739509a2ae2076f77a451ec" parent="aspace_2b0fe4ec4bad80518f101424dd83487c"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_0ec3d2f3ae550e5725b71521e749fb11">
+              <head>Image Number</head>
+              <p>I-800</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_38b30a3b8834602cfd4e8d712196fb95" level="file">
+            <did>
+              <unittitle>Herman Ehlers and Carl Mettler at East-side, Lodi.</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_9875a524b66228bc5531a02ac38c892b" label="box" type="Box">194</container>
+              <container id="aspace_4db86e61e344d71610379bd1ff074de2" parent="aspace_9875a524b66228bc5531a02ac38c892b"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_e8560f2587c4d9870751b2013f42a384">
+              <head>Image Number</head>
+              <p>I-005</p>
+            </odd>
+            <odd id="aspace_80972c0dba66e55250c374a1a4bfcdf4">
+              <head>Caption</head>
+              <p>Young wine is carefully tested and judged by these two chemists.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3c543d737a7be369408b802cf41df1fd" level="file">
+            <did>
+              <unittitle>Italian Swiss Colony: Man at microscope with beakers</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_b5a59e50f5237c818d5ee62271c4ccfa" label="box" type="Box">194</container>
+              <container id="aspace_73e1c474ef07f5960cc642e9a08ec9d5" parent="aspace_b5a59e50f5237c818d5ee62271c4ccfa"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_d4895e1f7713c749a46ca6a720020e5c">
+              <head>Image Number</head>
+              <p>I-020</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_56d8861f34ee4523da71eb4a71bd834e" level="file">
+            <did>
+              <unittitle>Large wooden building with piles of grape seed (?)</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_f93ae5e56a1449ca259b39c2c0fd301e" label="box" type="Box">194</container>
+              <container id="aspace_c2dc065f4c868674d48923bc911e76fc" parent="aspace_f93ae5e56a1449ca259b39c2c0fd301e"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_168b38c0645a032adcf9610f58153b84">
+              <head>Image Number</head>
+              <p>I-637</p>
+            </odd>
+            <scopecontent id="aspace_0c9ef2bffdc8b721170707b4164ae161">
+              <head>Scope and Contents</head>
+              <p>May be grape seed storehouse</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_f9ac081efcce2d07c4325a5c7dcf7382" level="file">
+            <did>
+              <unittitle>Man analyzing wine</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Sponagel, A.</persname>
+              </origination>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_99a44a8aa5a2d14cae258b00090ad0c0" label="box" type="Box">194</container>
+              <container id="aspace_f72e2978d253c099b635169c4cef51d0" parent="aspace_99a44a8aa5a2d14cae258b00090ad0c0"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_ed68242edffcb1da09532fe8a72a7777">
+              <head>Image Number</head>
+              <p>I-001</p>
+            </odd>
+            <odd id="aspace_fc54462e426dfd930b1eee54fda4dcf1">
+              <head>Caption</head>
+              <p>Wine analyses being made in the laboratory of a California winery. California has the highest standards in the
+              world.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f02fba663fdbe701ef4da5047e140075" level="file">
+            <did>
+              <unittitle>Man at a large lab machine</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_64eb35bfdf6d7cd9c2c58514029e1a59" label="box" type="Box">194</container>
+              <container id="aspace_1947c11cd7589757f6a5270c3d97214e" parent="aspace_64eb35bfdf6d7cd9c2c58514029e1a59"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_8cb6a01ac430232b4569d5bb2c2ead80">
+              <head>Image Number</head>
+              <p>I-125</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a068fd680a8dba88bfdb68e0a4ef05fb" level="file">
+            <did>
+              <unittitle>Man at large lab machine</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_90a7b82d06547c69a3ac3597979e2074" label="box" type="Box">194</container>
+              <container id="aspace_56abbd7f167395bc36b953f26577b90f" parent="aspace_90a7b82d06547c69a3ac3597979e2074"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_e6641762c6e24022728d3053ce11b677">
+              <head>Image Number</head>
+              <p>I-135</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ae71a0f7ea9b246c135dca63d7f948fd" level="file">
+            <did>
+              <unittitle>Man at microscope</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_85b74809774e02a62c242b740b5282e6" label="box" type="Box">194</container>
+              <container id="aspace_b45048b77e127a126eca00f1b949c2d5" parent="aspace_85b74809774e02a62c242b740b5282e6"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_acb386bb4c763c21c90c4412322cc1c5">
+              <head>Image Number</head>
+              <p>I-355</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3d47aa2642ebe4a9d7771d13c40c912d" level="file">
+            <did>
+              <unittitle>Man in a lab</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_d3b126404a878960395d32b27b841810" label="box" type="Box">194</container>
+              <container id="aspace_522380d70f8eaf27acfaf35e13f893f3" parent="aspace_d3b126404a878960395d32b27b841810"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_851536038040f5df57627833be9b9c9f">
+              <head>Image Number</head>
+              <p>I-011</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d019fbd1d348e59f0153ab7990349f41" level="file">
+            <did>
+              <unittitle>Man in lab with testing device with flame</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_d6c6eb88092387f90b7dcbe4c557e817" label="box" type="Box">194</container>
+              <container id="aspace_f76000ef10dd896ac741fc999f6fdee2" parent="aspace_d6c6eb88092387f90b7dcbe4c557e817"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_9797cea845257da127028003173a75f3">
+              <head>Image Number</head>
+              <p>I-115</p>
+            </odd>
+            <scopecontent id="aspace_a81cdb579a94785af9fb96104941fdae">
+              <head>Scope and Contents</head>
+              <p>Possibly calorimeter?</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_b9abae854f2df6129ffafd9b26d4a30e" level="file">
+            <did>
+              <unittitle>Man in plexiglass cube in lab</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_d2d24f200728ce37a946f7f783d218ce" label="box" type="Box">194</container>
+              <container id="aspace_ac7d3ec59911f464ab178387353858ab" parent="aspace_d2d24f200728ce37a946f7f783d218ce"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_19d67c304df039727aaf21d9d099c1c7">
+              <head>Image Number</head>
+              <p>I-105</p>
+            </odd>
+            <scopecontent id="aspace_2adb39cf0f21fce95eb19115f4e990fa">
+              <head>Scope and Contents</head>
+              <p>Possibly an olfactory tester</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_8551447a286dafc62d5c00ebc96b09a4" level="file">
+            <did>
+              <unittitle>Man in silhouette of window and lab equipment.</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_bc69d815e6842f4846f332dc570d2642" label="box" type="Box">194</container>
+              <container id="aspace_422430b477b738e2c40de1ba026aa667" parent="aspace_bc69d815e6842f4846f332dc570d2642"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_0bdcd2f5e90e0bb5a923a102e6e0820d">
+              <head>Image Number</head>
+              <p>I-017</p>
+            </odd>
+            <odd id="aspace_ad3121ca58d699fe33dda67534c7d720">
+              <head>Caption</head>
+              <p>Wine Wizard. Not the workshop of a medieval alchemist, but the laboratory of a wine chemist at a California
+              winery. Rigid scientific tests make certain that California wines conform to the state's wine standards, which in
+              many respects are the highest in the world.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6b2b837baf5fb457811c5f97d71692c5" level="file">
+            <did>
+              <unittitle>Man in vineyard looking at grapes with small tool in hand</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_ffc30d913f83fca8847d7f73a9dffcc0" label="box" type="Box">194</container>
+              <container id="aspace_24d227b79c9da8a4cd064b98aa2219ca" parent="aspace_ffc30d913f83fca8847d7f73a9dffcc0"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_e1389bdc688840ef4560f220452df79f">
+              <head>Image Number</head>
+              <p>I-145</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fc07f990d93b56ce8c06e50dfc690841" level="file">
+            <did>
+              <unittitle>Man with bottle and some type of wine guide</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_116263261ca6a51469221c7fa7154da2" label="box" type="Box">194</container>
+              <container id="aspace_9b4cdaf0895b12dfe236acffd7a52a43" parent="aspace_116263261ca6a51469221c7fa7154da2"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_b6293199516cf36ab8b9a1ade2f545c0">
+              <head>Image Number</head>
+              <p>I-811</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a31f4f4e0901ab539f8ce0085248a391" level="file">
+            <did>
+              <unittitle>Man with gas chromatograph</unittitle>
+              <unitdate normal="1963/1963">1963</unitdate>
+              <container id="aspace_6d61553d27098159a7d0bf1b9a73338d" label="box" type="Box">194</container>
+              <container id="aspace_071230df4b2884cee40d5b519c204ad7" parent="aspace_6d61553d27098159a7d0bf1b9a73338d"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_0c6fa6ad52d5d4571861ab5d0843df04">
+              <head>Image Number</head>
+              <p>I-000</p>
+            </odd>
+            <odd id="aspace_73cd3c16ddc5a9e90773e14427b9bdb7">
+              <head>Caption</head>
+              <p>A technician uses gas chromatographic equipment for direct analysis of aroma arising from individual grapes and
+              juice products.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_118def9e3a6c39c7c8a543d1d9fe0ff9" level="file">
+            <did>
+              <unittitle>Man working in lab</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Yavno, Max</persname>
+              </origination>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_06e3040c65ff5d8529bbd6253aa00054" label="box" type="Box">194</container>
+              <container id="aspace_9dfabec2de645ee31a68d9d1bef34504" parent="aspace_06e3040c65ff5d8529bbd6253aa00054"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_8d6599137a10b0353b8c2cfdd59b69ff">
+              <head>Image Number</head>
+              <p>I-002</p>
+            </odd>
+            <odd id="aspace_b2dec78228a2ba1b59c4bb541f798f38">
+              <head>Caption</head>
+              <p>Wine testing is perpetual. The most meticulous measures are taken in California wineries to determine whether
+              wines are properly aged and blended and ready for bottling. Chemical analysis of wine samples is conducted here in
+              laboratory of a California winery. High standards make Golden State wines favorites throughout the United States.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_635641e269d3a7ad9fdeb1759b4b6e9f" level="file">
+            <did>
+              <unittitle>Men in front of wall with filled sacks</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_da4147b730f7b8322cc24cec9a4146ba" label="box" type="Box">194</container>
+              <container id="aspace_619a05fc2ad1ce6035d388a92df7be31" parent="aspace_da4147b730f7b8322cc24cec9a4146ba"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_f08643df78926678521efcae7e1a5ccf">
+              <head>Image Number</head>
+              <p>I-617</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9bc8bcd30eef8c5435fa2fba85b71fc0" level="file">
+            <did>
+              <unittitle>Pomace dryer</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_d1bb777a028e372d2bbbecf110c78a2c" label="box" type="Box">194</container>
+              <container id="aspace_5d3867383d900318cf299d86cf60ced3" parent="aspace_d1bb777a028e372d2bbbecf110c78a2c"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_29f6249206c5b6c2cc9e2fad26f93364">
+              <head>Image Number</head>
+              <p>I-607</p>
+            </odd>
+            <odd id="aspace_f76c9ca068992b0a5cb60f3a02caaa87">
+              <head>Caption</head>
+              <p>Here's where the newest food for California cows, ...powdered grapes", more correctly known as dried grape pomace,
+              is made. This $75,000 plant, in the short space of seven minutes, converts pulp of wine grapes into fine light-brown
+              meal which is equally good for stock food or for fertilizer. There are about 33 major byproducts of the wine
+              industry.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_10072146b4b1d8a88705c8b2b48f9766" level="file">
+            <did>
+              <unittitle>Regina Grape Products: Man in lab</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Harvey, Bill</persname>
+              </origination>
+              <unitdate normal="1960-06/1960-06">June 1960</unitdate>
+              <container id="aspace_fbddd0898972946c5e2abb407237d90d" label="box" type="Box">194</container>
+              <container id="aspace_2d54f5948cf83286f3804f227d9835cd" parent="aspace_fbddd0898972946c5e2abb407237d90d"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_3c34abe2764c31fdac6957ea691df35d">
+              <head>Image Number</head>
+              <p>I-008</p>
+            </odd>
+            <odd id="aspace_87067960231cdf251c69d7676d2a042b">
+              <head>Caption</head>
+              <p>A wine chemist carefully tests young wine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c87d915af674e971450698ba97178b91" level="file">
+            <did>
+              <unittitle>Regina Grape Products: Man on ladder near large steel tank</unittitle>
+              <unitdate normal="1960/1960">1960</unitdate>
+              <container id="aspace_60286851d362efa8bfc0adc8a162a5fd" label="box" type="Box">194</container>
+              <container id="aspace_33a555f0be3cdc35bfa541b2b06ef75b" parent="aspace_60286851d362efa8bfc0adc8a162a5fd"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_d334be97b823fcf2d791e8f60e1512e8">
+              <head>Image Number</head>
+              <p>I-718</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_b63d4d9ba3da2af074228930166ea623" level="file">
+            <did>
+              <unittitle>Roma Wine Company, Lodi: Men working with sacks that say: "Product of Argentina"</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_6e0f9a55a89dc12e470ab40ff47d672a" label="box" type="Box">194</container>
+              <container id="aspace_6439ff63092c6c0089d639970c7c93c4" parent="aspace_6e0f9a55a89dc12e470ab40ff47d672a"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_a80c3555110d7fd0d5a9be2ffd304f96">
+              <head>Image Number</head>
+              <p>I-627</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3e5245c5c351937e184586d8f17776a5" level="file">
+            <did>
+              <unittitle>Students and professor in small winery building with small press and wooden boxes of grapes that say "U.C.
+              VIT - DAVIS, CALIF."</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_29e89675f6c778c511f5ec5339f8563d" label="box" type="Box">194</container>
+              <container id="aspace_a73655349c4614cf807735f979f70d58" parent="aspace_29e89675f6c778c511f5ec5339f8563d"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_40e225f44c6651db895cda1e7fde8f80">
+              <head>Image Number</head>
+              <p>I-365</p>
+            </odd>
+            <scopecontent id="aspace_e0f32f894236d4ce260824b99110edbe">
+              <head>Scope and Contents</head>
+              <p>UC Davis Viticulture</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_b4a73f7e530e2bd59244a5f2c2a71270" level="file">
+            <did>
+              <unittitle>Students in classroom with wine glasses taking notes</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_6781b52f0e9e01a3db6d44853c04d535" label="box" type="Box">194</container>
+              <container id="aspace_02e12f3c7f579a7dd3e0628680418c6f" parent="aspace_6781b52f0e9e01a3db6d44853c04d535"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_319cf9aba854eb92fd5ae176d8c892a4">
+              <head>Image Number</head>
+              <p>I-385</p>
+            </odd>
+            <odd id="aspace_7f8e2ec249823c5d141db6872cdc554b">
+              <head>Caption</head>
+              <p>Students of the grape at the University of California at Davis, give their palates a work out as they try to
+              identify a wine during a classroom examination.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7ea08497b5fc6a7b102d09fab71b8146" level="file">
+            <did>
+              <unittitle>Teacher and student looking at winery pump</unittitle>
+              <unitdate normal="1961/1961">1961</unitdate>
+              <container id="aspace_93540c0824ed33aa3662cd512f452840" label="box" type="Box">194</container>
+              <container id="aspace_88132b9c5188896ed61befab57a359f8" parent="aspace_93540c0824ed33aa3662cd512f452840"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_22cbe157a6f1adb8747e0b3358051bc4">
+              <head>Image Number</head>
+              <p>I-377</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6dcafebda9d442f1623f18df7a826c94" level="file">
+            <did>
+              <unittitle>Three men in lab at microscope with grape leaves</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_daf24b03e334c170df25a24b3834248d" label="box" type="Box">194</container>
+              <container id="aspace_c45efa6d8374bf4d2c8d5970b05b7767" parent="aspace_daf24b03e334c170df25a24b3834248d"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_a6de3f77e6386d95dbdf0a15ab592bc9">
+              <head>Image Number</head>
+              <p>I-357</p>
+            </odd>
+            <scopecontent id="aspace_13a1311332834ea9222a620f2d44bbf6">
+              <head>Scope and Contents</head>
+              <p>Viticulture lab - Fresno State</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_dc00b64a4cf3bd54015ca63d47aa9473" level="file">
+            <did>
+              <unittitle>UC Davis student winery</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_3c6b3acf3e1d95ff34ba4a83fbedecbd" label="box" type="Box">194</container>
+              <container id="aspace_b515f8dec4d71fbebf484712857997c4" parent="aspace_3c6b3acf3e1d95ff34ba4a83fbedecbd"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_de60ade35fa27e21b88a4155d5a268d6">
+              <head>Image Number</head>
+              <p>I-365-1</p>
+            </odd>
+            <odd id="aspace_bfbfa8cff946378ee38ff77a6a7b9e3a">
+              <head>Caption</head>
+              <p>Wine aging in this student winery at the University of California at Davis, dumps a load of student-grown grapes
+              into the crusher -- the first step in separating the juice from the grapes.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_1b8891ddc10a98cbf35718c36eb8d4b3" level="file">
+            <did>
+              <unittitle>Wine vinegar making?</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_2fb7f391843762c7040157738f57c39b" label="box" type="Box">194</container>
+              <container id="aspace_3d75611807d64ebf72cbc8aadb97fb78" parent="aspace_2fb7f391843762c7040157738f57c39b"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_98d78b3355d5af67eaa09b6f3debf13c">
+              <head>Image Number</head>
+              <p>I-801</p>
+            </odd>
+            <scopecontent id="aspace_bb52c5d1a3744b32ce336fd497a19d4c">
+              <head>Scope and Contents</head>
+              <p>"American Industries Corp are words on a barrel. Man working in winery. Large Barrels around as well as small.
+              Word garlic on one barrel for some reason. Red 8500 Gallons on another. Maybe this is also a vinegar operation. Would
+              explain the word Garlic"</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_8e7da429a1ae642347673529eb88458c" level="file">
+            <did>
+              <unittitle>Winemaking byproduct drying in the sun</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_f2c8a9a51d07ce7a9fa49f8029fae3eb" label="box" type="Box">194</container>
+              <container id="aspace_b362bf12dbfb10693b1edef5d951f922" parent="aspace_f2c8a9a51d07ce7a9fa49f8029fae3eb"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_bf213edda2c92c6fdcf6a98bbfcde27c">
+              <head>Image Number</head>
+              <p>I-600</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_68580d2705c8985afaf1a167620239da" level="file">
+            <did>
+              <unittitle>Worker or student in a research bottle room carrying a small barrel with many tagged bottles in
+              background</unittitle>
+              <unitdate normal="1950/1950">mid 20th century</unitdate>
+              <container id="aspace_eaa60bfbfe9387e282f21efdf0276bbe" label="box" type="Box">194</container>
+              <container id="aspace_83340d5f30488d7409486e740cf82676" parent="aspace_eaa60bfbfe9387e282f21efdf0276bbe"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_9cead5fd2a400173d78b243a482e273f">
+              <head>Image Number</head>
+              <p>I-375</p>
+            </odd>
+            <odd id="aspace_fe71977cf0e2cbb7f332893a39e9a735">
+              <head>Caption</head>
+              <p>Wine aging in the student winery at the University of California, Davis in both bottles and cask.</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 id="aspace_15cf4bee76a265911137209c463eafee" level="series">
+          <did>
+            <unittitle>Winery Exteriors</unittitle>
+            <unitdate normal="1940/1971" type="inclusive">1940-1971</unitdate>
+          </did>
+          <scopecontent id="aspace_2987610f165a282128f2246327855061">
+            <head>Scope and Contents</head>
+            <p>Photographic prints, photographic negatives, color transparencies, and color transparency negatives of winery
+            exteriors. Many images include captions. Arranged in alphabetical order.</p>
+            <p>Note that photograph identification numbers with the suffix "c" indicate color transparencies.</p>
+          </scopecontent>
+          <odd id="aspace_dfe2cc255358757cefa8584fe5b517b6">
+            <head>Wine Institute Photograph Classification</head>
+            <p>The following classification scheme is provided to give historical insight into the Wine Institute's photograph
+            archives and may no longer be fully accurate:</p>
+            <p>First digit is district. Next two separate alphabetically.</p>
+            <p>000-024: Wineries A-C</p>
+            <p>025-044: Wineries D-H</p>
+            <p>045-064: Wineries I-N</p>
+            <p>065-084: Wineries O-S</p>
+            <p>085-099: Wineries T-Z</p>
+          </odd>
+          <c03 id="aspace_c1d9565ff823ebfea30b2cb82ac410c2" level="file">
+            <did>
+              <unittitle>Bear Creek, Lodi</unittitle>
+              <unitdate normal="1946/1946">1946</unitdate>
+              <container id="aspace_71f33a89e5506cf927e9b3dba6a02929" label="box" type="Box">195</container>
+              <container id="aspace_57b1f29b3ab6d27c63ca55b78b393506" parent="aspace_71f33a89e5506cf927e9b3dba6a02929"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_d54e70be102d4fbfa7d8254f64a9aebf">
+              <head>Image Number</head>
+              <p>J-039</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2d59ed3f6b24619ba959635650b7707b" level="file">
+            <did>
+              <unittitle>Beaulieu</unittitle>
+              <unitdate normal="1946-05/1946-05">May 1946</unitdate>
+              <container id="aspace_7217bd6c745f65e1f28de273723a42af" label="box" type="Box">194</container>
+              <container id="aspace_a2beaa8fcc2dedc98796e93404cec9f5" parent="aspace_7217bd6c745f65e1f28de273723a42af"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_a283878e9cc7c1353bd12eba08480f12">
+              <head>Image Number</head>
+              <p>J-001</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a6fa11a3febfdab0ee73ce6b1b0ee2e9" level="file">
+            <did>
+              <unittitle>Beaulieu, Napa County</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_cec9ba1b888ee5ae1282e4f95bc12961" label="box" type="Box">195</container>
+              <container id="aspace_766a4aae3f9e5b0adb492c88ade2a419" parent="aspace_cec9ba1b888ee5ae1282e4f95bc12961"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_d9e8d676ea2f9a681e50f7a0f2237385">
+              <head>Image Number</head>
+              <p>J-200</p>
+            </odd>
+            <odd id="aspace_bbfbabb2ae4691e8464a9625f54fe9dd">
+              <head>Caption</head>
+              <p>Climbing ivy covers the walls of this California winery, a stopping place for thousands of tourists traveling
+              through the Northern California wine country.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_dea762de883dcf18c8015f3562eb9344" level="file">
+            <did>
+              <unittitle>Beringer - Rhinehouse</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Rickter, Dan</persname>
+              </origination>
+              <unitdate normal="1963-05/1963-05">May 1963</unitdate>
+              <container id="aspace_4fdc8732713c662f9b37f525521395df" label="box" type="Box">195</container>
+              <container id="aspace_ac5c8f9f2fb23491d83b2c5ae2a22a7b" parent="aspace_4fdc8732713c662f9b37f525521395df"
+              type="Folder">40</container>
+            </did>
+            <odd id="aspace_452a842354f833bcbda6be5388684896">
+              <head>Image Number</head>
+              <p>J-205</p>
+            </odd>
+            <odd id="aspace_a291a88a9cdaf5f35a65b5f2fd0a6aed">
+              <head>Caption</head>
+              <p>A traditional tasting house graces the grounds of this California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3601e0ada3d7a6cb248833d3380e228b" level="file">
+            <did>
+              <unittitle>Beringer - Rhinehouse</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Partridge, Ronald</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_679de1af311b61ff1d28f656b162a5d0" label="box" type="Box">195</container>
+              <container id="aspace_ddd82f54cca245da7a5e24f5a842886d" parent="aspace_679de1af311b61ff1d28f656b162a5d0"
+              type="Folder">41</container>
+            </did>
+            <odd id="aspace_6eebb5e976133f6fc38e0c8cbbe816ca">
+              <head>Image Number</head>
+              <p>J-206</p>
+            </odd>
+            <odd id="aspace_9f74e47d5ee83d05e9343abddc5a8183">
+              <head>Caption</head>
+              <p>A tasting room and administration building of a California winery founded by German immigrants. Called the
+              "Rhinehouse" the building was modeled after similar structures along the Rhine River in the founding owners'
+              homeland.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3554459d9cf372260cc9619d7b348fbf" level="file">
+            <did>
+              <unittitle>Beringer Brothers, Napa Valley, California</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f732952e67c031fbfc43486f54cc9c73" label="box" type="Box">197</container>
+              <container id="aspace_67358291e7febc7172becfab8d90edd1" parent="aspace_f732952e67c031fbfc43486f54cc9c73"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_40d9c4f4aadea4c0fbab17511564d13a">
+              <head>Image Number</head>
+              <p>J-008c</p>
+            </odd>
+            <odd id="aspace_b2b51f161ecc63e76b805ceb7862821b">
+              <head>Caption</head>
+              <p>Beringer Brothers, Napa Valley, California</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c555fd674765963c0db67a4cc24f25f4" level="file">
+            <did>
+              <unittitle>Brookside or Garrett (Guild), Guasti</unittitle>
+              <unitdate normal="1968-02/1968-02">February 1968</unitdate>
+              <container id="aspace_b13481c9542d56e489bd630a1e90876d" label="box" type="Box">196</container>
+              <container id="aspace_27f672f807a6350e2c25ce2995c5794e" parent="aspace_b13481c9542d56e489bd630a1e90876d"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_2eae54afc35e60dc278d8d06b3b25716">
+              <head>Image Number</head>
+              <p>J-819</p>
+            </odd>
+            <odd id="aspace_82f5228a96aac1849bb7383a704b0b4f">
+              <head>Caption</head>
+              <p>An old, stone California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_423c33eb9a8bfce6c1bb04e708fdb1c2" level="file">
+            <did>
+              <unittitle>Brookside or Garrett (Guild), Guasti</unittitle>
+              <unitdate normal="1968-02/1968-02">February 1968</unitdate>
+              <container id="aspace_3429135271fc45215555071a2bcc63a6" label="box" type="Box">196</container>
+              <container id="aspace_d93eae305767b183adb7d4cff8f81696" parent="aspace_3429135271fc45215555071a2bcc63a6"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_ce40c74b3d3dd7a00b450ce65ebe0d03">
+              <head>Image Number</head>
+              <p>J-821</p>
+            </odd>
+            <odd id="aspace_9ad8fc54ff05c41cc28a33abbad34f29">
+              <head>Caption</head>
+              <p>Eucalyptus trees frame a building at a California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_24c17c79f716d313dd984507f9ce2518" level="file">
+            <did>
+              <unittitle>Buena Vista (Haraszthy), Sonoma</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_e7a8bb264c885af4ee5a69893707c4fe" label="box" type="Box">195</container>
+              <container id="aspace_76289e22af8326ddd3d6cdb3359ab534" parent="aspace_e7a8bb264c885af4ee5a69893707c4fe"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_4f486bf193f8db258ab68bf590a8e754">
+              <head>Image Number</head>
+              <p>J-100</p>
+            </odd>
+            <odd id="aspace_ff35b05ed0576b38da84b4764bbf7934">
+              <head>Caption</head>
+              <p>Old fashioned basket presses frame the doorway of an old stone building at a historical California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_526b2a1bec0cb8927425c9a659b17375" level="file">
+            <did>
+              <unittitle>Buena Vista (Haraszthy), Sonoma</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_036500f5b7000b665bebf39417827cd3" label="box" type="Box">195</container>
+              <container id="aspace_d3676ba9e4a5e5855da334e2f458c874" parent="aspace_036500f5b7000b665bebf39417827cd3"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_327094bcba34ce572148412d20936ac8">
+              <head>Image Number</head>
+              <p>J-101</p>
+            </odd>
+            <odd id="aspace_365226ca7bf9ef20f67688d80d965138">
+              <head>Caption</head>
+              <p>A stone winery in California rests serenely against a mountain side, sheltered by tall trees.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d6bf5515ccd78386c5dad1e5d5a91f9a" level="file">
+            <did>
+              <unittitle>Buena Vista Stone Winery</unittitle>
+              <unitdate normal="1957/1957">1957</unitdate>
+              <container id="aspace_d110d2c57e553180c703205a06108369" label="box" type="Box">195</container>
+              <container id="aspace_9a0ba4ee151219ccd36d0d9efbb5e3c7" parent="aspace_d110d2c57e553180c703205a06108369"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_3181470e56257efa8301040bafd80ff4">
+              <head>Image Number</head>
+              <p>J-029-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cd28bc898df65edb57bae25ed138ab7f" level="file">
+            <did>
+              <unittitle>A California winery and some of its grape vines.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_a0935880a1a2947ee4b74ce1eb6b1df9" label="box" type="Box">197</container>
+              <container id="aspace_4daa722a14b983f349dc80f630375f5c" parent="aspace_a0935880a1a2947ee4b74ce1eb6b1df9"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_50fa4de2dab36c3b870923229b78ef12">
+              <head>Image Number</head>
+              <p>J-021c</p>
+            </odd>
+            <odd id="aspace_2a4d7ae73a5ab6cb504eb55fe8097553">
+              <head>Caption</head>
+              <p>Winery and its vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3350a1635abc5b04ef0e193ed490f42d" level="file">
+            <did>
+              <unittitle>Central Valley: Back of winery building with tank and barrels</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ee3ae81e7b88aaf7de38940f446741af" label="box" type="Box">196</container>
+              <container id="aspace_1e56a6b0cc62dc68493dd153b8fa0fee" parent="aspace_ee3ae81e7b88aaf7de38940f446741af"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_0a18bf0599b152648d4ae8155f70fd8a">
+              <head>Image Number</head>
+              <p>J-525</p>
+            </odd>
+            <odd id="aspace_c5b744cc9fa3237a8c09f3819d113a10">
+              <head>Caption</head>
+              <p>A tank and rows of wooden barrels -- symbolizing the marriage of modern technology and ancient art in winemaking
+              -- line the walls of a modern California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4ab58310cf2acb3a0305ac98833a2fc5" level="file">
+            <did>
+              <unittitle>Central Valley: Back of winery building with tank and barrels</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_65591d818dfdfce6a514dcdcde499412" label="box" type="Box">196</container>
+              <container id="aspace_719606efd8887c0bf060ad761446ddd5" parent="aspace_65591d818dfdfce6a514dcdcde499412"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_071e043f82c6afc13a687db3a502d048">
+              <head>Image Number</head>
+              <p>J-526</p>
+            </odd>
+            <odd id="aspace_ec9f7119dcb055572a14e532bf28b088">
+              <head>Caption</head>
+              <p>A modern California winery in the Great Central Valley framed by a nearby grapevine.</p>
+            </odd>
+            <scopecontent id="aspace_4bdd22cd0263b55dbf25dfa99c5f036a">
+              <head>Scope and Contents</head>
+              <p>Longer shot</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_bf65a65db0fd5ff216b909e4f7923a43" level="file">
+            <did>
+              <unittitle>Champagne cellar in Southern California</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Harvey, Bill</persname>
+              </origination>
+              <unitdate normal="1960/1960">1960</unitdate>
+              <container id="aspace_cffd8fce50bda09b99bbe919cbd1f6cb" label="box" type="Box">196</container>
+              <container id="aspace_a39051a3e137d6d7adf425b0fd083e2f" parent="aspace_cffd8fce50bda09b99bbe919cbd1f6cb"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_bbcc1371d71059af559da4d01c5b2b73">
+              <head>Image Number</head>
+              <p>J-820</p>
+            </odd>
+            <odd id="aspace_d05beaaa02b7d3b79589fbb97962b66e">
+              <head>Caption</head>
+              <p>A vine-covered stone entrance marks this Champagne cellar of a Southern California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_817305d8951cb0e8f67576911d2873f3" level="file">
+            <did>
+              <unittitle>Charles Krug</unittitle>
+              <unitdate normal="1946/1946">1946</unitdate>
+              <container id="aspace_0853b7108b20f6c96457b507d3b782a8" label="box" type="Box">194</container>
+              <container id="aspace_9daa0b44065694505cc2d7c4b0c6cfe5" parent="aspace_0853b7108b20f6c96457b507d3b782a8"
+              type="Folder">45</container>
+            </did>
+            <odd id="aspace_238ab33ea5f5ade5083aed492ec0adee">
+              <head>Image Number</head>
+              <p>J-021</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_94e44770c2583dbd0e0c3d33b8dfbd61" level="file">
+            <did>
+              <unittitle>Charles Krug</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Hiaring, Phil</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_ad214f33b6813b17ae6bcd15a5fc4168" label="box" type="Box">197</container>
+              <container id="aspace_1c8d74b56450548fd5131120ae6d8b04" parent="aspace_ad214f33b6813b17ae6bcd15a5fc4168"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_58416713c0814f0902286dce9940dd74">
+              <head>Image Number</head>
+              <p>J-011c</p>
+            </odd>
+            <odd id="aspace_93b630c328e8225e583cd21cdc227b57">
+              <head>Caption</head>
+              <p>Charles Krug. This traditional California winery ages wines which in future years will grace America's tables.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_70c11fed4dcc94eacc712996ef1d64f0" level="file">
+            <did>
+              <unittitle>Charles Krug Winery, St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Butters, Jack</persname>
+              </origination>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_b69559989435d53dcc9edc4f22614ce4" label="box" type="Box">196</container>
+              <container id="aspace_1efb623521637b74a22e993c45596957" parent="aspace_b69559989435d53dcc9edc4f22614ce4"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_8e7c51b0ea2bb6556aa0cfd8a264f7a8">
+              <head>Image Number</head>
+              <p>J-253</p>
+            </odd>
+            <odd id="aspace_259566f2eb9019f307a17977bc8b8ce1">
+              <head>Caption</head>
+              <p>This California winery was founded by a German immigrant in the mid-1900s. - A picturesque winery in the heart of
+              California's wine country. [NOTE: 2nd caption found]</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f1c89d9d0c388b2dd1f61528b27f8809" level="file">
+            <did>
+              <unittitle>Charles Krug Winery, St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Yavno, Max</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_29789a0fc2a9b05fc1209e80042d3e11" label="box" type="Box">196</container>
+              <container id="aspace_89e8369a4da22e32bef3d757732a477b" parent="aspace_29789a0fc2a9b05fc1209e80042d3e11"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_e530437bdc0d8b9b51de6d63c37a7491">
+              <head>Image Number</head>
+              <p>J-254</p>
+            </odd>
+            <odd id="aspace_0803f0f650f127f6b9ea94d7a1be2c6b">
+              <head>Caption</head>
+              <p>Early spring in the California wine country. This winery is framed by fields of dormant vines which will leaf out
+              in a few weeks. In a few months the vines will be laden with grapes for a new vintage.</p>
+            </odd>
+            <scopecontent id="aspace_d56719000af1119aeeef9a5f3c8268e1">
+              <head>Scope and Contents</head>
+              <p>A far off shot of Krug winery with head pruned old vines: autumn or winter.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_1f9bfcd1942025d831198e6758f95c90" level="file">
+            <did>
+              <unittitle>Chauvenet</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_cf04c8ff3b8c9cb8ecb85af492dc8d5b" label="box" type="Box">195</container>
+              <container id="aspace_27f0b57d32cacf72b93028044146e135" parent="aspace_cf04c8ff3b8c9cb8ecb85af492dc8d5b"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_a670f399b3d62f9605b3e889da6e43ab">
+              <head>Image Number</head>
+              <p>J-048-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f1b4e5aad5734284d224a518b1fd1a7b" level="file">
+            <did>
+              <unittitle>Christian Bros.</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_f328dfc491e564579bc0af4b9b539f44" label="box" type="Box">197</container>
+              <container id="aspace_965b988f0e5a9b1211fc4e3428909dac" parent="aspace_f328dfc491e564579bc0af4b9b539f44"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_0f608f22278ffa911f81cf78cf26288c">
+              <head>Image Number</head>
+              <p>J-012c</p>
+            </odd>
+            <odd id="aspace_9330d6165510dad3f5f79ea10225683c">
+              <head>Caption</head>
+              <p>Christian Brothers. The massive stone archway of a California winery frames the adjacent vineyards and palm
+              trees.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_dd95bab6fac4878d65242bd8715c6ff6" level="file">
+            <did>
+              <unittitle>Christian Bros., St. Helena</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c1dd74d660860d848931c188ba2dd38c" label="box" type="Box">196</container>
+              <container id="aspace_1a3b516b68bf6fc7faa4a02d140a229e" parent="aspace_c1dd74d660860d848931c188ba2dd38c"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_e64333664137a95db08cfc1f60c65842">
+              <head>Image Number</head>
+              <p>J-210</p>
+            </odd>
+            <odd id="aspace_cf8551a14dd56e29292089b11f34953c">
+              <head>Caption</head>
+              <p>A stone arch frames the entrance of a California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_517af53da392ed8c72e590ece82aae09" level="file">
+            <did>
+              <unittitle>Christian Bros., St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_80be4ca7e95714f1ed3d1f63b5a90627" label="box" type="Box">196</container>
+              <container id="aspace_a17d4780d6cfba34147a404bad3b5b24" parent="aspace_80be4ca7e95714f1ed3d1f63b5a90627"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_58d97149ccef12d4167ce67ffc7bd39f">
+              <head>Image Number</head>
+              <p>J-213</p>
+            </odd>
+            <odd id="aspace_b34eab64cb074bb0c13e54dae29b521c">
+              <head>Caption</head>
+              <p>An old, stone winery building houses many aging California wines as it stands across the roads from lush
+              vineyards.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_08b06fd24ededd76cc6147a0f1c75cc3" level="file">
+            <did>
+              <unittitle>Christian Bros., St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_e9c1514295b80c9c7aa529f36dacb54c" label="box" type="Box">196</container>
+              <container id="aspace_3166f1c7de049ae3c853b82607eef87a" parent="aspace_e9c1514295b80c9c7aa529f36dacb54c"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_c6aea36e5f486ff6bf29e6241f80f710">
+              <head>Image Number</head>
+              <p>J-214</p>
+            </odd>
+            <odd id="aspace_769cd2664f8f5aa12667df16af0fde40">
+              <head>Caption</head>
+              <p>A massive stone archway of a California winery frames an adjacent vineyard and palm trees.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7be796f126c83ca2cc48044cfed15993" level="file">
+            <did>
+              <unittitle>Christian Bros., St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Hiaring, Phil</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_9d8bed3d9f29cab7c983d4bc54f3db33" label="box" type="Box">197</container>
+              <container id="aspace_20a74fd7e22e77eb631b3a2cf21d3ee5" parent="aspace_9d8bed3d9f29cab7c983d4bc54f3db33"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_ed1e8b6b09e3cc57858dd617cc50460a">
+              <head>Image Number</head>
+              <p>J-001-1c</p>
+            </odd>
+            <odd id="aspace_de27c1809eba48e0436b670eaf665099">
+              <head>Caption</head>
+              <p>Christian Bros., St. Helena. A Napa Valley winery and vineyard framed by sturdy trees.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9634ee508ee244635b326c95a6a0596d" level="file">
+            <did>
+              <unittitle>Christian Bros., St. Helena?: Winery building heavily covered in ivy</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Partridge, Ronald</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f0cae38c7fd699785b6a20949a69fb2d" label="box" type="Box">196</container>
+              <container id="aspace_a26d494de9444fb46e9820d734fc3bce" parent="aspace_f0cae38c7fd699785b6a20949a69fb2d"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_c75cc536e025ca10d53d6af5a52b7256">
+              <head>Image Number</head>
+              <p>J-211</p>
+            </odd>
+            <odd id="aspace_7461e27c099d0f2e6c682cb9fc8308d8">
+              <head>Caption</head>
+              <p>A picturesque winery in California.</p>
+            </odd>
+            <scopecontent id="aspace_37c596d459c09f20334d8691be0a170c">
+              <head>Scope and Contents</head>
+              <p>There are two distinct photographs of what appears to be the same winery taken from different sides of the
+              building perhaps on the same day and by the same photographer.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_8a36a29c5d9713f8dca6578fc6095992" level="file">
+            <did>
+              <unittitle>Christian Bros.?: Near St. Helena</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Partridge, Ronald</persname>
+              </origination>
+              <unitdate normal="1946/1946">1946</unitdate>
+              <container id="aspace_dddd0ef82ee430f58a1146f7ffaaf437" label="box" type="Box">196</container>
+              <container id="aspace_9d23620fb9076d73c4c68c11f1604879" parent="aspace_dddd0ef82ee430f58a1146f7ffaaf437"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_b310b478f66a615ce5f1bf0cfc5b9172">
+              <head>Image Number</head>
+              <p>J-212</p>
+            </odd>
+            <odd id="aspace_ead23766298dd044ea5b9df2b4785420">
+              <head>Caption</head>
+              <p>A picturesque winery in the heart of California's wine country.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7b604d1ba392633606512a642cdcd66e" level="file">
+            <did>
+              <unittitle>Christian Brothers</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ff2f708b0ac2e9fcd78f8f56d8374201" label="box" type="Box">194</container>
+              <container id="aspace_cb98071adcfdaf71f07b0212bc3f55c7" parent="aspace_ff2f708b0ac2e9fcd78f8f56d8374201"
+              type="Folder">41</container>
+            </did>
+            <odd id="aspace_6a07ff3d471e22d6be1551b1c4369e2a">
+              <head>Image Number</head>
+              <p>J-009</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fa3b09d0822e3e8f4e246a0b9d912685" level="file">
+            <did>
+              <unittitle>Christian Brothers, Mont LaSalle, Napa</unittitle>
+              <unitdate normal="1956/1956">Fall 1956</unitdate>
+              <container id="aspace_119889acc7c112606b53e155f2a708cf" label="box" type="Box">195</container>
+              <container id="aspace_37deb8f51f3ca80e0949675ed97ab960" parent="aspace_119889acc7c112606b53e155f2a708cf"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_fe028cbbced95b114745ea7fb261f202">
+              <head>Image Number</head>
+              <p>J-025</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_340e6bc2f1f505b55739c91668cae55b" level="file">
+            <did>
+              <unittitle>Christian Brothers, St. Helena, Calif.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_17bc552df2dea23b5016841e436f4bc4" label="box" type="Box">197</container>
+              <container id="aspace_98c704c4178d557018e782ebce876c06" parent="aspace_17bc552df2dea23b5016841e436f4bc4"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_39a90473ab1afebbfdb5c40afa814cd5">
+              <head>Image Number</head>
+              <p>J-001c</p>
+            </odd>
+            <odd id="aspace_92eed32e6ed544af711d3a604087a2da">
+              <head>Caption</head>
+              <p>Vine-covered stone arch leading to a California winery. - The Christian Bros. wine aging cellars, St. Helena,
+              Calif. Vine-covered arch.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8bc011dd442bc5e59ce3ecf6fd628f7f" level="file">
+            <did>
+              <unittitle>Close-up of carved winery door.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_89c76abca2b89509d112b73efae5b768" label="box" type="Box">197</container>
+              <container id="aspace_7d7c42de13653042a43a44dd7af563e9" parent="aspace_89c76abca2b89509d112b73efae5b768"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_b046ca3737d1dfc32b63e8229941dfd6">
+              <head>Image Number</head>
+              <p>J-007c</p>
+            </odd>
+            <odd id="aspace_acb32b961365583bf9738a45074edf6a">
+              <head>Caption</head>
+              <p>Close-up of carved winery door.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8dca20c28a3a370b5e978a8771827f93" level="file">
+            <did>
+              <unittitle>Cresta Blanca Wine Co., Livermore</unittitle>
+              <unitdate normal="1958-05/1958-05">May 1958</unitdate>
+              <container id="aspace_684d63545524f9ae25fc90b9feb98f4a" label="box" type="Box">195</container>
+              <container id="aspace_02769df2b1de8c3c84e492352584789d" parent="aspace_684d63545524f9ae25fc90b9feb98f4a"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_5874a23430922192ad61c46ebf1664f5">
+              <head>Image Number</head>
+              <p>J-036</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e6ce192b8618fadcb344d71e9b3aca78" level="file">
+            <did>
+              <unittitle>Cresta Blanca Wine Co., Livermore</unittitle>
+              <unitdate normal="1958-05/1958-05">May 1958</unitdate>
+              <container id="aspace_67be97a103d1e08abd2423dd2c00003f" label="box" type="Box">195</container>
+              <container id="aspace_d5bf63bb917ac164c15b045338e55e0c" parent="aspace_67be97a103d1e08abd2423dd2c00003f"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_c92aa95d970194487c3d02547e8c653a">
+              <head>Image Number</head>
+              <p>J-036-1</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e0b71b41bad78a970a34df1fe6774358" level="file">
+            <did>
+              <unittitle>Cucamonga-Ontario District</unittitle>
+              <unitdate normal="1960/1960">1960</unitdate>
+              <container id="aspace_45a6d386d4c34f7a815b2bfee5f61ffc" label="box" type="Box">195</container>
+              <container id="aspace_8138fa0b883f27f2c29fa9f6a2465a68" parent="aspace_45a6d386d4c34f7a815b2bfee5f61ffc"
+              type="Folder">27</container>
+            </did>
+            <odd id="aspace_d4d857f087289c62ec9daa2bed758f9a">
+              <head>Image Number</head>
+              <p>J-052</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_27df1ae016172521f379183b3711a918" level="file">
+            <did>
+              <unittitle>East Side Winery, Sonoma County</unittitle>
+              <unitdate normal="1940/1940">1940s</unitdate>
+              <container id="aspace_c9cad215fa2cd086ed77891166ab9f35" label="box" type="Box">195</container>
+              <container id="aspace_ed6ead15f21e8dfce71a287342f86ccb" parent="aspace_c9cad215fa2cd086ed77891166ab9f35"
+              type="Folder">20</container>
+            </did>
+            <odd id="aspace_c1e1fa089fa9194489e35c5610ba1831">
+              <head>Image Number</head>
+              <p>J-040</p>
+            </odd>
+            <odd id="aspace_eb97deb49aff0ca0d8b9ad4cb847005c">
+              <head>Caption</head>
+              <p>It was open house at this Sonoma County winery and one of the State's oldest and best known, during the Valley of
+              the Moon Vintage Festival. Visitors sample Sherry as they see wonders of the winery's ancinet aging caves.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c612be1b806cdee39ab7bedd5854b064" level="file">
+            <did>
+              <unittitle>Entrance to a historic and picturesque California winery.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_67f6ce3cc92a1680d70901846a3ebd0f" label="box" type="Box">197</container>
+              <container id="aspace_1d23a3f067e80f2eb4f6ff8ec6a01d0d" parent="aspace_67f6ce3cc92a1680d70901846a3ebd0f"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_3e7e70695767e12fa5d032c7a480a1f8">
+              <head>Image Number</head>
+              <p>J-015c</p>
+            </odd>
+            <odd id="aspace_5c2ea9a385719d724d0b91104152f11d">
+              <head>Caption</head>
+              <p>Entrance to a historic and picturesque California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_aa99a1e32a0a72b1f3a86d838e823c53" level="file">
+            <did>
+              <unittitle>Ficklin Vineyards, Madera</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Brook, George</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_9d0c15be1d26b24bfca20f8b2bb23ff0" label="box" type="Box">196</container>
+              <container id="aspace_8f8ad3dbd9396b1d144f6a1fe7680230" parent="aspace_9d0c15be1d26b24bfca20f8b2bb23ff0"
+              type="Folder">30</container>
+            </did>
+            <odd id="aspace_7feebb1f65d74f8ad88b509ef7776399">
+              <head>Image Number</head>
+              <p>J-725</p>
+            </odd>
+            <odd id="aspace_99c0cf2e0ff3bf04b3acb5e590d4f3bc">
+              <head>Caption</head>
+              <p>This old brick winery is situated in one of the world's great winegrowing regions.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d623b7710c211b7659bdcf7f31bdf77e" level="file">
+            <did>
+              <unittitle>Freemark Abbey Cellars, St. Helena</unittitle>
+              <unitdate normal="1941-08/1941-08">August 1941</unitdate>
+              <container id="aspace_24754a843bbfbad5e90f20af79471220" label="box" type="Box">195</container>
+              <container id="aspace_d71d94a0e0e67aeec33bb6d7f909c10f" parent="aspace_24754a843bbfbad5e90f20af79471220"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_be5c0c00bb13d83dfa2863c541dd0116">
+              <head>Image Number</head>
+              <p>J-126</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_22582abe696c273f7642c38741a650bb" level="file">
+            <did>
+              <unittitle>Garrett &amp; Co., Guasti, California</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_30e9f9064a4f1308687e5d894163c797" label="box" type="Box">197</container>
+              <container id="aspace_faba8107b54b7bda4c0816b6aca0ad7b" parent="aspace_30e9f9064a4f1308687e5d894163c797"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_773e4e8da2e55d1fda476312197ea21a">
+              <head>Image Number</head>
+              <p>J-003c</p>
+            </odd>
+            <odd id="aspace_c925d263daddfd1bb1ade47ea37fe70b">
+              <head>Caption</head>
+              <p>Garrett &amp; Co., Guasti, California</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_5d42a2fe830b4b111972262cd6a0626b" level="file">
+            <did>
+              <unittitle>Greystone</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_9fad5989d31d5090cec29d2c7fbcb3ec" label="box" type="Box">194</container>
+              <container id="aspace_121e81e0287a52acd9233be6919c95cd" parent="aspace_9fad5989d31d5090cec29d2c7fbcb3ec"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_be7c6ba36d2518a07b3e03c6057a4a5c">
+              <head>Image Number</head>
+              <p>J-005</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_a05e7d3420f33dee371a30c6cd93de50" level="file">
+            <did>
+              <unittitle>Greystone</unittitle>
+              <unitdate normal="1941-07/1941-07">July 1941</unitdate>
+              <container id="aspace_833571554b140e9160cdb1a2362044ee" label="box" type="Box">194</container>
+              <container id="aspace_bb305ecf57b271c7c1f8399feb6a1d5f" parent="aspace_833571554b140e9160cdb1a2362044ee"
+              type="Folder">40</container>
+            </did>
+            <odd id="aspace_32f5989b651b7c4177c9505a30ffdcb1">
+              <head>Image Number</head>
+              <p>J-008</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_955b6d9e21782adc3ad58493571dfd7b" level="file">
+            <did>
+              <unittitle>Hallcrest</unittitle>
+              <unitdate normal="1958/1958">1958</unitdate>
+              <container id="aspace_edb227b5faefb8b77495fb5dfe1d8b52" label="box" type="Box">195</container>
+              <container id="aspace_20b22530e36086f0ca1dba7042fb4046" parent="aspace_edb227b5faefb8b77495fb5dfe1d8b52"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_60b285c213b8ea2761e375fbd385d0b7">
+              <head>Image Number</head>
+              <p>J-038-5</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c97d71524070211fbdc13dc51aa503f7" level="file">
+            <did>
+              <unittitle>Hallcrest Vineyard, Felton</unittitle>
+              <unitdate normal="1958-05/1958-05">May 1958</unitdate>
+              <container id="aspace_8c4f9db0d88428ab94d3d79d311ef262" label="box" type="Box">195</container>
+              <container id="aspace_a8c545de8b69cc0fe48b0573d3f9bd5b" parent="aspace_8c4f9db0d88428ab94d3d79d311ef262"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_f27d4b9a929098a8eb3a6a5f4955782f">
+              <head>Image Number</head>
+              <p>J-038-3</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f02e041c81a26e95bec8a94358d565b6" level="file">
+            <did>
+              <unittitle>Hallcrest Vineyard, Felton</unittitle>
+              <unitdate normal="1958/1958">1958</unitdate>
+              <container id="aspace_1e0f7bafb62cebad3e68311b93c76fd1" label="box" type="Box">195</container>
+              <container id="aspace_92a9cd3aea935fe21327e43589fb66ab" parent="aspace_1e0f7bafb62cebad3e68311b93c76fd1"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_fa25295d3700f1498114a1780c10a0df">
+              <head>Image Number</head>
+              <p>J-038-4</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2a1ff417da6e1e7d72383d5d8b20064c" level="file">
+            <did>
+              <unittitle>Hanzell Vineyards, Sonoma</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f25ab24bb41677089c250c7afe359ec9" label="box" type="Box">195</container>
+              <container id="aspace_7b456321ccafb140e4b295dcece452d7" parent="aspace_f25ab24bb41677089c250c7afe359ec9"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_fd8e63e981199671e4e16016e13e5fe1">
+              <head>Image Number</head>
+              <p>J-125</p>
+            </odd>
+            <odd id="aspace_b4cf6bf9083ac989c3e70d6d70cfccf7">
+              <head>Caption</head>
+              <p>One of California's smallest wineries.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4fcad6c99bc6f1a967f049003da257ab" level="file">
+            <did>
+              <unittitle>Hanzell Vineyards, Sonoma</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Hiaring, Phil</persname>
+              </origination>
+              <unitdate normal="1962-06/1962-06">June 1962</unitdate>
+              <container id="aspace_da97beec92d84f99b1c8816672bca652" label="box" type="Box">197</container>
+              <container id="aspace_3cbb93f5a10728e82ae3de5d116589a0" parent="aspace_da97beec92d84f99b1c8816672bca652"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_c01bdbf41b7b27fa2ef11a744d9a9f93">
+              <head>Image Number</head>
+              <p>J-010c</p>
+            </odd>
+            <odd id="aspace_914365223b67de61e35d729ee847d534">
+              <head>Caption</head>
+              <p>Hanzell Winery overlooking the Valley of the Moon in Sonoma County, California. This winery is owned by J.D.
+              Zellerback, former Ambassador to Italy.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fa4a3162742b28c3f3b223f7cb72f405" level="file">
+            <did>
+              <unittitle>Inglenook</unittitle>
+              <unitdate normal="1941-08/1941-08">August 1941</unitdate>
+              <container id="aspace_96fa47f12b2068d89044ce02de2d6cd2" label="box" type="Box">194</container>
+              <container id="aspace_545a7a818e56648b87715fedf4fb5710" parent="aspace_96fa47f12b2068d89044ce02de2d6cd2"
+              type="Folder">43</container>
+            </did>
+            <odd id="aspace_5a9147f1dfcd2ff982fefc0f18094c1f">
+              <head>Image Number</head>
+              <p>J-017</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_349033417b98d43a15aa30829bea5202" level="file">
+            <did>
+              <unittitle>Inglenook</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Fields, Jack</persname>
+              </origination>
+              <unitdate normal="1957/1957">Fall 1957</unitdate>
+              <container id="aspace_577fd87cc8972e293dddfeb43b783135" label="box" type="Box">197</container>
+              <container id="aspace_18af0bf098e89dfe3e09dd498b53611a" parent="aspace_577fd87cc8972e293dddfeb43b783135"
+              type="Folder">19</container>
+            </did>
+            <odd id="aspace_38d40e7937cfcb342edb3b94842aa5fc">
+              <head>Image Number</head>
+              <p>J-020c</p>
+            </odd>
+            <odd id="aspace_7272a70b89b877ba0157a85d85efe876">
+              <head>Caption</head>
+              <p>Inglenook. Tree-shaded road leading to ivy covered winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4bee5a21f00cc55712807ea39f51d81e" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="1965/1965">1965</unitdate>
+              <container id="aspace_cb732b4456e3dbe34b9fad9a9286dc6c" label="box" type="Box">196</container>
+              <container id="aspace_a4a302850d35c66d170a858ea7b16efd" parent="aspace_cb732b4456e3dbe34b9fad9a9286dc6c"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_c9de2bed2fa15fc892f6aedf5c91452b">
+              <head>Image Number</head>
+              <p>J-245</p>
+            </odd>
+            <odd id="aspace_70917ebcd770cedd491d46929d745a4f">
+              <head>Caption</head>
+              <p>A California winery sits nestled among grape vines, a welcome spot for visitors who want to stop and taste the
+              wines made there. Because of the excellent wine grapes grown in this spot, and the skill of the winemaker who
+              oversees their transformation into wine, the products of this winery are enjoyed all across the country.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fe99be326cc0c0b87b9376863e569c5f" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Hansen, Corwin</persname>
+              </origination>
+              <unitdate normal="1941-07/1941-07">July 1941</unitdate>
+              <container id="aspace_a4a4247dc9e250fe37c3125f93ad723d" label="box" type="Box">196</container>
+              <container id="aspace_62093ad2eda4550a61422f8721a1ac8f" parent="aspace_a4a4247dc9e250fe37c3125f93ad723d"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_60a3cdaa6929a18c9114ea69437a1556">
+              <head>Image Number</head>
+              <p>J-246</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ed3588dac16eb5c5844d489b7ee54f9f" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1956/1956">Fall 1956</unitdate>
+              <container id="aspace_8f4d7e92e6737d8b8fb40afd08864465" label="box" type="Box">196</container>
+              <container id="aspace_fd57fa8b61815e381bf54853783c17da" parent="aspace_8f4d7e92e6737d8b8fb40afd08864465"
+              type="Folder">15</container>
+            </did>
+            <odd id="aspace_3286dd906aa564839fe764854ff9f4d1">
+              <head>Image Number</head>
+              <p>J-247</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f17c6b1e2b6bcbfbc599481e4278b470" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="1941-08/1941-08">August 1941</unitdate>
+              <container id="aspace_8f252af2a72bb8139c0502c6f86a3603" label="box" type="Box">196</container>
+              <container id="aspace_2b9610537a4b3692e3750ecfbb00083a" parent="aspace_8f252af2a72bb8139c0502c6f86a3603"
+              type="Folder">16</container>
+            </did>
+            <odd id="aspace_ce923cc28f061a4d96f81738ae748c87">
+              <head>Image Number</head>
+              <p>J-248</p>
+            </odd>
+            <odd id="aspace_dfa2462ddc51bb5e6d557ab3a7f131f7">
+              <head>Caption</head>
+              <p>Sunlight and shadows. Sun and shade add to the charm of the picturesque California winery, and also play important
+              parts in the production of California's delicious wines. Sun gives the warmth for growth of the vines, and gives the
+              grapes essential vitamins; shade, the cool shade of the cellars, aids in the aging of California wine.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_01c18bd9ffb84a5b78eceddb07a54b53" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="1942-04/1942-04">April 1942</unitdate>
+              <container id="aspace_a89472b9431dcf7beab0d03d70ef22e1" label="box" type="Box">196</container>
+              <container id="aspace_a36d468c45824ea5975cd5ebb4f4d626" parent="aspace_a89472b9431dcf7beab0d03d70ef22e1"
+              type="Folder">17</container>
+            </did>
+            <odd id="aspace_b9779e9d5f586a193263bf869757c06a">
+              <head>Image Number</head>
+              <p>J-249</p>
+            </odd>
+            <odd id="aspace_73c438335e570115ff390df5c42c654e">
+              <head>Caption</head>
+              <p>Inside this handsome old California winery, select varieties of grapes undergo Nature's magic transformation into
+              delicious wines, aided by the inherited skill of expert winemakers. California has over 300 wineries, and the fame of
+              their wines is worldwide.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_fbda20ab58969aa87af89ba24a3dda25" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="1946-05/1946-05">May 1946</unitdate>
+              <container id="aspace_48ca1819f5c53dc07e675e33afd4f088" label="box" type="Box">196</container>
+              <container id="aspace_6b613dd3fc919044f9de612b65352652" parent="aspace_48ca1819f5c53dc07e675e33afd4f088"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_3bb3e64980dec1095dd22188698a2bc3">
+              <head>Image Number</head>
+              <p>J-250</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_411e6c9e0281e36d8c4fe1589dfb13de" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_55796a657e985c077a9e2ae248f36d34" label="box" type="Box">197</container>
+              <container id="aspace_0beab9c8971ed824656fb58aaa4c336a" parent="aspace_55796a657e985c077a9e2ae248f36d34"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_f8929256231b6e011d1945618885bba8">
+              <head>Image Number</head>
+              <p>J-004-1c</p>
+            </odd>
+            <odd id="aspace_b73e6f6bdd9572fd76b9e4aaa8665bb3">
+              <head>Caption</head>
+              <p>A worker inspects the verdant vineyards which sprawl for acres around the northern California winery in the
+              background\u2026</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ac1f00ac6c41b1f581b6af2de4c201c6" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_3da0b5a7d13aaefe87957c4838310c65" label="box" type="Box">197</container>
+              <container id="aspace_7368d44532e14220a7524bf9bbb02727" parent="aspace_3da0b5a7d13aaefe87957c4838310c65"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_456cf3083919702bd8b4aee3541d5b8d">
+              <head>Image Number</head>
+              <p>J-004-2c</p>
+            </odd>
+            <odd id="aspace_b830f15e3691e8c54107aeb1093df910">
+              <head>Caption</head>
+              <p>Inglenook. Workers and truck in front of the old vine-covered winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_ae5f6b2af6f0192eb35bf8a30d1df6ae" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_82eaa679f26ffd4acfbe0b8dd2360cef" label="box" type="Box">197</container>
+              <container id="aspace_e89a83f675ef3207036e2820252b105c" parent="aspace_82eaa679f26ffd4acfbe0b8dd2360cef"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_dc8c320a0b7fdc61312f3ca0965eaeac">
+              <head>Image Number</head>
+              <p>J-004-4c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8379e181ccb5e74f32d2eedbd9cb9d1b" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Co., Rutherford, Calif.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_262b71b5ddc6f0edf67be653be53b111" label="box" type="Box">197</container>
+              <container id="aspace_b02bfa8be83d8fd118ed9191d84b4339" parent="aspace_262b71b5ddc6f0edf67be653be53b111"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_e8ea6db4ee961a5dc4a73bb4b07733e9">
+              <head>Image Number</head>
+              <p>J-004c</p>
+            </odd>
+            <odd id="aspace_ef527c48045d4abc51f95f505c4be08b">
+              <head>Caption</head>
+              <p>A California winery</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8d312a18c7762eca29d58b6f66f23f85" level="file">
+            <did>
+              <unittitle>Inglenook Vineyard Company, Rutherford, California</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1958-06/1958-06">June 1958</unitdate>
+              <container id="aspace_5cca01806d2d8f1435e7637e64341d6d" label="box" type="Box">197</container>
+              <container id="aspace_8f11d07aaeb2027fc1e9a2898fad8f5c" parent="aspace_5cca01806d2d8f1435e7637e64341d6d"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_bc42290f1a4b8c69190b8683d5a56e4e">
+              <head>Image Number</head>
+              <p>J-004-3c</p>
+            </odd>
+            <odd id="aspace_cc3fd8f736be2fcb4adc243e2b310d18">
+              <head>Caption</head>
+              <p>Visitors sampling grapes in front of the ivy-covered Inglenook winery. Inglenook Vineyard Company, Rutherford,
+              California.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4ba2c3818cefece7520a8b233c37c7db" level="file">
+            <did>
+              <unittitle>Inglenook?, Napa Valley</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Yavno, Max</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_82df3addb501ecfa10326dab6aff4c42" label="box" type="Box">194</container>
+              <container id="aspace_553d31f8eef22cf74f202f22cc20a887" parent="aspace_82df3addb501ecfa10326dab6aff4c42"
+              type="Folder">42</container>
+            </did>
+            <odd id="aspace_018f7a8b2f2c09f3f411af4cbeb38249">
+              <head>Image Number</head>
+              <p>J-015</p>
+            </odd>
+            <odd id="aspace_7852125209d6e76dc7b9a3af0dc9453d">
+              <head>Caption</head>
+              <p>This picturesque Napa Valley winery is one of the many open to visitors along California's wine trail.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e8d1ab36c9bae866c1da2deda07f05cd" level="file">
+            <did>
+              <unittitle>Italian Swiss Colony Winery?</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_7e14af1894e4b7bb6fc83bfb74ad2e85" label="box" type="Box">195</container>
+              <container id="aspace_1a0fab027205ed4b9a3759fdfbef9f3d" parent="aspace_7e14af1894e4b7bb6fc83bfb74ad2e85"
+              type="Folder">36</container>
+            </did>
+            <odd id="aspace_54a57a23141607b3208e44f6502cca11">
+              <head>Image Number</head>
+              <p>J-153</p>
+            </odd>
+            <odd id="aspace_a451ccd73587f874157af6e0d1e98ff7">
+              <head>Caption</head>
+              <p>This quaint chalet is the visitor's center for a famous California winery located in California's north coast
+              region. This winery is such a popular tourist attraction that it has its own post office to handle the many postcards
+              sent home by thousands of happy visitors each year.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_68e7a7301cdb5119054ec8ad23287796" level="file">
+            <did>
+              <unittitle>Italian Swiss Colony, Asti</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Donnelly, James</persname>
+              </origination>
+              <unitdate normal="1948-05/1948-05">May 1948</unitdate>
+              <container id="aspace_cc087059acc0c30b4613eff225b06abe" label="box" type="Box">196</container>
+              <container id="aspace_3d63a144ebd8fc516b8558f6344a4453" parent="aspace_cc087059acc0c30b4613eff225b06abe"
+              type="Folder">31</container>
+            </did>
+            <odd id="aspace_154321f81ec84c9dc0d9e89dbadd74d4">
+              <head>Image Number</head>
+              <p>J-745</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_8343acbcfe8613268fdf38f425a0ff66" level="file">
+            <did>
+              <unittitle>Korbel</unittitle>
+              <unitdate normal="1964/1964">Fall 1964</unitdate>
+              <container id="aspace_1e54d9266e5fb5bcb23ea443e3ab0738" label="box" type="Box">195</container>
+              <container id="aspace_1fb09627cbcf044a60eb1c042c18ea1f" parent="aspace_1e54d9266e5fb5bcb23ea443e3ab0738"
+              type="Folder">5</container>
+            </did>
+            <odd id="aspace_0c7a933be05f433fcc0739b55b98f894">
+              <head>Image Number</head>
+              <p>J-030-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_2660547e7f82a3c9e50adce4ac4c0c65" level="file">
+            <did>
+              <unittitle>Korbel</unittitle>
+              <unitdate normal="1941/1941">1941</unitdate>
+              <container id="aspace_14da97b8b6eaec88364a76ed09431c5c" label="box" type="Box">195</container>
+              <container id="aspace_1ad5aade00f95be0d37fa87b42f19920" parent="aspace_14da97b8b6eaec88364a76ed09431c5c"
+              type="Folder">8</container>
+            </did>
+            <odd id="aspace_f06887315d5a239d0c14153cc0f8d4cf">
+              <head>Image Number</head>
+              <p>J-032</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_944acab73018bbd1dc981513b7dd2b40" level="file">
+            <did>
+              <unittitle>Korbel - F. Korbel &amp; Bros.</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_b88c9a9c5eb5f329b23b3e25c12e968d" label="box" type="Box">195</container>
+              <container id="aspace_84a22962df7e17ee84010cfdd9c32651" parent="aspace_b88c9a9c5eb5f329b23b3e25c12e968d"
+              type="Folder">6</container>
+            </did>
+            <odd id="aspace_5c5e105e4d39764b9ac66cb226655c38">
+              <head>Image Number</head>
+              <p>J-031</p>
+            </odd>
+            <odd id="aspace_af2b41e8387f4053e0a4e47191dd16da">
+              <head>Caption</head>
+              <p>Vines without, vines within. Like many other California wineries, this one is vine-covered, old, and picturesque.
+              Old California wineries are usually run by old California winemaking families. Traditional lore handed down combine
+              swith modern scientific technique to insure the high quality of California wines.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_59a38a0e477d791f82a9c1c5ba51dea7" level="file">
+            <did>
+              <unittitle>Korbel Champagne Cellars</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Moon, John</persname>
+              </origination>
+              <unitdate normal="1957/1957">1957</unitdate>
+              <container id="aspace_8785a8e392bd1ac3a6d3f1f3c85b1ba7" label="box" type="Box">195</container>
+              <container id="aspace_0e0e097f3eb90945fa6b150a98586bef" parent="aspace_8785a8e392bd1ac3a6d3f1f3c85b1ba7"
+              type="Folder">7</container>
+            </did>
+            <odd id="aspace_5f725a9dcf99756a6e6bfe067f0f523c">
+              <head>Image Number</head>
+              <p>J-031-1</p>
+            </odd>
+            <odd id="aspace_664003e0e71a86a605db601a206fa8f7">
+              <head>Caption</head>
+              <p>Within these ivy-covered brick walls California Champagne is made. This winery is on the Russian River in Sonoma
+              County, a few miles east of Guerneville, California. In the background is a castle-like portion of the winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9cfb75de32fe76c7514d447096ad5d00" level="file">
+            <did>
+              <unittitle>Korbel Winery, Sonoma</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Donnelly, James</persname>
+              </origination>
+              <unitdate normal="1947-07/1947-07">July 1947</unitdate>
+              <container id="aspace_e1a73395cb07dec89990c0bc6d802edf" label="box" type="Box">195</container>
+              <container id="aspace_902bf16df1752a0bd7bc01d3e85e5bf1" parent="aspace_e1a73395cb07dec89990c0bc6d802edf"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_97012412273ed09aaadcaa061dff2e56">
+              <head>Image Number</head>
+              <p>J-150</p>
+            </odd>
+            <odd id="aspace_d5c0af54ce0a9859c256c17fcb9223f5">
+              <head>Caption</head>
+              <p>This old brick tower reminiscent of old world architecture, is one of the interesting sights that greet visitors
+              to the wineries and vineyards of California.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4ec301b97c7f076d96090bb59f6a6bd3" level="file">
+            <did>
+              <unittitle>Korbel Winery, Sonoma</unittitle>
+              <unitdate normal="1963-09/1963-09">September 1963</unitdate>
+              <container id="aspace_df72c4f42d2e551837145fa0e30ee5ca" label="box" type="Box">195</container>
+              <container id="aspace_3c66a3cd1f0233f0cbae6cff848438b2" parent="aspace_df72c4f42d2e551837145fa0e30ee5ca"
+              type="Folder">34</container>
+            </did>
+            <odd id="aspace_8f907f4f3013c0828687f46e74e4794d">
+              <head>Image Number</head>
+              <p>J-151</p>
+            </odd>
+            <odd id="aspace_92ae7d61fb4f222d803b66a9131aa067">
+              <head>Caption</head>
+              <p>A picturesque medieval-style California winery, home of wines enjoyed throughout the country.</p>
+            </odd>
+            <scopecontent id="aspace_204d3593bb185725188fb2ba58017ada">
+              <head>Scope and Contents</head>
+              <p>National Wine Queen Marilyn Lockway standing by wall</p>
+            </scopecontent>
+          </c03>
+          <c03 id="aspace_19728545d9c4c7b32e2b5e319b78deb7" level="file">
+            <did>
+              <unittitle>Korbel Winery, Sonoma</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Randall, Hal</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_e5aa11174ba4f14facf8b89af476cd37" label="box" type="Box">195</container>
+              <container id="aspace_e9ef4056833482993bffa18ce55e3411" parent="aspace_e5aa11174ba4f14facf8b89af476cd37"
+              type="Folder">35</container>
+            </did>
+            <odd id="aspace_5007303c79d2a8162b29d073e896f512">
+              <head>Image Number</head>
+              <p>J-152</p>
+            </odd>
+            <odd id="aspace_c2061ac059b005f495e2f38dcd0745ff">
+              <head>Caption</head>
+              <p>This historic California winery dates from the late 1800s. The stone tower reflects the Russian influence
+              prevalent in California's North Coast counties during the last century.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c85afa95425ac6e74a6db10477dbdfcc" level="file">
+            <did>
+              <unittitle>Larkmead Winery, St. Helena</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_05a6e963409a6390dd574af39b0bfcb6" label="box" type="Box">194</container>
+              <container id="aspace_27f58f2c34c08f81b9667b2942448b75" parent="aspace_05a6e963409a6390dd574af39b0bfcb6"
+              type="Folder">44</container>
+            </did>
+            <odd id="aspace_89826b4cfbb9004da34d69e4ad394823">
+              <head>Image Number</head>
+              <p>J-020</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e3f801d4fd2aa99d1faf8e1e402cfb65" level="file">
+            <did>
+              <unittitle>Lone Hill Vineyards</unittitle>
+              <unitdate normal="1958-05/1958-05">May 1958</unitdate>
+              <container id="aspace_ac0e32528a8940e031a7b34d1581750c" label="box" type="Box">195</container>
+              <container id="aspace_63a7d7f0646b8379d534ac20cdbb5c03" parent="aspace_ac0e32528a8940e031a7b34d1581750c"
+              type="Folder">18</container>
+            </did>
+            <odd id="aspace_b2d1322ded96a3914da98fd531fe6d27">
+              <head>Image Number</head>
+              <p>J-038-6</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_34f504b0e27ddcb76ffc13c12c8f3ae4" level="file">
+            <did>
+              <unittitle>Mission Bell</unittitle>
+              <unitdate normal="1948/1948">1948</unitdate>
+              <container id="aspace_4bb175a6e53cd2fcc1a1e421eabf78f7" label="box" type="Box">195</container>
+              <container id="aspace_27a2a3be3f78fd0e295a02e4bd212531" parent="aspace_4bb175a6e53cd2fcc1a1e421eabf78f7"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_784ffe22812df93c4a8d482f88ca747a">
+              <head>Image Number</head>
+              <p>J-041</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4f54edb517fdc3d1323f843d78613330" level="file">
+            <did>
+              <unittitle>Mont La Salle, Christian Bros., Napa County</unittitle>
+              <unitdate normal="1961/1961">Fall 1961</unitdate>
+              <container id="aspace_b5a066d16d8a086847ab5673a7b304aa" label="box" type="Box">197</container>
+              <container id="aspace_a7962b11fee05b4e898b7bfa4dcaa235" parent="aspace_b5a066d16d8a086847ab5673a7b304aa"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_0200707f07b1fce3f10605f485943b38">
+              <head>Image Number</head>
+              <p>J-006-2c</p>
+            </odd>
+            <odd id="aspace_dec5c6a72d40f5a17ad955a0cf3805df">
+              <head>Caption</head>
+              <p>Mont La Salle. A winery is framed between flourishing vines in this California vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3094918c5b1819b28cbdd48fc7322504" level="file">
+            <did>
+              <unittitle>Mont La Salle, Napa</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1956/1956">Fall 1956</unitdate>
+              <container id="aspace_281ce3f461177c82b9c0f98ee2250114" label="box" type="Box">196</container>
+              <container id="aspace_1a53415654bcc435afaba51cca5af355" parent="aspace_281ce3f461177c82b9c0f98ee2250114"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_6956fa74b066e3555d9ea7cb6306696c">
+              <head>Image Number</head>
+              <p>J-216</p>
+            </odd>
+            <odd id="aspace_2e5d242b396bed38d4f7582ab75f1296">
+              <head>Caption</head>
+              <p>The centuries old traditions of winemaking are carried on in this picturesque California winery. Thriving
+              vineyards surround the winery providing the grapes for the excellent wines which are crushed and aged in the winery
+              building. - The Novitiate graces the Napa Valley hillside in the midst of the Brothers' vineyards. Hidden in the
+              clump of trees beyond the Novitiate is the winery where the centuries old wine making tradition of the Brothers'
+              religious order is carried on. [NOTE: Second caption found on one photo.]</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_98501c908ddecec43198e817523b3f40" level="file">
+            <did>
+              <unittitle>Mont La Salle, Napa</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1956/1956">Fall 1956</unitdate>
+              <container id="aspace_40f4d682174d2605a4f1229a333afce7" label="box" type="Box">196</container>
+              <container id="aspace_c11b45f6a394c4a94a036332095c1c78" parent="aspace_40f4d682174d2605a4f1229a333afce7"
+              type="Folder">11</container>
+            </did>
+            <odd id="aspace_050e786a774d9caddfe4f64e54839eda">
+              <head>Image Number</head>
+              <p>J-217</p>
+            </odd>
+            <odd id="aspace_108414f6265d1a018daceb7963ac5a75">
+              <head>Caption</head>
+              <p>The spire of the chapel of this monastery rises above the grapevines.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_019181f84510d3721576090d4c58364e" level="file">
+            <did>
+              <unittitle>Mont La Salle, Napa</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ec7b0d4fb3797c84f9dd8b2784e79c75" label="box" type="Box">196</container>
+              <container id="aspace_ad4ff93a87ba93de7cce1d89ae73d81b" parent="aspace_ec7b0d4fb3797c84f9dd8b2784e79c75"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_8a1e26202b776479a9c3586b3bcbec96">
+              <head>Image Number</head>
+              <p>J-218</p>
+            </odd>
+            <odd id="aspace_46f836343f49428b5e5dd9b73b1870f8">
+              <head>Caption</head>
+              <p>History repeating itself. This new vineyard planted at a wine-growing monastery (note church school in background)
+              suggests the year 1769, when at Mission San Diego the Franciscans of Father Junipero Serra planted the first
+              California vineyard, from which has grown the present California wine industry. California wines are noted for their
+              deliciousness.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bb260a050fa8c3141332a5c60f0e31aa" level="file">
+            <did>
+              <unittitle>Mont La Salle, Napa</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_3f95fa29d5ca8f7d60030006f0c96739" label="box" type="Box">197</container>
+              <container id="aspace_f29968766c6e61331858a73f020ee88f" parent="aspace_3f95fa29d5ca8f7d60030006f0c96739"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_c942cd7a3971473b69587bde1c599130">
+              <head>Image Number</head>
+              <p>J-006c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_224a92634a9206037b5dda172880680d" level="file">
+            <did>
+              <unittitle>Mont La Salle, Napa</unittitle>
+              <unitdate normal="1961/1961">Fall 1961</unitdate>
+              <container id="aspace_16a9b05fb6845d85ac9e657e58f4b8c7" label="box" type="Box">197</container>
+              <container id="aspace_ad8835ff26a680fa1f036493782b96f4" parent="aspace_16a9b05fb6845d85ac9e657e58f4b8c7"
+              type="Folder">12</container>
+            </did>
+            <odd id="aspace_84acc5db1eeb435f8a836645be547232">
+              <head>Image Number</head>
+              <p>J-006-3c</p>
+            </odd>
+            <odd id="aspace_061f46c03a816cd3363565180bafd4ac">
+              <head>Caption</head>
+              <p>Mont La Salle. Members of the Christian Brothers examine freshly picked grapes in the archway of their Napa
+              winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_bb0634fb2badf9f4e73d673981d522d7" level="file">
+            <did>
+              <unittitle>Mont LaSalle</unittitle>
+              <unitdate normal="1957/1957">1957</unitdate>
+              <container id="aspace_3ac9c59e89b8ef9d7531af7690e63be7" label="box" type="Box">195</container>
+              <container id="aspace_a80e9e5b2e16a68ef9a71d81ee1ea8cd" parent="aspace_3ac9c59e89b8ef9d7531af7690e63be7"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_d452158f871591c72f11e5ad7fea06a5">
+              <head>Image Number</head>
+              <p>J-027</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_91250807f3a7de1014c10580f4049791" level="file">
+            <did>
+              <unittitle>Napa Valley</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1956/1956">Fall 1956</unitdate>
+              <container id="aspace_4444caffa12aba3a74f38b077c816a66" label="box" type="Box">196</container>
+              <container id="aspace_0c36931a98963322883e0c91563bd233" parent="aspace_4444caffa12aba3a74f38b077c816a66"
+              type="Folder">2</container>
+            </did>
+            <odd id="aspace_c48b1eb553af7267335816cdc8e69900">
+              <head>Image Number</head>
+              <p>J-208</p>
+            </odd>
+            <odd id="aspace_20c8aa0135dbd183394b6030d96d872e">
+              <head>Caption</head>
+              <p>A picturesque winery in the heart of California's wine country.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f81fda07ff8f170093cf064579246d3f" level="file">
+            <did>
+              <unittitle>Novitiate of Los Gatos</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Yavno, Max</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_462d35de11ae02dd30fc402c25f13dc9" label="box" type="Box">196</container>
+              <container id="aspace_a057a556a0267a75d8f0a38c7faf1abb" parent="aspace_462d35de11ae02dd30fc402c25f13dc9"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_792e6222e30775da68814ff4dbb46a0c">
+              <head>Image Number</head>
+              <p>J-460</p>
+            </odd>
+            <odd id="aspace_e5135783302e8dd27a8d2f307df52b34">
+              <head>Caption</head>
+              <p>A winery surrounded by vine-clad hills in California's famous wine country.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6f6488f0281da4d6ac104a9c2b0fc560" level="file">
+            <did>
+              <unittitle>Padre Vineyard Co., Cucamonga</unittitle>
+              <unitdate normal="1949/1949">1949</unitdate>
+              <container id="aspace_a82e64a27423565fb02b3077c33ad210" label="box" type="Box">195</container>
+              <container id="aspace_26977b380661a4336be43a48ff107f8c" parent="aspace_a82e64a27423565fb02b3077c33ad210"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_3ffc6f14f89d203cd28606dbbd7ed112">
+              <head>Image Number</head>
+              <p>J-048</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_929bf7873a03b7867278a02cbe56e6a7" level="file">
+            <did>
+              <unittitle>Padre Vineyard Co., Cucamonga</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_45465735acdef585546e3c6c58b2bc4b" label="box" type="Box">195</container>
+              <container id="aspace_e0ce81b9de6dcd6d4368a230ed9dd252" parent="aspace_45465735acdef585546e3c6c58b2bc4b"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_daf77941c9f228e3ba92d46e25925ee7">
+              <head>Image Number</head>
+              <p>J-048-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_e1bf438ec56bfa6cd17f745c712f991f" level="file">
+            <did>
+              <unittitle>Paul Masson</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="1958/1958">1958</unitdate>
+              <container id="aspace_fdad92a1f6488572f2220886b99da7cc" label="box" type="Box">195</container>
+              <container id="aspace_514385ddc07b81381520b0355fcb0079" parent="aspace_fdad92a1f6488572f2220886b99da7cc"
+              type="Folder">13</container>
+            </did>
+            <odd id="aspace_31c7aaf0ef1b19506793f46a18906285">
+              <head>Image Number</head>
+              <p>J-038-1</p>
+            </odd>
+            <odd id="aspace_cb407f2e7aa16d18aa789c5af46a70aa">
+              <head>Caption</head>
+              <p>A sturdy stone winery houses the aging cellars of one of California's historic wineries. - Large oaken doors and
+              ivy-covered stone walls protect the wine cellars of one of California's historic wineries. On the horizon, a
+              horse-drawn plow works the vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d904def4d0ff2904ccdf6bbc5b700a24" level="file">
+            <did>
+              <unittitle>Paul Masson</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Munroe, Joe</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_092b31e13081520b3435dc046469e52c" label="box" type="Box">195</container>
+              <container id="aspace_8c1bc3f739f36577905c5724b96c8a13" parent="aspace_092b31e13081520b3435dc046469e52c"
+              type="Folder">14</container>
+            </did>
+            <odd id="aspace_3f58034d24e7ff3b0af68e1a7c3e3b12">
+              <head>Image Number</head>
+              <p>J-038-2</p>
+            </odd>
+            <odd id="aspace_8490b5430048492a61f0fec6ab61c981">
+              <head>Caption</head>
+              <p>Large oaken doors and ivy-covered stone walls protect the wine cellars of one of California's historic wineries.
+              On the horizon, a horse-drawn plow works the vineyard. [NOTE: The way the picture is cropped, the horizon with the
+              horse-drawn plow is not visible. See J-038-1, D-242, 195:13 if you are interested in the horse-drawn plow shot.]</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6cb78cc1890680f38b6faee4199bfa4d" level="file">
+            <did>
+              <unittitle>Paul Masson</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_85d3ff4587d603021846d184cdc81402" label="box" type="Box">197</container>
+              <container id="aspace_b0ed8b3315d7a9bb2dd1592de2291228" parent="aspace_85d3ff4587d603021846d184cdc81402"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_d28d62f7c7b9620965f12dfb6dc3a9d4">
+              <head>Image Number</head>
+              <p>J-005c</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_082080aac21ae20665bbcf2cffb6b06d" level="file">
+            <did>
+              <unittitle>Paul Masson Vineyard, Saratoga</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1959/1959">1959</unitdate>
+              <container id="aspace_7de9d6424f374353c98d80292f3a3e6c" label="box" type="Box">196</container>
+              <container id="aspace_6fe0de02c277b5822df2fd3b31132e75" parent="aspace_7de9d6424f374353c98d80292f3a3e6c"
+              type="Folder">24</container>
+            </did>
+            <odd id="aspace_297d4c3bc6e32e94db43c22a702ea562">
+              <head>Image Number</head>
+              <p>J-445</p>
+            </odd>
+            <odd id="aspace_f38cc957c214abe3172e2fa1fa4ca78a">
+              <head>Caption</head>
+              <p>A modern California winery combines an architect's imagination with needed facilities for increased
+              production.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_6e0ce4dc011f58666e15d66bdb5c55fb" level="file">
+            <did>
+              <unittitle>Paul Masson Vineyard, Saratoga</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Knight, George</persname>
+              </origination>
+              <unitdate normal="1959-06/1959-06">June 1959</unitdate>
+              <container id="aspace_bb2e3ce34f8e0f5cebdf7c636769df0b" label="box" type="Box">196</container>
+              <container id="aspace_bde1fa636fb1f99ea2e89f11fdd8c519" parent="aspace_bb2e3ce34f8e0f5cebdf7c636769df0b"
+              type="Folder">25</container>
+            </did>
+            <odd id="aspace_c41cb56e88e5cfb004a8d6ccaed4bb89">
+              <head>Image Number</head>
+              <p>J-446</p>
+            </odd>
+            <odd id="aspace_678d9b5bdb3c1bc6cc205b3535b62eba">
+              <head>Caption</head>
+              <p>A modern California winery combines an architect's imagination with needed facilities for increased
+              production.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_f3e52b9ea51e2be3912a51d174ae667b" level="file">
+            <did>
+              <unittitle>Regina Winery, Rancho Cucamonga</unittitle>
+              <unitdate normal="1960/1960">1960</unitdate>
+              <container id="aspace_7b3bb16870ecb07e0cc8207c29d1c00d" label="box" type="Box">195</container>
+              <container id="aspace_ab47315a40558a3abd3027991488559c" parent="aspace_7b3bb16870ecb07e0cc8207c29d1c00d"
+              type="Folder">28</container>
+            </did>
+            <odd id="aspace_a12b13939c2526438e23f25ed4e8c4a9">
+              <head>Image Number</head>
+              <p>J-053</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_75eec2fb94491f588f200912822b056a" level="file">
+            <did>
+              <unittitle>Robert C. Mondavi Winery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_63bf4ed26f9f03cbc79b24d930601bb6" label="box" type="Box">197</container>
+              <container id="aspace_94dc31df4c3c95064c30a01ec5ba6957" parent="aspace_63bf4ed26f9f03cbc79b24d930601bb6"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_bacf10b77284a78cafb31612ea9f44b3">
+              <head>Image Number</head>
+              <p>J-021-Ac</p>
+            </odd>
+            <odd id="aspace_86e73822a1de0997b052968e2c7eadda">
+              <head>Caption</head>
+              <p>Robert C. Mondavi Winery, a new modern winery in California's Napa Valley.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_219c1e0f90fca6c6159a8a4846a712ce" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_d042858abb4354d77cbb47379ec7ed47" label="box" type="Box">196</container>
+              <container id="aspace_03e07d84ac0b1a97d25f8b4343dc2d63" parent="aspace_d042858abb4354d77cbb47379ec7ed47"
+              type="Folder">3</container>
+            </did>
+            <odd id="aspace_61e1bda3a9e5226ce225d2a7339b309d">
+              <head>Image Number</head>
+              <p>J-209</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_3b40012a96d2af0ffefd4f0cde21ea20" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_65ec30999539ecb0c40a516a1ded7fb2" label="box" type="Box">196</container>
+              <container id="aspace_c4cf942394cfba41c8c4ba3300ad7db9" parent="aspace_65ec30999539ecb0c40a516a1ded7fb2"
+              type="Folder">21</container>
+            </did>
+            <odd id="aspace_b1a137920341b458f6e63d1e09bbb924">
+              <head>Image Number</head>
+              <p>J-260</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_16fdb595249f033cbd2fe22f7d68504e" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_f5302d730e4116c05096321a23b391b7" label="box" type="Box">196</container>
+              <container id="aspace_7506ad3a6e07494a21e0115572276aac" parent="aspace_f5302d730e4116c05096321a23b391b7"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_c1a97e428d16e1402fa229c213bd5fd2">
+              <head>Image Number</head>
+              <p>J-261</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_0933464c20e417f68025581d87e14d2a" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c9ba8a670735af22fdf899464bbc674d" label="box" type="Box">196</container>
+              <container id="aspace_d1d8d8a9781b23202980ebaf47eaa85f" parent="aspace_c9ba8a670735af22fdf899464bbc674d"
+              type="Folder">29</container>
+            </did>
+            <odd id="aspace_329fc248065ed734370b25de603ed415">
+              <head>Image Number</head>
+              <p>J-602</p>
+            </odd>
+            <odd id="aspace_0e42ff01dada90e681475b705f32b7ce">
+              <head>Caption</head>
+              <p>A group of tourists gets ready to depart from a modern California winery aboard a chartered bus after observing
+              modern wine technology at work inside. Before leaving, they have had a chance to taste some high quality California
+              wine, the product of the State's advanced wine technology and strict quality control procedures.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_9744c2a8f80ad19971135a37749e2fce" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Bartruff, Dave</persname>
+              </origination>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_2dbca57663dc8e4b9c7d7c2a95ee9974" label="box" type="Box">196</container>
+              <container id="aspace_c35d1311d5743fc628ccdd7aa6d95ada" parent="aspace_2dbca57663dc8e4b9c7d7c2a95ee9974"
+              type="Folder">39</container>
+            </did>
+            <odd id="aspace_51eab1130206b6a9f046b2f71a136587">
+              <head>Image Number</head>
+              <p>J-209-A</p>
+            </odd>
+            <odd id="aspace_d545c18caae507ba54ed95e2d104d3ae">
+              <head>Caption</head>
+              <p>A modern Mission-styled winery appears in the distance, set gracefully in a California vineyard.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_7687667448013e5f33e2aabe1da04ff7" level="file">
+            <did>
+              <unittitle>Robert Mondavi Winery</unittitle>
+              <unitdate>1971?</unitdate>
+              <container id="aspace_1319c240fbea5829c3b3577db13a257d" label="box" type="Box">197</container>
+              <container id="aspace_a626b2a081004e59514c5f90d76e8a40" parent="aspace_1319c240fbea5829c3b3577db13a257d"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_5122546112b9c20f402fdae671a6fc02">
+              <head>Image Number</head>
+              <p>J-022c</p>
+            </odd>
+            <odd id="aspace_dadc55f91af08e7a676619fd827a3342">
+              <head>Caption</head>
+              <p>Robert Mondavi Winery, a new modern winery in California's Napa Valley.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_90dcae1122a0d779ce026a2be6b6b5b9" level="file">
+            <did>
+              <unittitle>Rodney Strong</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_ea2fc5fa1f3cc35c29ccc54d81f86a6c" label="box" type="Box">195</container>
+              <container id="aspace_487a08c7f6f846546d7e6aee945d6ac8" parent="aspace_ea2fc5fa1f3cc35c29ccc54d81f86a6c"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_84f058446d078d71459ff660cd3f5474">
+              <head>Image Number</head>
+              <p>J-165</p>
+            </odd>
+            <odd id="aspace_a5375ea88eaf5af8b56b8c391c3fe6b1">
+              <head>Caption</head>
+              <p>An old winery, built into a California hillside.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_54c5ec358c06203f48005ba42b427eb6" level="file">
+            <did>
+              <unittitle>Rodney Strong</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_b464418f5f492380c564c01a56e8151a" label="box" type="Box">195</container>
+              <container id="aspace_edb6c4d45fc635fe0b52f6efc761d307" parent="aspace_b464418f5f492380c564c01a56e8151a"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_88973dc0fd8b4741bbade8fc3069f421">
+              <head>Image Number</head>
+              <p>J-185</p>
+            </odd>
+            <odd id="aspace_6688d841e110b9e3416cc1367b8ac333">
+              <head>Caption</head>
+              <p>An example of modern California winery architecture.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_d94183ee70964ada3ce593e0eda213a9" level="file">
+            <did>
+              <unittitle>Roma Wine Company, Lodi</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Donnelly, James</persname>
+              </origination>
+              <unitdate normal="1948/1948">1948</unitdate>
+              <container id="aspace_e09ae6ff8451cb98e40f08e3f21f3133" label="box" type="Box">196</container>
+              <container id="aspace_571c523cf036f0f244d8d7804bbb43ea" parent="aspace_e09ae6ff8451cb98e40f08e3f21f3133"
+              type="Folder">32</container>
+            </did>
+            <odd id="aspace_52fc4197cd9158d8e1e6062c706ef45e">
+              <head>Image Number</head>
+              <p>J-765</p>
+            </odd>
+            <odd id="aspace_9ccd0f844342ef32b4a43c20d019b374">
+              <head>Caption</head>
+              <p>Shade trees line the entrance to this California winery. Here, all types of wine but particularly the dessert
+              types, are produced under the guidance of skilled craftsmen.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_29d97400ebf0a2b09c0acd7191f3bdac" level="file">
+            <did>
+              <unittitle>Roma Wine Company, Lodi</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Donnelly, James</persname>
+              </origination>
+              <unitdate normal="1948-05/1948-05">May 1948</unitdate>
+              <container id="aspace_f312ade142245327b69b48e970b9ff1b" label="box" type="Box">196</container>
+              <container id="aspace_d4303ea1827565673156676944aa159b" parent="aspace_f312ade142245327b69b48e970b9ff1b"
+              type="Folder">33</container>
+            </did>
+            <odd id="aspace_884bafcc034a947bdee59d54df131433">
+              <head>Image Number</head>
+              <p>J-766</p>
+            </odd>
+            <odd id="aspace_18388d3b2a18e51339974b0333554827">
+              <head>Caption</head>
+              <p>Over the years, a cloak of green ivy has virtually covered this storage building at a California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_434bd5cc87c028b8c666074e30a79953" level="file">
+            <did>
+              <unittitle>Roma?</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_592b28e87f05f2a7270d7e78fb50348a" label="box" type="Box">195</container>
+              <container id="aspace_c4225aefaf340ab93f647428b493bc51" parent="aspace_592b28e87f05f2a7270d7e78fb50348a"
+              type="Folder">22</container>
+            </did>
+            <odd id="aspace_b11a954f8880e277ac4bdd17dda69d2e">
+              <head>Image Number</head>
+              <p>J-046-2</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_94459dde9675fbd2841fbf1608a31304" level="file">
+            <did>
+              <unittitle>Ruby Hill (Near Pleasanton)</unittitle>
+              <unitdate normal="1941-04/1941-04">April 1941</unitdate>
+              <container id="aspace_1ca334f4b78e3084f87f1e3ee94cc5a2" label="box" type="Box">195</container>
+              <container id="aspace_806218e56389927893f275695df51aad" parent="aspace_1ca334f4b78e3084f87f1e3ee94cc5a2"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_b247a5277b9cdeed2fbc0c493369db67">
+              <head>Image Number</head>
+              <p>J-034</p>
+            </odd>
+            <odd id="aspace_6c9791a78d6cb78bcacb91fe31368ca0">
+              <head>Caption</head>
+              <p>A winery near Pleasanton, California.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_09db736e14a83f9a3341ab74d06694b9" level="file">
+            <did>
+              <unittitle>Sebastiani Winery - SS Wines - Samuele Sebastiani</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Moon, John</persname>
+              </origination>
+              <unitdate normal="1957/1957">1957</unitdate>
+              <container id="aspace_4a8671dbca8de482cd87ec4800eeaa01" label="box" type="Box">195</container>
+              <container id="aspace_633a3e19634e9b3913a8e32a3e13987d" parent="aspace_4a8671dbca8de482cd87ec4800eeaa01"
+              type="Folder">4</container>
+            </did>
+            <odd id="aspace_b957eb063c92cc9765adbbc2e78dd83a">
+              <head>Image Number</head>
+              <p>J-030-1</p>
+            </odd>
+            <odd id="aspace_0ed7280b719a2f093f745b9cca2678a9">
+              <head>Caption</head>
+              <p>The oldest wine enterprise in the Sonoma Valley operated without interruption by a single family.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_4393f6db2b10d6dfce592aa8024dbb66" level="file">
+            <did>
+              <unittitle>Sutter Home Winery, St. Helena</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_361b0b879814452e697b2466ee86d081" label="box" type="Box">196</container>
+              <container id="aspace_6385dd7eb91cd3792d359e4c1bdf0835" parent="aspace_361b0b879814452e697b2466ee86d081"
+              type="Folder">23</container>
+            </did>
+            <odd id="aspace_b8fbbe31ea5568fd3082b5cc98133cab">
+              <head>Image Number</head>
+              <p>J-284</p>
+            </odd>
+            <odd id="aspace_54dd5c9455525a5f43fdb527000fb4cf">
+              <head>Caption</head>
+              <p>Above is a California winery which was established in 1890. This is one of the many wineries along the wine trails
+              of California that welcome visitors.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_cc336c131c2a92a2455779db34231fa2" level="file">
+            <did>
+              <unittitle>Thomas</unittitle>
+              <unitdate normal="1949/1949">1949</unitdate>
+              <container id="aspace_9d59e51b5a684f0a1d7bcaff1eec59cd" label="box" type="Box">195</container>
+              <container id="aspace_50e9d26b78cdab52235ae54160f6fc61" parent="aspace_9d59e51b5a684f0a1d7bcaff1eec59cd"
+              type="Folder">26</container>
+            </did>
+            <odd id="aspace_f354e450625b32f02273a57101b8aecc">
+              <head>Image Number</head>
+              <p>J-049</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_65b7f172e14bd8100da7394cb3225a38" level="file">
+            <did>
+              <unittitle>Thomas</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Donnelly, James</persname>
+              </origination>
+              <unitdate normal="1950/1950">1950</unitdate>
+              <container id="aspace_da1765b8af6930cea8993ca1a7043bcd" label="box" type="Box">196</container>
+              <container id="aspace_d02004355649ca5767029a0908bc0eae" parent="aspace_da1765b8af6930cea8993ca1a7043bcd"
+              type="Folder">37</container>
+            </did>
+            <odd id="aspace_45ebaa3bec00781bb4426927db22ab46">
+              <head>Image Number</head>
+              <p>J-891</p>
+            </odd>
+            <odd id="aspace_81ec438ba14f76e380302458552cbd4c">
+              <head>Caption</head>
+              <p>This historic winery in Southern California is one of the many throughout the state which welcomes thousands of
+              visitors each year.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_aa05398a2f755360253a7e8d11387543" level="file">
+            <did>
+              <unittitle>Thomas</unittitle>
+              <origination audience="internal" label="Photographer">
+                <persname rules="rda" source="local">Harvey, Bill</persname>
+              </origination>
+              <unitdate normal="1960/1960">1960</unitdate>
+              <container id="aspace_e025a3c36946b4e0ad9d13c0deb2cb0d" label="box" type="Box">196</container>
+              <container id="aspace_802fd10e2687d01b6a4706407b92da05" parent="aspace_e025a3c36946b4e0ad9d13c0deb2cb0d"
+              type="Folder">38</container>
+            </did>
+            <odd id="aspace_2572aea4c674c3d4ba25b3e57e85ff5b">
+              <head>Image Number</head>
+              <p>J-892</p>
+            </odd>
+            <odd id="aspace_e4851a3cb38eae0975643ff94bdf4d8e">
+              <head>Caption</head>
+              <p>Lush vineyards set off a famed Southern California winery.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_de4082327711301ac2f13bd8d4700faa" level="file">
+            <did>
+              <unittitle>Unidentified winery with mature vineyard</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_4f6bc6456962f6d601907bca58c83175" label="box" type="Box">196</container>
+              <container id="aspace_b485aac227fa7126922893dd04b12ebc" parent="aspace_4f6bc6456962f6d601907bca58c83175"
+              type="Folder">1</container>
+            </did>
+            <odd id="aspace_ec9fa18320ac212d46df050584dd39f4">
+              <head>Image Number</head>
+              <p>J-207</p>
+            </odd>
+            <odd id="aspace_45b5dc3f316eaf137262d9b72f0486e2">
+              <head>Caption</head>
+              <p>A California winery founded by a vintner family of German origin. Storage and aging caves extend into the hillside
+              behind this building.</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_db1033addc28973483eca41fd90897b6" level="file">
+            <did>
+              <unittitle>Wente Brothers, Livermore</unittitle>
+              <unitdate normal="1941-04/1941-04">April 1941</unitdate>
+              <container id="aspace_d51bdc6ae1900959b9cb2b52b1d576d9" label="box" type="Box">195</container>
+              <container id="aspace_910261903ef0991070bc2c4c79bd8f6d" parent="aspace_d51bdc6ae1900959b9cb2b52b1d576d9"
+              type="Folder">10</container>
+            </did>
+            <odd id="aspace_61d001bef674ed4d56ffef44d9d6f698">
+              <head>Image Number</head>
+              <p>J-035</p>
+            </odd>
+          </c03>
+          <c03 id="aspace_c185a735a948e856d4ee7766c814a604" level="file">
+            <did>
+              <unittitle>Wine growing California monastery</unittitle>
+              <unitdate normal="0000/0000">undated</unitdate>
+              <container id="aspace_c6c0b28308eaa54d3bf216245c56d071" label="box" type="Box">196</container>
+              <container id="aspace_a0184a58d333caffcc49279b393f40a6" parent="aspace_c6c0b28308eaa54d3bf216245c56d071"
+              type="Folder">9</container>
+            </did>
+            <odd id="aspace_686e19ba3035a6c781f6ae18c00d0f27">
+              <head>Image Number</head>
+              <p>J-215</p>
+            </odd>
+            <odd id="aspace_2ef910ecd493ea7a4dd91883f9f28e82">
+              <head>Caption</head>
+              <p>History repeating itself. This new planting of vines at a wine-growing California monastery (winery building in
+              background) suggests the year 1769, when at Mission San Diego the Franciscans of Father Serra planted the first
+              California vineyard, from which has grown the present California wine industry. California wines are noted for their
+              deliciousness.</p>
+            </odd>
+          </c03>
+        </c02>	
       </c01>
     </dsc>
   </archdesc>
