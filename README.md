@@ -1,7 +1,3 @@
 # Wine Institute
 
-This branch is for work on photo lists
-
-Original export from Wine Institute Access db: WIphotoDbExport.xlsx
-
-Working list: photoDbExport.xlsx
+Master branch: original Wine Institute lists, original Wine Institute photograph database (MS Access), and most current EAD finding aid.
