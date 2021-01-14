@@ -1,6 +1,6 @@
 # Wine Institute
 
-<p>Master: current finding aid as published on OAC</p>
-<p>Original files: Wine Institute lists, original Wine Institute photograph database (MS Access)</p>
-<p>Photos: work on photo portion of collection</p>
-<p>Organizational records: working box lists separated by series</p>
+<p>Organizational records - working files for administrative records of the Wine Institute</p>
+<p>Photos/Review - student work for review and integration into finding aid</p>
+<p>original lists - legacy finding aids and Access database export</p>
+<p>photos - working file and original Access database export</p> 
